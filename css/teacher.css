@@ -1,0 +1,66 @@
+.teacher{width: 100%;height: auto;padding-top: 40px; padding-bottom: 30px}
+.teacher .t-1{text-align:center;font-size: 45px;}
+.teacher .t-1>span{color: #3697d9; margin-left: -26px}
+.teacher .t-2{text-align: center;background:url(../images/bj-1.png) no-repeat center;font-size: 14px;color: #b5b5b5;text-transform:uppercase;padding-right: 22px;margin-top: 40px;}
+.teacher .con{padding: 0 115px;margin-top: 40px;}
+.teacher .main{width: 1200px;margin: 40px auto;}
+.caption h3{font-size: 20px;color: #333;line-height: 20px;margin-bottom: 20px}
+.caption p{font-size: 16px;line-height: 24px;color: #999999;margin-bottom: 10px}
+.thumbnail{height: 480px}
+.success{
+    width: 960px;
+    margin: 20px auto;
+    padding: 10px;
+    background: #ffffff;
+    min-height: 350px;
+}
+.media-left{position: relative}
+.media-left .bg{
+    position: absolute;
+    text-align: center;
+    padding: 10px;
+    bottom: 0px;
+    width: 244px;
+    line-height: 24px;
+    font-size: 24px;
+    color: #f9f9f9;
+    background: #000000;
+}
+.media-left .bg span{font-size: 16px;padding: 0 10px}
+
+.success h2{
+    color: #ffffff;
+    font-size: 24px;
+	line-height:40px
+}
+.success-font{
+    line-height: 24px;
+    font-size: 14px;
+    padding: 8px 0;
+    margin-top: 10px;
+}
+.btn-01,.btn-02,.btn-03,.btn-04,.btn-05,.btn-06{
+    width: 180px;
+    display: table;
+    text-align: center;
+    height: 40px;
+    line-height: 40px;
+}
+.btn-01{
+    background: #9acfea;
+}
+.btn-02{
+    background: #588fc1;
+}
+.btn-03{
+    background: #ea9aa8;
+}
+.btn-04{
+    background: #ef778c;
+}
+.btn-05{
+    background: #f9d38c;
+}
+.btn-06{
+    background: #e6a52b;
+}

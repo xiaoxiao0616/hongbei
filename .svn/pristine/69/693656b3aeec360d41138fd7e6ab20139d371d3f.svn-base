@@ -1,0 +1,482 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0,user-scalable=no" name="viewport" id="viewport">
+    <meta name="keywords" content="红呗,红呗官网,网红主播培训,电商运营,短视频达人"/>
+    <meta name="description" content="红呗有着一流的教学团队，对学员做到认真负责倾囊相授，以效果为导向，理论、实战内外兼修，用专业让每一位学员成为行业抢手的精英人才。"/>
+    <title>授课名师_红呗名师风采【红呗】</title>
+    <script src="js/jquery.js"></script>
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link href="http://cdn.bootcss.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/css.css">
+
+	<link rel="stylesheet" href="images/base.css">
+	<link rel="stylesheet" href="images/index.css">
+    <link rel="stylesheet" href="css/style.css">
+    <script src="js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="css/swiper.min.css">
+    <script src="js/swiper.min.js"></script>
+    <style>
+        .nav-pills>li{
+            width: 25%;
+            text-align: center;
+        }
+        .nav-pills>li+li {
+            margin-left: 0px !important;
+        }
+        .nav-pills>li>a {
+            border-radius: 4px;
+            font-size: 14px;
+            width: 100%;
+        }
+        a {
+            color: #ffffff;
+            text-decoration: none;
+        }
+        a:focus,a:hover{
+            border-radius: 0px !important;
+            color: #ffffff;
+            background-color: #578df3 !important;
+        }
+        .nav .open>a, .nav .open>a:focus, .nav .open>a:hover {
+            border-radius: 0px;
+            color: #ffffff;
+            background-color: #578df3;
+        }
+        .dropdown-menu {
+            min-width: auto !important;
+            position: absolute;
+            color: #b2c9fb;
+            top: 100%;
+            left: 0;
+            z-index: 1000;
+            display: none;
+            float: left;
+            padding: 5px 0;
+            margin: 2px 0 0;
+            font-size: 14px;
+            text-align: left;
+            list-style: none;
+            background:#42619e;
+            -webkit-background-clip: padding-box;
+            background-clip: padding-box;
+            -webkit-box-shadow: 0 6px 12px rgba(0,0,0,.175);
+        }
+        .dropdown-menu>li>a {
+            display: block;
+            clear: both;
+            font-weight: 400;
+            line-height: 1.42857143;
+            color: #ffffff;
+            white-space: nowrap;
+        }
+        .active{
+            border-radius: 0px;
+            color: #ffffff;
+            background-color: #578df3;
+        }
+
+        .caption p{
+            margin-top: 10px;
+            color: #333;
+            font-size: 14px;
+            line-height: 20px;
+        }
+
+        .shizhi_main p{
+            color: #000000;
+            font-size: 14px;
+        }
+        .media-body p{
+            font-size: 12px;
+            line-height: 20px;
+            color: #0c0c0c;
+        }
+        .media-body, .media-left{
+            vertical-align: middle;
+        }
+        .active{
+            border-radius: 0px !important;
+            color: #ffffff;
+            background-color: #337ab7;
+        }
+        .caption h3{
+            font-weight: 600;
+            font-size: 18px;
+            text-align: center;
+        }
+        .thumbnail{
+            margin-bottom: 10px !important;
+        }
+        .media-heading {
+            font-size: 16px;
+            font-weight: 600;
+        }
+        .caption h4{
+            text-align: center;
+            margin-top: 2px;
+            font-weight: 600;
+        }
+
+    </style>
+</head>
+	<body>
+	    <div class="ban"><img src="images/header.jpg" /></div>
+<!-- 导航-->
+        <div class="nav">
+            <ul class="nav nav-pills">
+                <li role="presentation active"><a href="/">首页</a></li>
+                <li role="presentation"><a href="jiuye.html">就业模式</a></li>
+                <li role="presentation"><a href="qiye.html">企业展示</a></li>
+                <li role="presentation" class="dropdown">
+                    <a class="dropdown-toggle  active" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
+                       更多<span class="caret"></span>
+                    </a>
+                    <ul class="dropdown-menu">
+                        <li><a href="ds/index.html">新电商运营</a></li>
+                        <li><a href="wh/index.html">网红主播</a></li>
+                        <li><a href="sort/index.html">短视频达人</a></li>
+                        <li><a href="teacher.html">授课名师</a></li>
+                        <li><a href="success.html">成功案例</a></li>
+                        <li><a href="http://www.51hongbei.cn/hongbeixinwen/" target="_blank">红呗资讯</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+
+<!--  banner -->
+        <div class="banner mwidth">
+            <div class="swiper-wrapper">
+                <div class="swiper-slide"><img src="images/tea-banner.jpg" /></div>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+
+<!--网红名师-->
+	    <div class="box1">
+			<div class="hd" style="text-align:center;">
+			 	<h2><font style="color:#578df3; font-weight:bold;">网红名师</font></h2>
+                <div class="next"><img src="images/next.png" /></div>
+			</div>
+            <div style="width: 100%">
+                <div class="col-xs-6" style="padding-right: 4px">
+                    <div class="thumbnail" style="min-height: 240px">
+                        <img src="images/tea6.jpg" alt="网红导师">
+                        <div class="caption">
+                            <h3>超人</h3>
+                            <h4>网红主播导师</h4>
+                            <p>网易美聊平台知名红人，期间：连续日榜排名第一，月榜排名第一;</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xs-6" style="padding-left: 4px;">
+                    <div class="thumbnail" style="min-height: 240px">
+                        <img src="images/tea4.jpg" alt="网红导师">
+                        <div class="caption">
+                            <h3>欧雅</h3>
+                            <h4>网红课程导师</h4>
+                            <p>知名带货主播达人，并进行线上测评。最高个人小时成交榜占全平台36%;</p>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+            <div style="width: 100%">
+                <div class="col-xs-6" style="padding-right: 4px">
+                    <div class="thumbnail" style="min-height: 240px">
+                        <img src="images/tea20.jpg" alt="网红导师">
+                        <div class="caption">
+                            <h3>吴老吃</h3>
+                            <h4>网红主播导师</h4>
+                            <p>著名短视频达人，专注于抖音淘宝直播 达人培养，曾一年全网涨粉超100万</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xs-6" style="padding-left: 4px;">
+                    <div class="thumbnail" style="min-height: 240px">
+                        <img src="images/tea5.jpg" alt="网红导师">
+                        <div class="caption">
+                            <h3>琴</h3>
+                            <h4>直播机构运营主管</h4>
+                            <p>从事互联网传媒行业多年，拥有极强的专业性技巧和经验;多家直播机 构运营主管</p>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+            <div style="width: 100%">
+                <div class="col-xs-6" style="padding-right: 4px;">
+                    <div class="thumbnail" style="min-height: 240px">
+                        <img src="images/tea3.jpg" alt="网红导师">
+                        <div class="caption">
+                            <h3>皓皓</h3>
+                            <h4>网红主播舞蹈导师</h4>
+                            <p>刘皓月是中国花舞会官方队队员，具备专业舞蹈技巧，擅长古典舞、现代舞、爵士舞等;</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-xs-6" style="padding-left: 4px;">
+                    <div class="thumbnail" style="min-height: 240px">
+                        <img src="images/tea2.jpg" alt="网红导师">
+                        <div class="caption">
+                            <h3>不吃鱼的猫</h3>
+                            <h4>主播指导讲师</h4>
+                            <p>大型主播平台指导讲师，实战型主播团队运营策划，直播套路，变现方式;</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+		</div>
+
+<!--短视频名师-->
+        <div class="shizi mwidth" style="margin-top: 10px">
+            <h2>短视频名师</h2>
+            <div class="next"><img src="images/next.png" /></div>
+
+            <div class="shizhi_main mwidth">
+                <div class="swiper-wrapper" style="margin-top: 10px">
+                    <div class="swiper-slide">
+                        <ul>
+                            <li>
+                                <div class="thumbnail" style="border-radius: 0px;min-height: 326px">
+                                    <img src="images/tea7.jpg" alt="网红导师">
+                                    <div class="caption">
+                                        <h3>蜜姐</h3>
+                                        <h4>短视频运营总监</h4>
+                                        <p>美拍短视频运营总监，在为期半年的教学过程中曾帮助红呗学院学院打造多个短视频营销店铺;</p>
+                                    </div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="thumbnail" style="border-radius: 0px;min-height: 326px">
+                                    <img src="images/tea8.jpg" alt="网红导师">
+                                    <div class="caption">
+                                        <h3>小莫</h3>
+                                        <h4>资深广告制片人</h4>
+                                        <p>资深广告制片人，曾为多家大型公司进行广告策划设计；了解国内外创意视频，在红呗学院有专项精品课程;</p>
+                                    </div>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="swiper-slide">
+                        <ul>
+                            <li>
+                                <div class="thumbnail" style="border-radius: 0px;min-height: 326px">
+                                    <img src="images/tea9.jpg" alt="网红导师">
+                                    <div class="caption">
+                                        <h3>小柯</h3>
+                                        <h4>短视频课程导师</h4>
+                                        <p>影视剧制作大咖，自2012年进入影视制作领域以来，参与多部电影电视剧制作，视觉中国签约作者;</p>
+                                    </div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="thumbnail" style="border-radius: 0px;min-height: 326px">
+                                    <img src="images/tea07.jpg" alt="短视频导师">
+                                    <div class="caption">
+                                        <h3>colleen</h3>
+                                        <h4>短视频课程主讲老师</h4>
+                                        <p>多年新媒体营销经验，拥有5年短视频新媒体制作经验；曾制作出500+播放率病毒式文案；</p>
+                                    </div>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div class="swiper-slide">
+                        <ul>
+                            <li>
+                                <div class="thumbnail" style="border-radius: 0px;min-height: 326px">
+                                    <img src="images/tea08.jpg" alt="短视频导师">
+                                    <div class="caption">
+                                        <h3>上官李白</h3>
+                                        <h4>新媒体营销专家</h4>
+                                        <p>新媒体短视频营销专家；曾任大型MCN短视频机构负责人；未来商学院认证高级老师，快手平台营销技巧;</p>
+                                    </div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="thumbnail" style="border-radius: 0px;min-height: 326px">
+                                    <img src="images/tea09.jpg" alt="短视频导师">
+                                    <div class="caption">
+                                        <h3>雪梨</h3>
+                                        <h4>短视频视觉总监</h4>
+                                        <p>红呗学院短视频视觉总监，短视频课程主讲老师。精通AI、C4D等软件；曾担任大型广告公司视频动画师;</p>
+                                    </div>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="swiper-slide">
+                        <ul>
+                            <li>
+                                <div class="thumbnail" style="border-radius: 0px;min-height: 326px">
+                                    <img src="images/tea007.jpg" alt="短视频导师">
+                                    <div class="caption">
+                                        <h3>幺妹</h3>
+                                        <h4>短视频课程主讲老师</h4>
+                                        <p>多年海外直播经验，带领过10以上的团队，从事过前期策划与视频制作，并善于观察发现热点话题;</p>
+                                    </div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="thumbnail" style="border-radius: 0px;min-height: 326px">
+                                    <img src="images/tea08.jpg" alt="短视频导师">
+                                    <div class="caption">
+                                        <h3>上官导师</h3>
+                                        <p>新媒体短视频营销专家；曾任大型MCN短视频机构负责人；未来商学院认证高级老师，快手平台营销技巧;</p>
+                                    </div>
+                                </div>
+                            </li>
+
+                        </ul>
+                    </div>
+                </div>
+                <!-- Add Arrows -->
+                <script>
+
+                    var swiper = new Swiper('.shizhi_main', {
+                        autoplay: true,
+                        speed:2000,
+                        pagination: {
+                            el: '.swiper-pagination',
+                        },
+                    });
+                </script>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+
+    <!--电商名师-->
+        <div class="box1">
+            <div class="hd" style="text-align:center;">
+                <h2><font style="color:#578df3; font-weight:bold;">电商名师</font></h2>
+                <div class="next"><img src="images/next.png" /></div>
+            </div>
+
+            <div class="row" style="margin: 20px auto">
+                <div class="col-xs-12">
+                    <div class="media">
+                        <div class="media-left" style="width: 45%">
+                            <a href="#">
+                                <img class="media-object" src="images/tea10.jpg" alt="电商老师">
+                            </a>
+                        </div>
+                        <div class="media-body">
+                            <h3 class="media-heading">昆哥 | 新电商运营导师</h3>
+                            <p>昆哥自营和托管多家知名淘宝C店和天猫店，年销售额突破千万元。他同时是多家在线电商公司的商业策划顾问，拥有丰富的行业经验；</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row" style="margin: 20px auto">
+                <div class="col-xs-12">
+                    <div class="media">
+                        <div class="media-left" style="width: 45%">
+                            <a href="#">
+                                <img class="media-object" src="images/tea11.jpg" alt="电商老师">
+                            </a>
+                        </div>
+                        <div class="media-body">
+                            <h3 class="media-heading">老白 | 新电商运营导师</h3>
+                            <p>在线电商行业的“混江龙”，拥有超过10年的电子商务运营经验，以运营总监和资深运营店长的身份操盘过30多个B2C和C2C电商运營项目;</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row" style="margin: 20px auto">
+                <div class="col-xs-12">
+                    <div class="media">
+                        <div class="media-left" style="width: 45%">
+                            <a href="#">
+                                <img class="media-object" src="images/tea12.jpg" alt="电商老师">
+                            </a>
+                        </div>
+                        <div class="media-body">
+                            <h3 class="media-heading">木子 | 新电商运营导师</h3>
+                            <p>木子 是知名家居零售公司全友家居的运营主管，在过去的几年， Dasha带领全友电商团队稳占淘宝家居类销售前十。后进入创业公司从事电商培训和代运营;</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="row" style="margin: 20px auto">
+                <div class="col-xs-12">
+                    <div class="media">
+                        <div class="media-left" style="width: 45%">
+                            <a href="#">
+                                <img class="media-object" src="images/t13.jpg" alt="电商老师">
+                            </a>
+                        </div>
+                        <div class="media-body">
+                            <h3 class="media-heading">King | 新电商运营导师</h3>
+                            <p>电商运营管理实战专家，10年电商运营和培训经验，中国电子商务注册培训师。专注于企业电商运营管理领域，擅长电商新思维、电商技能;</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="row" style="margin: 20px auto">
+                <div class="col-xs-12">
+                    <div class="media">
+                        <div class="media-left" style="width: 45%">
+                            <a href="#">
+                                <img class="media-object" src="images/t14.jpg" alt="电商老师">
+                            </a>
+                        </div>
+                        <div class="media-body">
+                            <h3 class="media-heading">莎莎 | 新电商框架师</h3>
+                            <p>莎莎是 全能型的电商框架师，7年电商平台管理经验。曾任职嬴通集团电商事业部经理;主要负责电商渠道开发以及管理，品牌线上推广，团队组建和培训;</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="row" style="margin: 20px auto">
+                <div class="col-xs-12">
+                    <div class="media">
+                        <div class="media-left" style="width: 45%">
+                            <a href="#">
+                                <img class="media-object" src="images/t15.jpg" alt="电商老师">
+                            </a>
+                        </div>
+                        <div class="media-body">
+                            <h3 class="media-heading">Andy | 新电商运营导师</h3>
+                            <p>中国最早的一批电商人，从事电商行业有十余年的时间，曾任职于某知名电商公司，实战运营卖家。拥有丰富的店铺运营经验，精通平台规则及政策;</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+
+<!-- 立即申请-->
+<!--        <div class="send_message mwidth">-->
+<!--            <div class="send_tt"><img src="images/zixun_tt.png" class="mwidth" /></div>-->
+<!--            <div class="ly_main">-->
+<!--                <div class="input_txt"><input type="text" class="mwidth" placeholder="姓名" /></div>-->
+<!--                <div class="input_txt" style="background-image:url(images/i18.png); background-position:10px 0.5em"><input type="text" class="mwidth" placeholder="手机" /></div>-->
+<!--            </div>-->
+<!--            <div class="btn_main mwidth">-->
+<!--                <span class="btn"><a href="https://tb.53kf.com/code/client/10187293/4">咨询更多</a></span>-->
+<!--                <span class="btn" style="background-color:#fe0000"><a href="https://tb.53kf.com/code/client/10187293/4">立即抢占</a></span>-->
+<!--            </div>-->
+<!--        </div>-->
+        <footer style="border-top: 1px solid #c0c0c0">
+            <div style="padding:14px;text-align: center;">
+                Powered by 杭州图播零教育科技有限公司<br />
+                @2002-2019 浙ICP备19005506号-2
+            </div>
+        </footer>
+        <div class="bdzx"><a class="zx_btn" href="https://tb.53kf.com/code/client/10187293/4"><i class="fa fa-commenting fa-2x" aria-hidden="true" style="padding-right: 10px"></i>在线咨询</a></div>
+</body>
+</html>

@@ -1,0 +1,320 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0,user-scalable=no" name="viewport" id="viewport">
+	<title>网红主播培训_主播培训班_红呗</title>
+	<meta name="keywords" content="红呗,红呗官网,网红主播培训,电商运营,短视频达人"/>
+	<meta name="description" content="红呗是一家科技型互联网教育品牌，依托互联网教育领域的强大师资及互联网科技平台，红呗将网红主播培训，网红短视频创作、培养电商运营人才、主流网红经纪为主要发展方向，立志於服务互联网新科技人才培养，为媒体内容创新提供人才。"/>
+	<link rel="stylesheet" href="images/base.css">
+	<link rel="stylesheet" href="images/index.css">
+	<link rel="stylesheet" href="../css/bootstrap.min.css">
+	<link rel="stylesheet" href="js/swiper.min.css">
+
+	<script src="../js/jquery.js"></script>
+	<script src="js/swiper.min.js"></script>
+	<script src="../js/bootstrap.min.js"></script>
+	<style>
+		.box1 .tea-main{
+			padding: 5%;
+			color: #000000;
+			line-height: 1.8em;
+		}
+		.tea-main .tea-img{
+			float: left;
+			width: 30%;
+			margin-right: 2%;
+		}
+		.tea-main .tea-content{
+			margin-left: 2%;
+
+		}
+		.nav {
+			width: 100%;
+			background: #000000;
+		}
+		.nav {
+			padding-left: 0;
+			margin-bottom: 0;
+			list-style: none;
+		}
+		.nav-pills>li{
+			width: 25%;
+			text-align: center;
+		}
+		.nav-pills>li+li {
+			margin-left: 0px !important;
+		}
+		.nav-pills>li>a {
+			border-radius: 0px;
+			font-size: 14px;
+			width: 100%;
+		}
+		a {
+			color: #ffffff;
+			text-decoration: none;
+		}
+		a:focus,a:hover{
+			border-radius: 0px !important;
+			color: #ffffff;
+			background-color: #578df3 !important;
+		}
+		.nav .open>a, .nav .open>a:focus, .nav .open>a:hover {
+			border-radius: 0px;
+			color: #ffffff;
+			background-color: #578df3;
+		}
+		.dropdown-menu {
+			min-width: auto !important;
+			position: absolute;
+			color: #b2c9fb;
+			top: 100%;
+			left: 0;
+			z-index: 1000;
+			display: none;
+			float: left;
+			padding: 5px 0;
+			margin: 2px 0 0;
+			font-size: 14px;
+			text-align: left;
+			list-style: none;
+			background:#42619e;
+			-webkit-background-clip: padding-box;
+			background-clip: padding-box;
+			-webkit-box-shadow: 0 6px 12px rgba(0,0,0,.175);
+		}
+		.dropdown-menu>li>a {
+			display: block;
+			clear: both;
+			font-weight: 400;
+			line-height: 1.42857143;
+			color: #ffffff;
+			white-space: nowrap;
+		}
+		.active{
+			border-radius: 0px !important;
+			color: #ffffff;
+			background-color: #337ab7;
+		}
+		.new-content{
+			width: 100%;
+			height: auto;
+			margin: 10px auto;
+
+		}
+		.new-content img{
+			width: 45%;
+			float: left;
+		}
+	</style>
+
+</head>
+	<body>
+	<div><img src="../images/header.jpg" /></div>
+	<!-- 导航-->
+	<div class="nav">
+		<ul class="nav nav-pills">
+			<li role="presentation"><a href="../index.html">首页</a></li>
+			<li role="presentation"><a href="../jiuye.html">就业模式</a></li>
+			<li role="presentation"><a href="../qiye.html">企业展示</a></li>
+			<li role="presentation" class="dropdown">
+				<a class="dropdown-toggle active" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
+					更多<span class="caret"></span>
+				</a>
+				<ul class="dropdown-menu">
+					<li><a href="../ds/index.html">新电商运营</a></li>
+					<li><a href="javascript:;">网红主播</a></li>
+					<li><a href="../sort/index.html">短视频达人</a></li>
+					<li><a href="../teacher.html">授课名师</a></li>
+					<li><a href="../success.html">成功案例</a></li>
+					<li><a href="http://www.51hongbei.cn/hongbeixinwen/" target="_blank">红呗资讯</a></li>
+				</ul>
+			</li>
+		</ul>
+	</div>
+	<!--  banner -->
+	<div class="ban">
+		<a href="https://tb.53kf.com/code/client/10187293/4" target="_blank"><img src="images/ds-img01.jpg" /></a>
+	</div>
+	<div class="box1" style="text-align:center; background:url(images/main-bg.png);">
+		<div class="hd" style="text-align:center;">
+			<h2>为什么选择我们来学习网红主播课程</h2>
+			<p style="text-align:center; font-size:1em; color:#fff;">这些方法和策略已经证明 <b>100%有效果</b> 能够快速出结果</p>
+			<img src="images/mwh_01.png" alt="" style="width:85%;margin: 4% auto">
+		</div>
+	</div>
+	<div class="box1" style="text-align:center; background:url(images/wh-block07-bg.jpg);">
+		<div class="hd" style="text-align:center;">
+			<h2>我们的优势</h2>
+			<a href="https://tb.53kf.com/code/client/10187293/4" target="_blank"><img src="./images/wh-img15.jpg" alt="" style="padding:3% 0; width:90%; margin:0 auto;"></a>
+			<a href="https://tb.53kf.com/code/client/10187293/4" target="_blank"><img src="./images/wh-img16.jpg" alt="" style="padding:3% 0; width:90%; margin:0 auto;"></a>
+		</div>
+	</div>
+	<div class="box1" style="text-align:center; background:url(images/main-bg.png);">
+		<div class="hd" style="text-align:center;">
+			<h2>我们的课程包含以下内容</h2>
+			<p style="text-align:center; font-size:1em; color:#fff;">这些方法和策略已经证明 <b>100%有效果</b> 能够快速出结果</p>
+			<div style="padding-top: 4%">
+				<div class="col-xs-6" style="padding-right: 5px"><img src="./images/ds-img02.jpg" alt="获取打赏的技巧"></div>
+				<div class="col-xs-6" style="padding-left: 5px"><img src="./images/ds-img03.jpg" alt="从零起步培养粉丝"></div>
+			</div>
+			<div class="clearfix"></div>
+			<div style="padding-top: 4%">
+				<div class="col-xs-6" style="padding-right: 5px"><img src="./images/ds-img04.jpg" alt="直播内容的设计"></div>
+				<div class="col-xs-6" style="padding-left: 5px"><img src="./images/ds-img05.jpg" alt="土豪的打赏心理" ></div>
+			</div>
+			<div class="clearfix"></div>
+			<div style="padding-top: 4%">
+				<div class="col-xs-6" style="padding-right: 5px"><img src="./images/ds-img06.jpg" alt="拯救冷场的方法"></div>
+				<div class="col-xs-6" style="padding-left: 5px"><img src="./images/ds-img07.jpg" alt="段子手的自我养成"></div>
+			</div>
+
+		</div>
+		<div class="clearfix"></div>
+		<a href="https://tb.53kf.com/code/client/10187293/4" target="_blank" class="btn">我想咨询</a>
+	</div>
+
+
+	<div class="box1" style="text-align:center; background:url(images/wh-block02-bg.jpg);">
+		<div class="hd" style="text-align:center;padding-top: 16px">
+			<h2 style="margin-top: -20px;font-size: 18px">一对一培养方向确定+制定适宜的教学方案和包装</h2>
+			<img src="./images/wh-img08.jpg" alt="" style="padding:5% 0; width:90%; margin:0 auto;">
+			<img src="./images/wh-img09.jpg" alt="" style="padding:2% 0; width:60%; margin:0 auto;">
+		</div>
+		<div class="clearfix"></div>
+		<a href="https://tb.53kf.com/code/client/10187293/4" target="_blank" class="btn">我想咨询</a>
+	</div>
+
+	<div class="box1" style="text-align:center; background:url(images/wh-img10.jpg);">
+		<div class="hd" style="text-align:center;">
+			<h2>他们已经成功下一个会是你吗？</h2>
+			<img src="./images/wh-img11.jpg" alt="" style="padding:2% 0; width:90%; margin:0 auto;">
+			<img src="./images/wh-img12.jpg" alt="" style="padding:2% 0; width:90%; margin:0 auto;">
+		</div>
+		<div class="clearfix"></div>
+		<a href="https://tb.53kf.com/code/client/10187293/4" target="_blank" class="btn">我想咨询</a>
+	</div>
+
+	<div class="box1" style="text-align:center;background: #f76345">
+		<div class="hd">
+			<h2 style="color:#22222e;">网红主播最新毕业学员</h2>
+		</div>
+		<div class="swiper-container" id="swiper1"  style="overflow: hidden">
+			<div class="swiper-wrapper">
+				<div class="swiper-slide">
+					<div class="tea-main" style="margin-top: 4%">
+						<div class="tea-img">
+							<img src="images/wh_pic_01.jpg" />
+						</div>
+						<div class="tea-content" style="text-align: left">
+							<h2 style="font-size: 1.2em;font-weight: 600;padding-bottom: 3%">培训前</h2>
+							<p>福建南平一家小餐馆的服务员，每天端盘子、洗碗，忍受着客人的刁难，每个月到却只有2000出头，生了孩子之后，更是差点抑郁自杀。</p>
+						</div>
+						<h2 style="font-size: 1.2em;font-weight: 600;padding-top: 3%;text-align: left">培训后</h2>
+						<p style="text-align: left">在朋友圈看到红呗的招生广告，一番了解之后决定报名培训。凭借着对家乡美食的喜爱，成为花椒直播平台的一名美食主播，如今月入3万，而且工作时间自由，有更多的时间陪伴孩子成长。</p>
+						<h2 style="font-size: 1.2em;font-weight: 600;padding-top: 3%;text-align: left">寄语</h2>
+						<p style="text-align: left">我不敢想象如果没有遇到红呗，我的生活会是什么样子的，是红呗给了我一次重生的机会！万分感激红呗导师对我的耐心指导，希望学弟学妹们好好把握这次机会！</p>
+
+					</div>
+
+					<div class="clearfix"></div>
+				</div>
+
+				<div class="swiper-slide">
+					<div class="tea-main" style="margin-top: 4%">
+						<div class="tea-img">
+							<img src="images/wh_pic_02.jpg" />
+						</div>
+						<div class="tea-content" style="text-align: left">
+							<h2 style="font-size: 1.2em;font-weight: 600;padding-bottom: 3%">培训前</h2>
+							<p>是个爱美的女孩子，她喜欢模仿各种妆容，但在这个封闭的小县城里，从来没有人欣赏、赞美她，反而经常遭到白眼与唾骂。</p>
+						</div>
+						<h2 style="font-size: 1.2em;font-weight: 600;padding-top: 3%;text-align: left">培训后</h2>
+						<p style="text-align: left">在朋友的介绍下，报名红呗学院的培训，凭借精湛的化妆技术，在KK直播当了一名美妆主播，目前粉丝量8K，月入2万，还有很多广告商主动联系她。</p>
+						<h2 style="font-size: 1.2em;font-weight: 600;padding-top: 3%;text-align: left">寄语</h2>
+						<p style="text-align: left">感谢红呗学院给我的平台与机会，让我现在既能做着自己喜欢的事情，又能挣钱！学弟学妹们，要好好听导师的话哦，红呗导师是我这辈子遇到最好的老师！</p>
+
+					</div>
+
+					<div class="clearfix"></div>
+				</div>
+
+				<div class="swiper-slide">
+					<div class="tea-main" style="margin-top: 4%">
+						<div class="tea-img">
+							<img src="images/wh_pic_03.jpg" />
+						</div>
+						<div class="tea-content" style="text-align: left">
+							<h2 style="font-size: 1.2em;font-weight: 600;padding-bottom: 3%">培训前</h2>
+							<p>为了生活周凯来到上海做了外卖小哥，住的是地下室，吃的是清汤挂面，风吹、日晒、雨淋是他比同龄人看起来要沧桑许多</p>
+						</div>
+						<h2 style="font-size: 1.2em;font-weight: 600;padding-top: 3%;text-align: left">培训后</h2>
+						<p style="text-align: left">凭借着他低沉的嗓音和音乐天赋，他成为KK的一位音乐主播，目前粉丝量已经近万，月入2-3万，再也不用日晒雨淋。</p>
+						<h2 style="font-size: 1.2em;font-weight: 600;padding-top: 3%;text-align: left">寄语</h2>
+						<p style="text-align: left">红呗学院燃起了我对未来生活的希冀，学弟学妹们，不努力尝试一次，你永远不知道你的人生会有多么精彩！</p>
+
+					</div>
+
+					<div class="clearfix"></div>
+				</div>
+
+			</div>
+			<!-- Add Pagination -->
+			<div class="swiper-pagination"></div>
+		</div>
+
+		<script>
+			$(document).ready(function(){
+				var mySwiper = new Swiper ('#swiper1', {
+					pagination: {
+						el: '.swiper-pagination',
+					},
+
+				})
+			})
+		</script>
+
+
+	</div>
+
+
+	<div class="box1" style="text-align:center; background:#ffca00;">
+		<div class="hd" style="text-align:center;">
+			<h2 style="color:#22222e;">行业资深直播实战讲师</h2>
+			<p style="text-align:center; font-size:1em; color:#000;">不仅传授专业技能 更为学员量身定制发展方向</p>
+			<img src="./images/new1.jpg" alt="" style="padding:3% 0; width:100%; margin:0 auto;">
+			<img src="./images/new2.jpg" alt="" style="padding:3% 0; width:100%; margin:0 auto;">
+			<img src="./images/teacher01.jpg" alt="" style="padding:3% 0; width:100%; margin:0 auto;">
+			<img src="./images/teacher02.jpg" alt="" style="padding:3% 0; width:100%; margin:0 auto;">
+			<img src="./images/teacher03.jpg" alt="" style="padding:3% 0; width:100%; margin:0 auto;">
+			<img src="./images/teacher04.jpg" alt="" style="padding:3% 0; width:100%; margin:0 auto;">
+		</div>
+		<div class="clearfix"></div>
+	</div>
+
+
+
+
+	<div class="box1" style="text-align:center; background:url(images/wh-img13.jpg); padding-bottom:0;">
+		<div class="hd" style="text-align:center;">
+			<h2>经纪公司/公会及直播平台双签约</h2>
+			<img src="images/mnew_07.png" style="padding: 2% auto;width: 77%;margin: 0 auto"/>
+			<img src="./images/wh-hetong.png" style="padding:4% 0 0 0; width:80%; margin:0 auto;">
+		</div>
+	</div>
+
+
+	<div class="box1" style="text-align:center; background:url(images/wh-block06-bg.jpg);">
+		<div class="hd" style="text-align:center;">
+			<h2>线下网红基地实训</h2>
+			<img src="./images/wh-img14.jpg" alt="" style="padding:4% 0 0 0; width:90%; margin:0 auto;">
+			<p style="text-align:center; color:#FFF; font-size:1em; margin:3% 0 10% 0;">Powered by 杭州图播零教育科技有限公司@2002-2019</p>
+		</div>
+	</div>
+
+
+
+	<div class="bdzx"><a class="zx_btn" href="https://tb.53kf.com/code/client/10187293/4" target="_blank">在线咨询</a> <a class="tel_btn" href="https://tb.53kf.com/code/client/10187293/4" target="_blank">我要报名</a></div>
+
+	<script>(function() {var _53code = document.createElement("script");_53code.src = "https://tb.53kf.com/code/code/10187293/4";var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(_53code, s);})();</script>
+</body></html>

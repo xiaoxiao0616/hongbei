@@ -1,0 +1,468 @@
+﻿<!DOCTYPE>
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<meta name="keywords" content="红呗,红呗官网,网红主播培训,电商运营,短视频达人"/>
+		<meta name="description" content="红呗专注于新职业打造，红呗提供网红主播培训,电商运营,短视频达人一系列新媒体人才培养与输送服务，学员的成功是我们最大的动力。"/>
+
+<!--css		-->
+		<link href="http://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+		<link href="http://cdn.bootcss.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+		<link type="text/css" href="css/style.css" rel="stylesheet" />
+		<link type="text/css" href="css/reset.css" rel="stylesheet" />
+		<link rel="stylesheet" href="css/teacher.css">
+		<link rel="stylesheet" href="css/bootsnav.css">
+		<script type="text/JavaScript" src="js/jquery.js"></script>
+		<script type="text/javascript" src="js/SuperSlide.js"></script>
+		<script src="js/scrollUp.js"></script>
+		<title>成功案例_红呗人才库【红呗】</title>
+		<style>
+			.col-md-3,.col-md-4{padding: 5px}
+			.select-6 {
+				width: 100%;
+				height:863px;
+				background: url(images/bj-5.jpg) no-repeat center;
+				padding-top: 25px;
+			}
+			.select-6 .more {margin: -50px auto;}
+			nav.navbar.bootsnav{
+				border: none;
+				background: none;
+				margin-bottom: 150px;
+			}
+
+			.dropdown-menu{
+				min-width: 150px;
+			}
+			nav.navbar.bootsnav ul.nav > li:before{
+				content: "";
+				width: 2px;
+				height: 0;
+				background: #fff;
+				margin: 0 auto;
+				position: absolute;
+				bottom: 0;
+				left: 0;
+				right: 0;
+				transition: all 0.5s ease 0s;
+			}
+			nav.navbar.bootsnav ul.nav > li:hover:before{ height: 25px; }
+			nav.navbar.bootsnav ul.nav > li.megamenu-fw:before{ left: 11.3%; }
+			nav.navbar.bootsnav ul.nav > li:after{
+				content: "";
+				width: 10px;
+				height: 10px;
+				border-radius: 50%;
+				background: #fff;
+				margin: 0 auto;
+				position: absolute;
+				bottom: 70px;
+				left: 0;
+				right: 0;
+				opacity: 0;
+				transition: all 0.5s ease 0s;
+			}
+			nav.navbar.bootsnav ul.nav > li:hover:after{
+				bottom: 20px;
+				opacity: 1;
+			}
+			nav.navbar.bootsnav ul.nav > li.megamenu-fw:after{ left: 11.3%; }
+			nav.navbar.bootsnav ul.nav > li > a{
+				padding: 15px 15px 35px 15px;
+				margin: 0;
+				color: #fff;
+				text-transform: uppercase;
+				z-index: 1;
+				transition: all 0.5s ease 0s;
+			}
+			nav.navbar.bootsnav ul.nav > li.dropdown > a{
+				padding: 15px 30px 35px 15px;
+			}
+			nav.navbar.bootsnav ul.nav > li > a:hover{ color: #fff; }
+			nav.navbar.bootsnav ul.nav > li.dropdown > a.dropdown-toggle:after{
+				position: absolute;
+				margin: 0 0 0 7px;
+			}
+			nav.navbar.bootsnav ul.nav > li.dropdown > ul{
+				top: 120%;
+				transition: all 0.8s ease 0s;
+			}
+			nav.navbar.bootsnav ul.nav > li.dropdown.on > ul{
+				top: 100%;
+			}
+			.dropdown-menu.multi-dropdown{
+				position: absolute;
+				left: -100% !important;
+			}
+			nav.navbar.bootsnav li.dropdown ul.dropdown-menu{
+				box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+				border: none;
+			}
+			nav.navbar.bootsnav li.dropdown ul.dropdown-menu.megamenu-content li{
+				font-size: 14px;
+				color: #6f6f6f;
+			}
+			nav.navbar.bootsnav li.dropdown ul.dropdown-menu.megamenu-content .title{
+				font-size: 16px;
+				font-weight: bold;
+				color: #3f3f3f;
+			}
+
+				
+			.label{margin:0 6px}
+			.media-left {
+				height:325px}
+
+		</style>
+
+	</head>
+	<body>
+	<div class="right-nav"></div>
+		<div class="banner">
+			<div class="m">
+				<div class="head">
+					<div class="logo lf" style="z-index: 99999"><a href="index.html"><img src="images/logo.png" width="345" height="48"></a></div>
+					<div class="navMain">
+						<nav class="navbar navbar-default navbar-mobile bootsnav">
+							<div class="collapse navbar-collapse" id="navbar-menu">
+								<ul class="nav navbar-nav" data-in="fadeInDown" data-out="fadeOutUp" style="margin-top: 10px">
+									<li><a href="index.html">首页</a></li>
+									<li class="dropdown">
+										<a href="javascript:;" class="dropdown-toggle" data-toggle="dropdown" data-hover="Shortcodes">课程介绍</a>
+										<ul class="dropdown-menu">
+											<li><a href="ds/index.html">新电商运营</a></li>
+											<li><a href="wh/index.html">网红主播</a></li>
+											<li><a href="sort/index.html">短视频达人</a></li>
+										</ul>
+									</li>
+									<li><a href="jiuy.html">就业模式</a></li>
+									<li><a href="qiye.html">企业展示</a></li>
+									<li><a href="teacher.html">授课名师</a></li>
+									<li><a href="javascript:;" style="opacity: 0.5" >成功案例</a></li>
+									<li><a href="http://www.51hongbei.cn/hongbeixinwen/" target="_blank">资讯</a></li>
+								</ul>
+							</div>
+						</nav>
+					</div>
+					<div class="clear"></div>
+				</div>
+			</div>
+			<div class="xx3">
+				<div class="hd">
+					<ul>
+					</ul>
+				</div>
+				<div class="bd" >
+					<ul>
+						<a href="https://tb.53kf.com/code/client/10187293/4" target="_blank"><li style="background:url(images/su-banner.jpg) no-repeat top center;" ></li></a>
+					</ul>
+				</div>
+			</div>
+		</div>
+<!--红呗电商运营鉴证学员-->
+		<div class="teacher" style="margin-top:-42px">
+			<div class="m">
+				<div class="t-1"><span>红呗新电商运营成功学员</span></div>
+				<div class="t-2">NEXT different</div>
+				<!--电商学员1-->
+				<div class="success">
+					<div class="media">
+						<div class="media-left">
+                         <div class="bg">贾*婷 <span>女</span>  <span style="padding-left: 0">20岁</span></div>
+							<a href="#">
+								<img class="media-object" src="images/dtea-1.jpg" alt="电商学员">
+							</a>
+						</div>
+						<div class="media-body" style="padding-top: 10px">
+							<div class="btn-01"><h2>培训前</h2></div>
+							<h4 class="media-heading success-font">
+								大专毕业后，她做过导购，当过销售，工资交完房租连吃饭都成问题，甚至差点被骗进传销组织！
+							</h4>
+							<div class="btn-02"><h2>培训后</h2></div>
+							<h4 class="media-heading success-font">
+								无意中结识了一位做电商的姐姐，推荐肖艳去红呗学习电商运营。
+								毕业后去了小红书从电商运营专员，一年时间便做到了电商运,月入<span class="label label-danger">2万</span>
+							</h4>
+							<div class="btn-02"><h2>寄语</h2></div>
+							<h4 class="media-heading success-font">
+								用自己拼来的一个可能，回敬所有的不可能！是红呗给了我拼这么一个可能的机会，祝学弟学妹们都能博得一个精彩的未来，祝愿红呗导师们身体安康，阖家幸福！
+							</h4>
+						</div>
+					</div>
+				</div>
+				<div class="clear"></div>
+				<!--电商学员2-->
+				<div class="success">
+					<div class="media">
+						<div class="media-left">
+							<div class="bg">罗*辰 <span>男</span><span style="padding-left: 0">24岁</span></div>
+							<a href="#">
+								<img class="media-object" src="images/dtea-2.jpg" alt="电商学员">
+							</a>
+						</div>
+						<div class="media-body" style="padding-top: 10px">
+							<div class="btn-01"><h2>培训前</h2></div>
+							<h4 class="media-heading success-font">
+								大学专业太冷门，毕业一年一直待业在家，又不甘心去做销售、外卖之类的工作，周围满是质疑与责骂。
+							</h4>
+							<div class="btn-02"><h2>培训后</h2></div>
+							<h4 class="media-heading success-font">
+								主动搜索比较之后，选择红呗直播电商课程，并在红呗的推荐下进入阿里，如今月入<span class="label label-danger">3万</span>。
+							</h4>
+							<div class="btn-02"><h2>寄语</h2></div>
+							<h4 class="media-heading success-font">
+								只有不断努力，才能获得更加精彩的人生！学弟学妹们，选择了红呗，你的一只脚已经迈进了成功的大门，加油吧！
+							</h4>
+						</div>
+					</div>
+				</div>
+				<div class="clear"></div>
+				<!--电商学员3-->
+				<div class="success">
+					<div class="media">
+						<div class="media-left">
+							<div class="bg">李*阳 <span>男</span>  <span style="padding-left: 0">20岁</span></div>
+							<a href="#">
+								<img class="media-object" src="images/dtea-3.jpg" alt="电商学员">
+							</a>
+						</div>
+						<div class="media-body" style="padding-top: 10px">
+							<div class="btn-01"><h2>培训前</h2></div>
+							<h4 class="media-heading success-font">
+								大专毕业后，做了几年销售，尝尽了白眼，受尽了折磨，依然月月为业绩发愁。
+							</h4>
+							<div class="btn-02"><h2>培训后</h2></div>
+							<h4 class="media-heading success-font">
+								在朋友的介绍下报名了红呗电商课程，一边接受线上教育，一边利用所学经营自己的淘宝店。后来，顺利入职苏宁易购电商运营专员，起始薪资<span class="label label-danger">8.5K</span>，淘宝店也从0到现在日销<span class="label label-danger">200K</span>单。
+							</h4>
+							<div class="btn-02"><h2>寄语</h2></div>
+							<h4 class="media-heading success-font">
+								红呗就像黑夜里的一把火炬，给了我寄托与希望！我将一辈子不会忘记图零老师在我最绝望的时候给予的指导，红呗的学弟学妹们加油哦！
+							</h4>
+						</div>
+					</div>
+				</div>
+				<div class="clear"></div>
+			</div>
+		</div>
+
+<!--网红鉴证学员-->
+		<div class="teacher">
+			<div class="m">
+				<div class="t-1"><span style="color: #ef778c">红呗网红主播成功学员</span></div>
+				<div class="t-2">NEXT different</div>
+				<!--网红学员1-->
+				<div class="success">
+					<div class="media">
+						<div class="media-left">
+							<div class="bg">丁* <span>女</span>  <span style="padding-left: 0">26岁</span></div>
+							<a href="#">
+								<img class="media-object" src="images/wtea-2.jpg" alt="网红学员">
+							</a>
+						</div>
+						<div class="media-body" style="padding-top: 10px">
+							<div class="btn-03"><h2>培训前</h2></div>
+							<h4 class="media-heading success-font">
+								福建南平一家小餐馆的服务员，每天端盘子、洗碗，忍受着客人的刁难，每个月到却只有2000出头，生了孩子之后，更是差点抑郁自杀。
+							</h4>
+							<div class="btn-04"><h2>培训后</h2></div>
+							<h4 class="media-heading success-font">
+								在朋友圈看到红呗的招生广告，一番了解之后决定报名培训。凭借着对家乡美食的喜爱，琪琪成为花椒直播平台的一名美食主播，如今月入<span class="label label-danger">3万</span>，不仅学会了烹饪各种各样的美食，而且工作时间自由，有更多的时间陪伴孩子成长。
+							</h4>
+							<div class="btn-04"><h2>寄语</h2></div>
+							<h4 class="media-heading success-font">
+								我不敢想象如果没有遇到红呗，我的生活会是什么样子的，是红呗给了我一次重生的机会！万分感激红呗导师对我的耐心指导，希望学弟学妹们好好把握这次机会！
+							</h4>
+						</div>
+					</div>
+				</div>
+				<div class="clear"></div>
+				<!--网红学员2-->
+				<div class="success">
+					<div class="media">
+						<div class="media-left">
+							<div class="bg">杨*<span>女</span><span style="padding-left: 0">22岁</span></div>
+							<a href="#">
+								<img class="media-object" src="images/wtea-1.jpg" alt="网红学员">
+							</a>
+						</div>
+						<div class="media-body" style="padding-top: 10px">
+							<div class="btn-03"><h2>培训前</h2></div>
+							<h4 class="media-heading success-font">
+								杨婷是个爱美的女孩子，她喜欢模仿各种妆容，但在这个封闭的小县城里，从来没有人欣赏、赞美她，反而经常遭到白眼与唾骂。
+							</h4>
+							<div class="btn-04"><h2>培训后</h2></div>
+							<h4 class="media-heading success-font">
+								在朋友的介绍下，报名红呗学院的培训，凭借精湛的化妆技术，在KK直播当了一名美妆主播，目前粉丝量<span class="label label-danger">8K</span>，月入<span class="label label-danger">2万</span>，还有很多广告商主动联系她。
+							</h4>
+							<div class="btn-04"><h2>寄语</h2></div>
+							<h4 class="media-heading success-font">
+								感谢红呗学院给我的平台与机会，让我现在既能做着自己喜欢的事情，又能挣钱！学弟学妹们，要好好听导师的话哦，红呗导师是我这辈子遇到最好的老师！
+							</h4>
+						</div>
+					</div>
+				</div>
+				<div class="clear"></div>
+				<!--网红学员3-->
+				<div class="success">
+					<div class="media">
+						<div class="media-left">
+							<div class="bg"> 周* <span>男</span>  <span style="padding-left: 0">25岁</span></div>
+							<a href="#">
+								<img class="media-object" src="images/tea-3.jpg" alt="电商学员">
+							</a>
+						</div>
+						<div class="media-body" style="padding-top: 10px">
+							<div class="btn-03"><h2>培训前</h2></div>
+							<h4 class="media-heading success-font">
+								为了生活周凯来到上海做了外卖小哥，住的是地下室，吃的是清汤挂面，风吹、日晒、雨淋是他比同龄人看起来要沧桑许多，一个投诉就会让他一天的辛苦全部白费。
+							</h4>
+							<div class="btn-04"><h2>培训后</h2></div>
+							<h4 class="media-heading success-font">
+								看着网上一个个案例，从小爱音乐的他主动报名了红呗的课程。 凭借着他低沉的嗓音和音乐天赋，他成为KK的一位音乐主播，目前粉丝量已经<span class="label label-danger">近万</span>，月入<span class="label label-danger">2-3万</span>，再也不用日晒雨淋。
+							</h4>
+							<div class="btn-04"><h2>寄语</h2></div>
+							<h4 class="media-heading success-font">
+								是红呗学院燃起了我对未来生活的希冀，学弟学妹们，不努力尝试一次，你永远不知道你的人生会有多么精彩！
+							</h4>
+						</div>
+					</div>
+				</div>
+				<div class="clear"></div>
+			</div>
+		</div>
+
+<!--红呗短视频鉴证学员-->
+		<div class="teacher">
+			<div class="m">
+				<div class="t-1"><span style="color: #e6a52b">红呗短视频运营鉴证学员</span></div>
+				<div class="t-2">NEXT different</div>
+				<!--短视频2-->
+				<div class="success">
+					<div class="media">
+						<div class="media-left">
+							<div class="bg">晓*<span>女</span><span style="padding-left: 0">19岁</span></div>
+							<a href="#">
+								<img class="media-object" src="images/tea-2.jpg" alt="短视频">
+							</a>
+						</div>
+						<div class="media-body" style="padding-top: 10px">
+							<div class="btn-05"><h2>培训前</h2></div>
+							<h4 class="media-heading success-font">
+								19岁，户籍福建，高中学历，服务员从小就一直爱跳舞不爱学习，家里也没有条件支持我去
+								考舞蹈学院，高中毕业后就只能找了份服务员的工作，挣点辛苦钱！
+							</h4>
+							<div class="btn-06"><h2>培训后</h2></div>
+							<h4 class="media-heading success-font">
+								朋友圈看到红呗的广告，我决定改变自己，于是报名了红呗短视频的课程。经过培训，她靠
+								着自己舞蹈，吸引了一大波关注，目前粉丝数<span class="label label-danger">5.6万</span>，月入<span class="label label-danger">过万</span>。
+							</h4>
+							<div class="btn-06"><h2>寄语</h2></div>
+							<h4 class="media-heading success-font">
+								红呗真的很专业，在短视频制作、拍摄上教会了我很多，但我最感谢的还是红呗给了我一个全新的人生。希望学弟学妹们早日学成，改变自己的人生。
+							</h4>
+						</div>
+					</div>
+				</div>
+				<div class="clear"></div>
+				<!--短视频3-->
+				<div class="success">
+					<div class="media">
+						<div class="media-left">
+							<div class="bg">小多* <span>女</span>  <span style="padding-left: 0">24岁</span></div>
+							<a href="#">
+								<img class="media-object" src="images/tea-1.jpg" alt="短视频">
+							</a>
+						</div>
+						<div class="media-body" style="padding-top: 10px">
+							<div class="btn-05"><h2>培训前</h2></div>
+							<h4 class="media-heading success-font">
+								24岁，户籍山东，大专学历，待业大专所学专业太冷门，而且很不喜欢，毕业后就一直待业
+								在家，整天被爸妈训斥！
+							</h4>
+							<div class="btn-06"><h2>培训后</h2></div>
+							<h4 class="media-heading success-font">
+								不想随便找份工作打发自己，在朋友的介绍下，来到红呗学院，参加短视频培训课程。在培训过程中，就注册了账号，边学边做，培训结束后，就已经拥有粉丝<span class="label label-danger">11.4W</span>，月收入<span class="label label-danger">3万</span>。
+							</h4>
+							<div class="btn-06"><h2>寄语</h2></div>
+							<h4 class="media-heading success-font">
+								生活需要激情，人生需要斗志，谢谢红呗给了我奋斗的舞台，祝大家心想事成，万事如意！
+							</h4>
+						</div>
+					</div>
+				</div>
+
+				<div class="success">
+					<div class="media">
+						<div class="media-left">
+							<div class="bg">一只* <span>女</span>  <span style="padding-left: 0">26岁</span></div>
+							<a href="#">
+								<img class="media-object" src="images/tea-x.jpg" alt="短视频">
+							</a>
+						</div>
+						<div class="media-body" style="padding-top: 10px">
+							<div class="btn-05"><h2>培训前</h2></div>
+							<h4 class="media-heading success-font">
+								20岁，户籍辽宁，高中学历，北漂2年，一直有个成名的梦想，加入过各种剧组做龙套，
+								看不到成功的希望
+							</h4>
+							<div class="btn-06"><h2>培训后</h2></div>
+							<h4 class="media-heading success-font">
+								随着短视频的流量爆发看到了机会，苦于自己摸不到门路，于是找到了红呗，参加短视频达
+								人课程。边学边做，边拍摄剧组允许拍摄的短视频，培训结束后，就已经拥有粉丝<span class="label label-danger">20.8W。</span>
+								获得了更多的机会和资源。
+							</h4>
+							<div class="btn-06"><h2>寄语</h2></div>
+							<h4 class="media-heading success-font">
+								我有个明星梦，希望完成它，感谢红呗给我照亮了前行的道路，祝大家也能完成自己的梦。
+							</h4>
+						</div>
+					</div>
+				</div>
+				<div class="clear"></div>
+			</div>
+		</div>
+<!--立即申请-->
+<!--		<div class="select-12">
+			<div class="m">
+				<div class="t-1">立即申请：<span>免费体验名额</span></div>
+				<div class="t-2">即将开班 名额有限 火热预定中</div>
+				<div class="con">
+					<form action="" method="post">
+						<input type="text" placeholder="姓名" class="s1" />
+						<input type="text" placeholder="手机" class="s2" />
+						<a href="https://tb.53kf.com/code/client/10187293/4" class="m1" target="_blank">咨询更多</a><a href="https://tb.53kf.com/code/client/10187293/4" class="m2" target="_blank">立即抢占</a>
+						<div class="clear"></div>
+					</form>
+				</div>
+			</div>
+		</div> -->
+
+		<div class="foot">
+			<div class="m">
+				<p>Powered by 杭州图播零教育科技有限公司@2002-2019</p>
+				<p>浙ICP备19005506号-2</p>
+			</div>
+		</div>
+		<!--置顶按钮-->
+		<a id="scrollUp" href="#top" style="position: fixed; z-index: 2147483647;display: none"></a>
+
+		<script type="text/javascript" src="js/bootstrap.min.js"></script>
+		<script type="text/javascript" src="js/bootsnav.js"></script>
+		<script>
+			//置顶按钮
+			$(function() {
+				$.scrollUp({
+					scrollName : "scrollUp",
+					topDistance : "300",
+					topSpeed : 300,
+					animation : "slide",
+					animationInSpeed : 200,
+					animationOutSpeed : 200,
+					scrollText:'<i class="fa fa-angle-up"></i>'
+				});
+			});
+		</script>
+	</body>
+</html>

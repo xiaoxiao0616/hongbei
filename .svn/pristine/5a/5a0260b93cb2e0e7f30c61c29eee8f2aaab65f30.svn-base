@@ -1,0 +1,404 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0,user-scalable=no" name="viewport" id="viewport">
+    <meta name="keywords" content="红呗,红呗官网,网红主播培训,电商运营,短视频达人"/>
+    <meta name="description" content="红呗把自己定位成为一站式新职业教育提供商和一站式新媒体人才输送提供商，经过多年摸索与积累，红呗可以给企业伙伴提供一系列新媒体人才培养与输送服务。"/>
+    <title>企业展示_红呗合作伙伴_【红呗】</title>
+    <script src="js/jquery.js"></script>
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link href="http://cdn.bootcss.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/css.css">
+
+	<link rel="stylesheet" href="images/base.css">
+	<link rel="stylesheet" href="images/index.css">
+    <link rel="stylesheet" href="css/style.css">
+    <script src="js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="css/swiper.min.css">
+    <script src="js/swiper.min.js"></script>
+    <script type="text/javascript" src="js/SuperSlide.js"></script>
+    <style>
+        .tab .w-1 span{
+            display: inline-block;
+            text-align: center;
+            line-height: 2.4em;
+        }
+        .info-main{
+            width: 100%;
+            height: 2.4em;
+            text-align: center;
+            display: table;
+            vertical-align: inherit;
+        }
+        .info-main ul.infoList{
+            float: left;
+            width: 100%;
+        }
+        .box1 ul li{
+            float: left;
+            width: 100%;
+            height: 2.4em;
+            line-height: 2.4em;
+            display: table;
+            vertical-align: inherit;
+            text-align: center;
+        }
+        ul.infoList>li>span{
+            display: inline-block;
+        }
+        .info-main .bd>ul.infoList>li:nth-child(odd){
+            background: #ffff;
+        }
+        .info-main .bd>ul.infoList>li:nth-child(even){
+            background: #f9f9f9;
+        }
+        .info-main ul li{
+            line-height: 2.4em;
+            height: 2.4em;
+            text-align: center;
+        }
+        .info-main ul li span{
+            display: inline-block;
+            text-align: center;
+
+        }
+
+        .nav-pills>li{
+            width: 25%;
+            text-align: center;
+        }
+        .nav-pills>li+li {
+            margin-left: 0px !important;
+        }
+        .nav-pills>li>a {
+            border-radius: 4px;
+            font-size: 14px;
+            width: 100%;
+        }
+        a {
+            color: #ffffff;
+            text-decoration: none;
+        }
+        a:focus,a:hover{
+            border-radius: 0px !important;
+            color: #ffffff;
+            background-color: #578df3 !important;
+        }
+        .nav .open>a, .nav .open>a:focus, .nav .open>a:hover {
+            border-radius: 0px;
+            color: #ffffff;
+            background-color: #578df3;
+        }
+        .dropdown-menu {
+            min-width: auto !important;
+            position: absolute;
+            color: #b2c9fb;
+            top: 100%;
+            left: 0;
+            z-index: 1000;
+            display: none;
+            float: left;
+            padding: 5px 0;
+            margin: 2px 0 0;
+            font-size: 14px;
+            text-align: left;
+            list-style: none;
+            background:#42619e;
+            -webkit-background-clip: padding-box;
+            background-clip: padding-box;
+            -webkit-box-shadow: 0 6px 12px rgba(0,0,0,.175);
+        }
+        .dropdown-menu>li>a {
+            display: block;
+            clear: both;
+            font-weight: 400;
+            line-height: 1.42857143;
+            color: #ffffff;
+            white-space: nowrap;
+        }
+
+        .nav-pills>li>a {
+            border-radius: 0px;
+        }
+        .active{
+            border-radius: 0px;
+            color: #ffffff;
+            background-color: #337ab7;
+        }
+        .ys_teach_box ul li {
+            border:none;
+            font-size: 16px;
+            color: #747474;
+            width: 100%;
+            line-height: 12px;
+        }
+        .box1 ul {
+            margin-top: 0 !important;
+            width: 100%;
+        }
+    </style>
+</head>
+	<body>
+	    <div class="ban"><img src="images/header.jpg" /></div>
+<!-- 导航-->
+        <div class="nav">
+            <ul class="nav nav-pills">
+                <li role="presentation"><a href="/">首页</a></li>
+                <li role="presentation"><a href="jiuye.html" >就业模式</a></li>
+                <li role="presentation"><a href="javascript:;" class="active">企业展示</a></li>
+                <li role="presentation" class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
+                        更多<span class="caret"></span>
+                    </a>
+                    <ul class="dropdown-menu">
+                        <li><a href="ds/index.html">新电商运营</a></li>
+                        <li><a href="wh/index.html">网红主播</a></li>
+                        <li><a href="sort/index.html">短视频达人</a></li>
+                        <li><a href="teacher.html">授课名师</a></li>
+                        <li><a href="success.html">成功案例</a></li>
+                        <li><a href="http://www.51hongbei.cn/hongbeixinwen/" target="_blank">红呗资讯</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+        <div class="banner mwidth">
+            <div class="swiper-wrapper">
+                <div class="swiper-slide"><img src="images/qy-banner.jpg" /></div>
+            </div>
+
+        </div>
+        <div class="clearfix"></div>
+
+<!--哪些人适合我们的课程-->
+	    <div class="box1">
+			<div class="hd" style="text-align:center;">
+			 	<h2><font style="color:#578df3;">红呗首席教育官致辞</font></h2>
+                <p class="text-center" style="color: #b5b5b5;font-size: 14px;padding-top: 0px;padding-bottom: 8px">新职业教育即将进入高速发展</p>
+                <div class="next"><img src="images/next.png" /></div>
+                <div class=" text-center">
+                    <div style="width: 100%; margin: 20px auto">
+                        <img class="media-object" src="images/zhu.jpg" alt="首席教育官">
+                    </div>
+                    <h3 style="font-size: 20px;font-weight: 600">朱炜 | 首席教育官</h3>
+                    <div style="margin-top: 12px;padding: 10px">
+                        <p style="font-size: 14px;line-height: 24px;text-align: left">  红呗与企业HR高管达成新职业人才是送合作，红呗的新职业人才服务新模式，帮助企业解决人才“招聘难题”，促进企业HR同行间的交流及学习，也对企业伙伴表达一下深藏已久的感谢。
+
+                            红呗把自己定位成为一站式新职业教育提供商和一站式新媒体人才输送提供商，经过多年摸索与积累，红呗可以给企业伙伴提供一系列新媒体人才培养与输送服务。
+
+                            红呗欢迎广大企业朋友通过红呗解决新职业人才招聘问题。</p>
+
+                    </div>
+                </div>
+			</div>
+		</div>
+
+
+<!-- 电商岗位-->
+        <div class="ds-banner"><img src="images/qy-ds.jpg" /></div>
+        <div class="ds-font">精选新电商岗位</div>
+        <div class="tab">
+            <div class="w-1"><span style="width: 15%">职位名</span><span style="width: 60%">公司名</span><span>薪资</span></div>
+            <div class="info-main ds">
+                <div class="bd">
+                    <ul class="infoList">
+                        <li>
+                            <span style="width: 30%;text-align: left">电商运营专员</span>
+                            <span style="width: 35%">英*成语言</span>
+                            <span >7-9千/月</span>
+                        </li>
+                        <li>
+                            <span style="width: 30%;text-align: left">电商运营经理</span>
+                            <span style="width: 35%">好*友食品</span>
+                            <span>1.2-1.8万/月</span>
+                        </li>
+                        <li>
+                            <span style="width: 30%;text-align: left">电商运营经理</span>
+                            <span style="width: 35%">雅*兰黛</span>
+                            <span >4-5万/月</span>
+                        </li>
+                        <li>
+                            <span style="width: 30%;text-align: left">电商运营高级主任</span>
+                            <span style="width: 35%">上海安*</span>
+                            <span>1.2-1.8万/月</span>
+                        </li>
+                        <li>
+                            <span style="width: 30%;text-align: left">电商客服</span>
+                            <span style="width: 35%">阿拉*色彩</span>
+                            <span>1-1.5万/月</span>
+                        </li>
+                        <li>
+                            <span style="width: 30%;text-align: left">电商客服经理</span>
+                            <span style="width: 35%">耐*体育</span>
+                            <span>1-1.5万/月</span>
+                        </li>
+                        <li>
+                            <span style="width: 30%;text-align: left">电商客服</span>
+                            <span style="width: 35%">斑*智行科技</span>
+                            <span>0.8-1万/月</span>
+                        </li>
+                        <li>
+                            <span style="width: 30%;text-align: left">电商文案策划</span>
+                            <span style="width: 30%">*嘉网络</span>
+                            <span>0.8-1万/月</span>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <script type="text/javascript">
+                jQuery(".ds").slide({
+                    mainCell: ".bd ul",
+                    autoPlay: true,
+                    effect: "topMarquee",
+                    vis: 5,
+                    interTime: 50,
+                    trigger: "click"
+                });
+            </script>
+        </div>
+<!-- 网红岗位-->
+        <div class="ds-banner"><img src="images/qy-wh.jpg" /></div>
+        <div class="wh-font">精选主播招募</div>
+        <div class="tab">
+            <div class="w-1" style="background: #ee85ab"><span style="width: 15%">职位名</span><span style="width: 60%">公司名</span><span>薪资</span></div>
+            <div class="info-main wh">
+                <div class="bd">
+                    <ul class="infoList">
+                        <li>
+                            <span style="width: 30%;text-align: left">网红主播</span>
+                            <span style="width: 35%">橡*网络</span>
+                            <span >0.8-1.5万/月</span>
+                        </li>
+                        <li>
+                            <span style="width: 30%;text-align: left">主播运营经理</span>
+                            <span style="width: 35%">辉*文化</span>
+                            <span>3-6万/月</span>
+                        </li>
+                        <li>
+                            <span style="width: 30%;text-align: left">主播经纪</span>
+                            <span style="width: 35%">杭州*壳</span>
+                            <span >1.5-2万/月</span>
+                        </li>
+                        <li>
+                            <span style="width: 30%;text-align: left">网红主播</span>
+                            <span style="width: 35%">上海安*</span>
+                            <span>1.2-1.8万/月</span>
+                        </li>
+                        <li>
+                            <span style="width: 30%;text-align: left">游戏主播经纪人</span>
+                            <span style="width: 35%">*欧游戏</span>
+                            <span>0.8-1.5万/月</span>
+                        </li>
+                        <li>
+                            <span style="width: 30%;text-align: left">主播运营</span>
+                            <span style="width: 35%">哔哩哔*</span>
+                            <span>0.8-1.5万/月</span>
+                        </li>
+                        <li>
+                            <span style="width: 30%;text-align: left">主播运营经理</span>
+                            <span style="width: 35%">叮*云购</span>
+                            <span>1.2-1.5万/月</span>
+                        </li>
+                        <li>
+                            <span style="width: 30%;text-align: left">主播经纪</span>
+                            <span style="width: 30%">上海凯*</span>
+                            <span>0.8-1.5万/月</span>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <script type="text/javascript">
+                var ary = location.href.split("&");
+                jQuery(".wh").slide({
+                    mainCell: ".bd ul",
+                    autoPlay: true,
+                    effect: "topMarquee",
+                    vis: 5,
+                    interTime: 50,
+                    trigger: "click"
+                });
+            </script>
+        </div>
+
+
+ <!-- 短视频岗位-->
+        <div class="ds-banner"><img src="images/qy-sort.jpg" /></div>
+        <div class="sort-font">精选短视频运营岗位</div>
+        <div class="tab">
+            <div class="w-1" style="background: #1b1d3d"><span style="width: 15%">职位名</span><span style="width: 60%">公司名</span><span>薪资</span></div>
+            <div class="info-main sort">
+                <div class="bd">
+                    <ul class="infoList">
+                        <li>
+                            <span style="width: 30%;text-align: left">短视频运营主管</span>
+                            <span style="width: 35%">*安居</span>
+                            <span >1-1.5万/月</span>
+                        </li>
+                        <li>
+                            <span style="width: 30%;text-align: left">资讯短视频专员</span>
+                            <span style="width: 35%">搜*视频</span>
+                            <span>0.9-1.8万/月</span>
+                        </li>
+                        <li>
+                            <span style="width: 30%;text-align: left">短视频运营专员</span>
+                            <span style="width: 35%">好*来教育</span>
+                            <span >6-8千/月</span>
+                        </li>
+                        <li>
+                            <span style="width: 30%;text-align: left">短视频运营</span>
+                            <span style="width: 35%">统*企业</span>
+                            <span>0.8-1.3万/月</span>
+                        </li>
+                        <li>
+                            <span style="width: 30%;text-align: left">短视频后期制作</span>
+                            <span style="width: 35%">广州锦*</span>
+                            <span>0.8-1.2万/月</span>
+                        </li>
+                        <li>
+                            <span style="width: 30%;text-align: left">短视频策划/创作</span>
+                            <span style="width: 35%">艾帝尔</span>
+                            <span>00.8-1万/月</span>
+                        </li>
+                        <li>
+                            <span style="width: 30%;text-align: left">短视频广告优化师</span>
+                            <span style="width: 35%">百盛电*</span>
+                            <span>0.8-1万/月</span>
+                        </li>
+
+                    </ul>
+                </div>
+            </div>
+            <script type="text/javascript">
+                var ary = location.href.split("&");
+                jQuery(".sort").slide({
+                    mainCell: ".bd ul",
+                    autoPlay: true,
+                    effect: "topMarquee",
+                    vis: 5,
+                    interTime: 50,
+                    trigger: "click"
+                });
+            </script>
+        </div>
+
+<!-- 立即申请-->
+<!--        <div class="send_message mwidth">-->
+<!--            <div class="send_tt"><img src="images/zixun_tt.png" class="mwidth" /></div>-->
+<!--            <div class="ly_main">-->
+<!--                <div class="input_txt"><input type="text" class="mwidth" placeholder="姓名" /></div>-->
+<!--                <div class="input_txt" style="background-image:url(images/i18.png); background-position:10px 0.5em"><input type="text" class="mwidth" placeholder="手机" /></div>-->
+<!--            </div>-->
+<!--            <div class="btn_main mwidth">-->
+<!--                <span class="btn"><a href="https://tb.53kf.com/code/client/10187293/4">咨询更多</a></span>-->
+<!--                <span class="btn" style="background-color:#fe0000"><a href="https://tb.53kf.com/code/client/10187293/4">立即抢占</a></span>-->
+<!--            </div>-->
+<!--        </div>-->
+        <footer style="border-top: 1px solid #c0c0c0">
+            <div style="padding:14px;text-align: center;">
+                Powered by 杭州图播零教育科技有限公司<br />
+                @2002-2019  浙ICP备19005506号-2
+            </div>
+        </footer>
+        <div class="bdzx"><a class="zx_btn" href="https://tb.53kf.com/code/client/10187293/4"><i class="fa fa-commenting fa-2x" aria-hidden="true" style="padding-right: 10px"></i>在线咨询</a></div>
+</body>
+</html>

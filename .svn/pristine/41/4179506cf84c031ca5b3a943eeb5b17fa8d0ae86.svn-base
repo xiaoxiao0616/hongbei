@@ -1,0 +1,377 @@
+﻿<!DOCTYPE>
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<meta name="keywords" content="红呗,红呗官网,网红主播培训,电商运营,短视频达人"/>
+		<meta name="description" content="红呗专注新职业打造科技型互联网教育品牌，立志做到对每一位学员的认真负责，以效果为导向，理论、实战内外兼修，用专业让每一位学员成为行业抢手的精英人才。"/>
+<!--css		-->
+		<link href="http://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+		<link href="http://cdn.bootcss.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+		<link type="text/css" href="css/style.css" rel="stylesheet" />
+		<link type="text/css" href="css/reset.css" rel="stylesheet" />
+		<link rel="stylesheet" href="css/bootsnav.css">
+
+		<script type="text/JavaScript" src="js/jquery.js"></script>
+		<script type="text/javascript" src="js/SuperSlide.js"></script>
+
+		<script src="js/scrollUp.js"></script>
+
+		<title>就业模式_职业规划【红呗】</title>
+		<style>
+			.select-3 .t-1>span{color: #f95d37;}
+			nav.navbar.bootsnav{
+				border: none;
+				background: none;
+				margin-bottom: 150px;
+			}
+			.dropdown-menu{
+				min-width: 150px;
+			}
+			nav.navbar.bootsnav ul.nav > li:before{
+				content: "";
+				width: 2px;
+				height: 0;
+				background: #fff;
+				margin: 0 auto;
+				position: absolute;
+				bottom: 0;
+				left: 0;
+				right: 0;
+				transition: all 0.5s ease 0s;
+			}
+			nav.navbar.bootsnav ul.nav > li:hover:before{ height: 25px; }
+			nav.navbar.bootsnav ul.nav > li.megamenu-fw:before{ left: 11.3%; }
+			nav.navbar.bootsnav ul.nav > li:after{
+				content: "";
+				width: 10px;
+				height: 10px;
+				border-radius: 50%;
+				background: #fff;
+				margin: 0 auto;
+				position: absolute;
+				bottom: 70px;
+				left: 0;
+				right: 0;
+				opacity: 0;
+				transition: all 0.5s ease 0s;
+			}
+			nav.navbar.bootsnav ul.nav > li:hover:after{
+				bottom: 20px;
+				opacity: 1;
+			}
+			nav.navbar.bootsnav ul.nav > li.megamenu-fw:after{ left: 11.3%; }
+			nav.navbar.bootsnav ul.nav > li > a{
+				padding: 15px 15px 35px 15px;
+				margin: 0;
+				color: #fff;
+				text-transform: uppercase;
+				z-index: 1;
+				transition: all 0.5s ease 0s;
+			}
+			nav.navbar.bootsnav ul.nav > li.dropdown > a{
+				padding: 15px 30px 35px 15px;
+			}
+			nav.navbar.bootsnav ul.nav > li > a:hover{ color: #fff; }
+			nav.navbar.bootsnav ul.nav > li.dropdown > a.dropdown-toggle:after{
+				position: absolute;
+				margin: 0 0 0 7px;
+			}
+			nav.navbar.bootsnav ul.nav > li.dropdown > ul{
+				top: 120%;
+				transition: all 0.8s ease 0s;
+			}
+			nav.navbar.bootsnav ul.nav > li.dropdown.on > ul{
+				top: 100%;
+			}
+			.dropdown-menu.multi-dropdown{
+				position: absolute;
+				left: -100% !important;
+			}
+			nav.navbar.bootsnav li.dropdown ul.dropdown-menu{
+				box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+				border: none;
+			}
+			nav.navbar.bootsnav li.dropdown ul.dropdown-menu.megamenu-content li{
+				font-size: 14px;
+				color: #6f6f6f;
+			}
+			nav.navbar.bootsnav li.dropdown ul.dropdown-menu.megamenu-content .title{
+				font-size: 16px;
+				font-weight: bold;
+				color: #3f3f3f;
+			}
+
+		</style>
+
+	</head>
+	<body>
+	<div class="right-nav"></div>
+		<div class="banner">
+           	<div class="m">
+				<div class="head">
+					<div class="logo lf" style="z-index: 99999"><a href="index.html"><img src="images/logo.png" width="345" height="48"></a></div>
+					<div class="navMain">
+						<nav class="navbar navbar-default navbar-mobile bootsnav">
+							<div class="collapse navbar-collapse" id="navbar-menu">
+								<ul class="nav navbar-nav" data-in="fadeInDown" data-out="fadeOutUp" style="margin-top: 10px">
+									<li><a href="index.html">首页</a></li>
+									<li class="dropdown">
+										<a href="javascript:;" class="dropdown-toggle" data-toggle="dropdown" data-hover="Shortcodes">课程介绍</a>
+										<ul class="dropdown-menu">
+											<li><a href="ds/index.html">新电商运营</a></li>
+											<li><a href="wh/index.html">网红主播</a></li>
+											<li><a href="sort/index.html">短视频达人</a></li>
+										</ul>
+									</li>
+									<li><a href="javascript:;" style="opacity: 0.5">就业模式</a></li>
+									<li><a href="qiye.html">企业展示</a></li>
+									<li><a href="teacher.html">授课名师</a></li>
+									<li><a href="success.html">成功案例</a></li>
+									<li><a href="http://www.51hongbei.cn/hongbeixinwen/" target="_blank">资讯</a></li>
+								</ul>
+							</div>
+						</nav>
+					</div>
+					<div class="clear"></div>
+				</div>
+			</div>
+			<div class="xx3">
+				<div class="hd">
+					<ul>
+					</ul>
+				</div>
+				<div class="bd" >
+					<ul>
+						<li style="background:url(images/jy_banner.jpg) no-repeat top center;" id="particles-js-01"></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+<!--哪些人适合我们的课程-->
+		<div class="select-2 m">
+			<div class="t-1">哪些人适合我们的课程</div>
+			<div class="t-2">NEXT different</div>
+			<div class="employment-bg">
+				<div class="font01">
+					<p>
+						毕业后<br />
+						无一技之长
+					<h2>大学生</h2>
+					</p>
+				</div>
+				<div class="font02"><h2>新人主播</h2></div>
+				<div class="font03">希望有额外收入的<br /><h2>职场白领</h2></div>
+				<div class="font04">找不到方向的<br /><h2>职场新人</h2></div>
+				<div class="font05">希望成为<br /><h2>网红明星</h2> 普通人</div>
+				<div class="font06">
+					希望企业更好发展<br />
+					<h2>企业主</h2>
+				</div>
+			</div>
+		</div>
+<!--红呗学院体系-->
+		<div class="select-3" style="height: 670px;border-bottom: none;padding-top: 60px">
+			<div class="m">
+				<div class="t-1">红呗体系—<span>以学员利益为核心</span></div>
+				<div class="t-2">NEXT different</div>
+				<div class="ys_teach  ys_teach_box position_rel">
+					<p>优质教学</p>
+					<ul class="teach_ul clear_fix">
+						<li>强大的研发团队、豪华的面授师资阵容，</li>
+						<li>优质的教学体验，贴心的教学服务</li>
+						<li>学到真正符合企业用人需求的理论知识体系</li>
+						<li>获得扎实、具操作性的职业实践技能</li>
+					</ul>
+					<span class="span_1"></span>
+				</div>
+
+				<div class="ys_teach ys_teach_box position_rel">
+					<p>职业规划</p>
+					<ul class="teach_ul clear_fix" style="margin-left: 24px">
+						<li>与多家知名企业建立了战略合作关系</li>
+						<li>拥有专门的企业需求数据库</li>
+						<li>享有一手的企业岗位需求信息</li>
+						<li>全景式O2O就业保驾体系</li>
+					</ul>
+					<span class="span_2"></span>
+				</div>
+				<div class="ys_teach ys_teach_box position_rel">
+					<p>实训模式</p>
+					<ul class="teach_ul clear_fix" style="margin-left: 14px">
+						<li>特创“实战+实训”的授课模式</li>
+						<li>每一个学习模块都与实战演练紧密结合</li>
+						<li>理论学习完成后，更有实训营</li>
+						<li>真正接触上岗技能，拥有真实的项目成果</li>
+					</ul>
+					<span class="span_3"></span>
+				</div>
+			</div>
+		</div>
+
+<!--职业规划团队-->
+		<div class="jy-select">
+			<div class="m" style="margin-top: 22px;">
+				<div class="t-1">职业规划团队—<span>为学员的发展保驾护航</span></div>
+				<div class="t-2">NEXT different</div>
+				<div class="col-md-offset-1 col-md-10 mtop">
+					<div class="media">
+						<div class="media-left">
+							<div class="tea-bg-01"></div>
+						</div>
+						<div class="media-body" style="padding-top: 20px;padding-bottom: 10px;border-bottom: 1px dotted #999">
+							<h2 class="media-heading" style="font-size: 20px">Carol | 首席人才官</h2>
+							我们深谙互联网时代，企业对人才的苛求，因此我们提供精准、专业、高效的人才服务。我们拥有优秀的就业顾问团队，为求职者提供
+							优质、的就业服务，并持续帮助他们在职场中成长。
+						</div>
+					</div>
+				</div>
+				<div class="clear"></div>
+				<div class="col-md-offset-1 col-md-10 mtop">
+					<div class="media">
+						<div class="media-left">
+							<div class="tea-bg-02"></div>
+						</div>
+						<div class="media-body" style="padding-top: 20px;padding-bottom: 10px;border-bottom: 1px dotted #999">
+							<h2 class="media-heading" style="font-size: 20px">Lynn | 就业顾问</h2>
+							每天要和几十位企业HR经理沟通，口干舌燥，但是当学员们把一张张offer通过微信发给我的时候，所有的辛苦烟消云散。
+						</div>
+					</div>
+			    </div>
+				<div class="clear"></div>
+				<div class="col-md-offset-1 col-md-10 mtop">
+					<div class="media">
+						<div class="media-left">
+							<div class="tea-bg-03"></div>
+						</div>
+						<div class="media-body" style="padding-top: 20px;padding-bottom: 10px;border-bottom: 1px dotted #999">
+							<h2 class="media-heading" style="font-size: 20px">Edison | 就业顾问</h2>
+							对企业岗位专业知识缺乏实际应用能力，是困扰大学生求职的最主要因素。同学们要通过大量的实训，努力提升自己的竞争力。
+						</div>
+					</div>
+				</div>
+				<div class="clear"></div>
+				<div class="col-md-offset-1 col-md-10 mtop">
+					<div class="media" >
+						<div class="media-left">
+							<div class="tea-bg-04"></div>
+						</div>
+						<div class="media-body" style="padding-top: 20px;padding-bottom: 10px;border-bottom: 1px dotted #999">
+							<h2 class="media-heading" style="font-size: 20px">kathy | 就业顾问</h2>
+							每天最开心的有两件事情：一是企业反馈推荐的你们在工作中出色的能力，二是你们反馈在工作中的进步！
+						</div>
+					</div>
+				</div>
+				<div class="clear"></div>
+				<div class="col-md-offset-1 col-md-10 mtop">
+					<div class="media">
+						<div class="media-left">
+							<div class="tea-bg-05"></div>
+						</div>
+						<div class="media-body" style="padding-top: 20px;padding-bottom: 10px;border-bottom: 1px dotted #999">
+							<h2 class="media-heading" style="font-size: 20px">Hunk | 就业顾问</h2>
+							初入职场的两三年决定了你的未来。前三年不要太在乎薪水，应该选择一个发展前景好的行业，学习掌握过硬的本领，积累工作经验。
+						</div>
+					</div>
+				</div>
+				<div class="clear"></div>
+			</div>
+		</div>
+<!--企业logo-->
+		<div class="jy-select-01">
+			<div class="m">
+				<div class="jy-logo">
+				</div>
+			</div>
+		</div>
+<!--			广告-->
+		<div class="middle-banner">
+			<div class="font-main">
+				<a href="https://tb.53kf.com/code/client/10187293/4" style="display: inline-block;width: 960px;margin: 0 auto">
+					<span style="font-size:30px;color: #ffffff">红呗为企业输送专业的
+						<span style="font-size: 50px;color: #ffffff">新职业人才</span>
+						<span style="font-size: 14px;padding-left: 20px">>>点击更多</span>
+					</span>
+				</a>
+			</div>
+		</div>
+<!--o2o-->
+		<div class="select-3" style="height: 670px;border-bottom: none">
+			<div class="m">
+				<div class="t-1" style="margin-top: 20px">全景式O2O就业保驾体系</div>
+				<div class="t-2">NEXT different</div>
+				<div class="ys_teach_01  ys_teach_box01 position_rel">
+					<p>线上招聘云平台</p>
+					<ul class="teach_ul clear_fix">
+						<li>通过红呗自主
+							搭建的互联网招聘云平台，
+							为求职者提供快速就业入职服务</li>
+					</ul>
+					<span class="span_1"></span>
+				</div>
+				<div class="ys_teach_01  ys_teach_box01 position_rel">
+					<p>招聘网站合作联盟</p>
+					<ul class="teach_ul clear_fix">
+						<li>红呗与前程无忧、智联招聘、
+							猎聘网、中华英才网、58同城
+							等众多知名招聘平台合作，
+							确保工作岗位及时有效</li>
+					</ul>
+					<span class="span_2"></span>
+				</div>
+				<div class="ys_teach_01  ys_teach_box01 position_rel">
+					<p>线下企业双选会</p>
+					<ul class="teach_ul clear_fix">
+						<li>红呗联合众多互联网电商
+							企业、网红经纪公司，主播公会，
+							直播平台，新型自媒体企业，
+							举办线下招聘会与双选会，
+							实现求职者与企业的快速对接</li>
+					</ul>
+					<span class="span_3"></span>
+				</div>
+				<div class="ys_teach_01  ys_teach_box01 position_rel">
+					<p>岗前实训+企业委培</p>
+					<ul class="teach_ul clear_fix">
+						<li>红呗为缺乏基础又想实现
+							职业转型的求职者
+							提供一站式岗前实训服务，
+							并参与企业众包项目提升
+							就业经验。同时有机会
+							成为企业定向委培人员</li>
+					</ul>
+					<span class="span_4"></span>
+				</div>
+			</div>
+		</div>
+
+<!-- footer-->
+		<div class="foot">
+			<div class="m">
+				<p>Powered by 杭州图播零教育科技有限公司@2002-2019</p>
+				<p>浙ICP备19005506号-2</p>
+			</div>
+		</div>
+		<!--置顶按钮-->
+		<a id="scrollUp" href="#top" style="position: fixed; z-index: 2147483647;display: none"></a>
+
+		<script type="text/javascript" src="js/bootstrap.min.js"></script>
+		<script type="text/javascript" src="js/bootsnav.js"></script>
+
+	<script>
+		//置顶按钮
+		$(function() {
+			$.scrollUp({
+				scrollName : "scrollUp",
+				topDistance : "300",
+				topSpeed : 300,
+				animation : "slide",
+				animationInSpeed : 200,
+				animationOutSpeed : 200,
+				scrollText:'<i class="fa fa-angle-up"></i>'
+			});
+		});
+	</script>
+
+	</body>
+</html>

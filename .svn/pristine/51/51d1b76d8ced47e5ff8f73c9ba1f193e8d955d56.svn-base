@@ -1,0 +1,758 @@
+﻿ <!DOCTYPE HTML>
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="keywords" content="红呗,红呗官网,网红主播培训,电商运营,短视频达人"/>
+<meta name="description" content="红呗是一家科技型互联网教育品牌，依托互联网教育领域的强大师资及互联网科技平台，红呗将网红主播培训，网红短视频创作、培养电商运营人才、主流网红经纪为主要发展方向，立志於服务互联网新科技人才培养，为媒体内容创新提供人才。"/>
+<title>网红主播培训_主播培训班_红呗</title>
+ <link href="http://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+<link href="http://cdn.bootcss.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="css/style.css">
+<link rel="stylesheet" type="text/css" href="css/main.css">
+<link rel="stylesheet" type="text/css" href="css/base.css">
+     <link rel="stylesheet" href="../css/bootsnav.css">
+<script src="js/jquery-3.2.1.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script type="text/javascript" src="../js/bootsnav.js"></script>
+<script src="../js/scrollUp.js"></script>
+<!-- Link Swiper's CSS -->
+<link rel="stylesheet" href="css/swiper.min.css">
+     <style>
+         .right-nav-01{position: fixed;width: 262px;height: 56px;right: 0;top: 60px;background: url("../images/right-tel.png") no-repeat center center;z-index: 999999}
+         .right-nav{
+             height: 60px;
+             position: absolute;
+             right: 0;
+             font-size: 16px;
+             top:17px;
+         }
+         .head{
+             position: relative;
+             height: 60px;
+             line-height: 60px;
+
+         }
+         .head .navMain{
+             width: 1100px;
+             height: 60px;
+             line-height: 60px;
+             position: absolute;
+             left: 50%;
+             margin: 3px 0px 0px -550px;}
+         .head .navMain .logo{
+             position: absolute;
+             left: 0px;
+
+         }
+         nav.navbar.bootsnav{
+             border: none;
+             background: none;
+             margin-bottom: 150px;
+         }
+         .dropdown-menu{
+             min-width: 150px;
+         }
+         nav.navbar.bootsnav ul.nav > li:before{
+             content: "";
+             width: 2px;
+             height: 0;
+             background: #fff;
+             margin: 0 auto;
+             position: absolute;
+             bottom: 0;
+             left: 0;
+             right: 0;
+             transition: all 0.5s ease 0s;
+         }
+         nav.navbar.bootsnav ul.nav > li:hover:before{ height: 25px; }
+         nav.navbar.bootsnav ul.nav > li.megamenu-fw:before{ left: 11.3%; }
+         nav.navbar.bootsnav ul.nav > li:after{
+             content: "";
+             width: 10px;
+             height: 10px;
+             border-radius: 50%;
+             background: #fff;
+             margin: 0 auto;
+             position: absolute;
+             bottom: 70px;
+             left: 0;
+             right: 0;
+             opacity: 0;
+             transition: all 0.5s ease 0s;
+         }
+         nav.navbar.bootsnav ul.nav > li:hover:after{
+             bottom: 20px;
+             opacity: 1;
+         }
+         nav.navbar.bootsnav ul.nav > li.megamenu-fw:after{ left: 11.3%; }
+         nav.navbar.bootsnav ul.nav > li > a{
+             padding: 15px 15px 35px 15px;
+             margin: 0;
+             color: #fff;
+             text-transform: uppercase;
+             z-index: 1;
+             transition: all 0.5s ease 0s;
+         }
+         nav.navbar.bootsnav ul.nav > li.dropdown > a{
+             font-size: 16px;
+             padding: 15px 30px 35px 15px;
+         }
+         nav.navbar.bootsnav ul.nav > li > a:hover{ color: #fff; }
+         nav.navbar.bootsnav ul.nav > li.dropdown > a.dropdown-toggle:after{
+             position: absolute;
+             margin: 0 0 0 7px;
+         }
+         nav.navbar.bootsnav ul.nav > li.dropdown > ul{
+             top: 120%;
+             transition: all 0.8s ease 0s;
+         }
+         nav.navbar.bootsnav ul.nav > li.dropdown.on > ul{
+             top: 100%;
+         }
+         .dropdown-menu.multi-dropdown{
+             position: absolute;
+             left: -100% !important;
+         }
+         nav.navbar.bootsnav li.dropdown ul.dropdown-menu{
+             box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+             border: none;
+         }
+         nav.navbar.bootsnav li.dropdown ul.dropdown-menu.megamenu-content li{
+             font-size: 14px;
+             color: #6f6f6f;
+         }
+         nav.navbar.bootsnav li.dropdown ul.dropdown-menu.megamenu-content .title{
+             font-size: 16px;
+             font-weight: bold;
+             color: #3f3f3f;
+         }
+         .dropdown-menu{font-size:16px}
+         .navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:focus, .navbar-default .navbar-nav>.open>a:hover{
+             background: none;
+         }
+
+         #scrollUp {
+             background-color: #777;
+             color: #eee;
+             font-size: 40px;
+             line-height: 1;
+             text-align: center;
+             text-decoration: none;
+             bottom: 20px;
+             right: 20px;
+             overflow: hidden;
+             width: 46px;
+             height: 46px;
+             border: none;
+             opacity: .8;
+         }
+
+     </style>
+     <!-- Swiper JS -->
+<script src="js/swiper.min.js"></script>
+
+
+</head>
+<body style="background:url(images/main-bg.png) top center;">
+<div class="right-nav-01"></div>
+<div class="head" style="background: #000022">
+    <div class="navMain">
+        <div class="logo lf" style="z-index: 99999"><a href="../index.html"><img src="images/logo.png" width="345" height="48"></a></div>
+        <div class="right-nav">
+            <nav class="navbar navbar-default navbar-mobile bootsnav">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
+                        <i class="fa fa-bars"></i>
+                    </button>
+                </div>
+                <div class="collapse navbar-collapse" id="navbar-menu">
+                    <ul class="nav navbar-nav" data-in="fadeInDown" data-out="fadeOutUp">
+                        <li><a href="../index.html" data-hover="Home">首页</a></li>
+                        <li class="dropdown">
+                            <a href="javascript:;" class="dropdown-toggle" data-toggle="dropdown" data-hover="Shortcodes" style="opacity: 0.5">课程介绍</a>
+                            <ul class="dropdown-menu">
+                                <li><a href="../ds/index.html">新电商运营</a></li>
+                                <li><a href="../wh/index.html">网红主播</a></li>
+                                <li><a href="../sort/index.html">短视频达人</a></li>
+                            </ul>
+                        </li>
+
+                        <li><a href="../jiuy.html" data-hover="About">就业模式</a></li>
+                        <li><a href="../qiye.html" data-hover="Portfolio">企业展示</a></li>
+                        <li><a href="../teacher.html" data-hover="Contact">授课名师</a></li>
+                        <li><a href="../success.html" data-hover="Contact">成功案例</a></li>
+                        <li><a href="http://www.51hongbei.cn/hongbeixinwen/">资讯</a></li>
+                    </ul>
+                </div>
+            </nav>
+        </div>
+    </div>
+    <div class="clear"></div>
+</div>
+
+
+
+<!-- Swiper -->
+<div class="swiper-container wow fadeInUpBig" data-wow-delay="0.3s" style="padding-top: 25px;background: #000022">
+    <div class="swiper-wrapper">
+        <div class="swiper-slide">
+            <div style="background:url(images/banner.jpg) no-repeat top center; height:842px;"></div>
+        </div>
+
+    </div>
+</div>
+
+
+
+<div class="container-fluid weixin" style="margin:50px 0 0 0;">
+    <div class="container text-center" style="padding:0; margin-top:0;">
+        <h1 class="text-center center-block" style="color:#fff; font-size:36px; border-radius:10em; border:2px solid #fff; width:60%; padding:19px;">为什么选择我们来学习网红主播课程</h1><br>
+        <div class="row" style="margin-top: 30px">
+            <div class="col-lg-4 wow bounceInLeft center-block" style="margin-top:20px;" data-wow-delay="0.3s">
+                <div class="new-list" style="background:url(images/new_1.png) no-repeat top center;">
+                    <p class="nfont1">经纪公司/公会</p>
+                    <p class="nfont2">无责底薪签约</p>
+                    <a class="btn btn-danger btn-lg" style="margin-top: 60px;width: 240px" href="https://tb.53kf.com/code/client/10187293/4" target="_blank">咨询客服</a>
+                </div>
+            </div>
+
+            <div class="col-lg-8 wow bounceInLeft center-block" style="margin-top:20px;" data-wow-delay="0.4s">
+                <div class="col-lg-6">
+                    <div class="new-list-01" >
+                        <p class="nfont3">直播平台</p>
+                        <p class="nfont4">提供推广资源</p>
+                        <p class="nfont4">打造流量网红</p>
+                        <a class="btn btn-warning btn-lg" style="margin-top: 20px;width: 150px" href="https://tb.53kf.com/code/client/10187293/4" target="_blank">咨询客服</a>
+                        <img src="images/nicon_01.png" class="pull-right" style="bottom: 20px;right:10px;position: absolute"/>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="new-list-01" style="background: #23908c">
+                        <p class="nfont3">资深导师</p>
+                        <p class="nfont4">直播实战经验</p>
+                        <p class="nfont4">打造专业主播</p>
+                        <a class="btn btn-warning btn-lg" style="margin-top: 20px;width: 150px" href="https://tb.53kf.com/code/client/10187293/4" target="_blank">咨询客服</a>
+                        <img src="images/nicon_02.png" class="pull-right" style="bottom: 20px;right:10px;position: absolute"/>
+                    </div>
+                </div>
+                <div class="col-lg-6" style="margin-top: 6px;">
+                    <div class="new-list-01"style="background: #23908c">
+                        <p class="nfont3">资源平台</p>
+                        <p class="nfont4">丰富的商家资源</p>
+                        <p class="nfont4">实现流量变现</p>
+                        <a class="btn btn-warning btn-lg" style="margin-top: 20px;width: 150px" href="https://tb.53kf.com/code/client/10187293/4" target="_blank">咨询客服</a>
+                        <img src="images/nicon_03.png" class="pull-right" style="bottom: 20px;right:10px;position: absolute"/>
+                    </div>
+                </div>
+                <div class="col-lg-6" style="margin-top: 6px">
+                    <div class="new-list-01">
+                        <p class="nfont3">人脉资源</p>
+                        <p class="nfont4">你的同学是网红</p>
+                        <p class="nfont4">网红流量资源</p>
+                        <a class="btn btn-warning btn-lg" style="margin-top: 20px;width: 150px" href="https://tb.53kf.com/code/client/10187293/4" target="_blank">咨询客服</a>
+                        <img src="images/nicon_04.png" class="pull-right" style="bottom: 20px;right:10px;position: absolute"/>
+                    </div>
+                </div>
+            </div>
+
+
+        </div>
+
+    </div>
+</div>
+
+
+<div class="container-fluid" style="background:url(images/wh-block07-bg.jpg) top center; margin:0 0 0 0; padding-bottom:70px;">
+    <div class="container text-center" style="padding:0; margin-top:90px;">
+            <h1 class="text-center center-block" style="color:#fff; font-size:36px; border-radius:10em; border:2px solid #fff; width:60%; padding:19px;">我们的优势</h1><br>
+            
+            <div class="row text-center" style="margin-top:30px;">
+            
+                <div class="col-lg-3 wow bounceInLeft center-block" style="margin-top:40px;" data-wow-delay="0.3s">
+                	<div class="center-block" style=" background:url(images/wh-block07-lbg.jpg) no-repeat top center; width:216px; height:216px; font-size:36px; color:#FFF; padding-top:50px;">
+                    	签约<br><font style="font-weight:bold; color:#ffca00;">一条龙服务</font>
+                    </div><br><br>
+                    <a href="https://tb.53kf.com/code/client/10187293/2" target="_blank" class="wh-a-s center-block wow fadeInUpBig" data-wow-delay="0s">了解更多</a>
+                </div>
+                <div class="col-lg-3 wow bounceInLeft center-block" style="margin-top:40px;" data-wow-delay="0.3s">
+                	<div class="center-block" style=" background:url(images/wh-block07-lbg.jpg) no-repeat top center; width:216px; height:216px; font-size:28px; color:#FFF; padding-top:60px;">
+                    	<font style="font-weight:bold; color:#ffca00;">快速实现</font><br>素人到网红蜕变
+                    </div><br><br>
+                    <a href="https://tb.53kf.com/code/client/10187293/2" target="_blank" class="wh-a-s center-block wow fadeInUpBig" data-wow-delay="0s">了解更多</a>
+                </div>
+                <div class="col-lg-3 wow bounceInLeft center-block" style="margin-top:40px;" data-wow-delay="0.3s">
+                	<div class="center-block" style=" background:url(images/wh-block07-lbg.jpg) no-repeat top center; width:216px; height:216px; font-size:30px; color:#FFF; padding-top:60px;">
+                    	超级网红主播<br><font style="font-weight:bold; color:#ffca00; font-size:30px;">分享打赏秘籍</font>
+                    </div><br><br>
+                    <a href="https://tb.53kf.com/code/client/10187293/2" target="_blank" class="wh-a-s center-block wow fadeInUpBig" data-wow-delay="0s">了解更多</a>
+                </div>
+                <div class="col-lg-3 wow bounceInLeft center-block" style="margin-top:40px;" data-wow-delay="0.3s">
+                	<div class="center-block" style=" background:url(images/wh-block07-lbg.jpg) no-repeat top center; width:216px; height:216px; font-size:36px; color:#FFF; padding-top:50px;">
+                    	入驻<br><font style="font-weight:bold; color:#ffca00; font-size:30px;">网红主播基地</font>
+                    </div><br><br>
+                    <a href="https://tb.53kf.com/code/client/10187293/2" target="_blank" class="wh-a-s center-block wow fadeInUpBig" data-wow-delay="0s">了解更多</a>
+                </div>
+                
+                
+                <div class="col-lg-3 wow bounceInLeft center-block" style="margin-top:60px;" data-wow-delay="0.3s">
+                	<div class="center-block" style=" background:url(images/wh-block07-lbg.jpg) no-repeat top center; width:216px; height:216px; font-size:36px; color:#FFF; padding-top:50px;">
+                    	<font style="font-weight:bold; color:#ffca00;">1对1定制</font><br>推广包装
+                    </div><br><br>
+                    <a href="https://tb.53kf.com/code/client/10187293/2" target="_blank" class="wh-a-s center-block wow fadeInUpBig" data-wow-delay="0s">了解更多</a>
+                </div>
+                <div class="col-lg-3 wow bounceInLeft center-block" style="margin-top:60px;" data-wow-delay="0.3s">
+                	<div class="center-block" style=" background:url(images/wh-block07-lbg.jpg) no-repeat top center; width:216px; height:216px; font-size:30px; color:#FFF; padding-top:40px;">
+                    	<font style="font-weight:bold; color:#ffca00; font-size:36px;">享受</font><br>流量扶持<br>政策红利
+                    </div><br><br>
+                    <a href="https://tb.53kf.com/code/client/10187293/2" target="_blank" class="wh-a-s center-block wow fadeInUpBig" data-wow-delay="0s">了解更多</a>
+                </div>
+                <div class="col-lg-3 wow bounceInLeft center-block" style="margin-top:60px;" data-wow-delay="0.3s">
+                	<div class="center-block" style=" background:url(images/wh-block07-lbg.jpg) no-repeat top center; width:216px; height:216px; font-size:24px; color:#FFF; padding-top:60px;">
+                    	<font style="font-weight:bold; color:#ffca00; font-size:36px;">流量大V</font><br>教你流量变现攻略
+                    </div><br><br>
+                    <a href="https://tb.53kf.com/code/client/10187293/2" target="_blank" class="wh-a-s center-block wow fadeInUpBig" data-wow-delay="0s">了解更多</a>
+                </div>
+                <div class="col-lg-3 wow bounceInLeft center-block" style="margin-top:60px;" data-wow-delay="0.3s">
+                	<div class="center-block" style=" background:url(images/wh-block07-lbg.jpg) no-repeat top center; width:216px; height:216px; font-size:36px; color:#FFF; padding-top:50px;">
+                    	优质流量<br><font style="font-weight:bold; color:#ffca00;">倾力打造</font>
+                    </div><br><br>
+                    <a href="https://tb.53kf.com/code/client/10187293/4" target="_blank" class="wh-a-s center-block wow fadeInUpBig" data-wow-delay="0s">了解更多</a>
+                </div>
+            </div>
+    </div>
+</div>
+
+
+
+<div class="container-fluid weixin" style="margin:50px 0 0 0; padding-bottom:70px;">
+    <div class="container text-center" style="padding:0; margin-top:0;">
+        <h1 class="text-center center-block" style="color:#fff; font-size:36px; border-radius:10em; border:2px solid #fff; width:60%; padding:19px;">我们的课程包含以下内容</h1><br>
+        <p class="text-center" style="font-size:24px; color:#fff;">这些方法和策略已经证明 <font style="font-weight:bold;">100%有效果</font> 能够快速出结果</p>
+
+        <div class="row" style="margin-top:30px;">
+            <div class="col-lg-3 wow bounceInLeft center-block" style="margin-top:20px;" data-wow-delay="0.3s">
+                <div class="list" style="background:url(images/wh-block01-bg01.png) no-repeat top center;">
+                    <img src="images/wh-block01-icon.png" class="pull-left img-icon" /><br><br><br>
+                    <img src="images/wh-block01-img01.png" class="center-block d-b-icon1" /><br>
+                    获取打赏的技巧
+                </div>
+            </div>
+            <div class="col-lg-3 wow bounceInLeft center-block" style="margin-top:20px;" data-wow-delay="0.1s">
+                <div class="list" style="background:url(images/wh-block01-bg02.png) no-repeat top center;">
+                    <img src="images/wh-block01-icon.png" class="pull-left img-icon" /><br><br><br>
+                    <img src="images/wh-block01-img02.png" class="center-block d-b-icon1" /><br>
+                    从零起步培养粉丝
+                </div>
+            </div>
+            <div class="col-lg-3 wow bounceInRight center-block" style="margin-top:20px;" data-wow-delay="0.1s">
+                <div class="list" style="background:url(images/wh-block01-bg03.png) no-repeat top center;">
+                    <img src="images/wh-block01-icon.png" class="pull-left img-icon" /><br><br><br>
+                    <img src="images/wh-block01-img03.png" class="center-block d-b-icon1" /><br>
+                    直播内容的设计
+                </div>
+            </div>
+            <div class="col-lg-3 wow bounceInRight center-block" style="margin-top:20px;" data-wow-delay="0.3s">
+                <div class="list" style="background:url(images/wh-block01-bg04.png) no-repeat top center;">
+                    <img src="images/wh-block01-icon.png" class="pull-left img-icon" /><br><br><br>
+                    <img src="images/wh-block01-img04.png" class="center-block d-b-icon1" /><br>
+                    直播唠嗑的技巧
+                </div>
+            </div>
+            <div class="col-lg-3 wow bounceInLeft center-block" style="margin-top:20px;" data-wow-delay="0.5s">
+                <div class="list" style="background:url(images/wh-block01-bg05.png) no-repeat top center;">
+                    <img src="images/wh-block01-icon.png" class="pull-left img-icon" /><br><br><br>
+                    <img src="images/wh-block01-img05.png" class="center-block d-b-icon1" /><br>
+                    拯救冷场的方法
+                </div>
+            </div>
+            <div class="col-lg-3 wow bounceInLeft center-block" style="margin-top:20px;" data-wow-delay="0.3s">
+                <div class="list" style="background:url(images/wh-block01-bg06.png) no-repeat top center;">
+                    <img src="images/wh-block01-icon.png" class="pull-left img-icon" /><br><br><br>
+                    <img src="images/wh-block01-img06.png" class="center-block d-b-icon1" /><br>
+                    段子手的自我养成
+                </div>
+            </div>
+            <div class="col-lg-3 wow bounceInRight center-block" style="margin-top:20px;" data-wow-delay="0.3s">
+                <div class="list" style="background:url(images/wh-block01-bg08.png) no-repeat top center;">
+                    <img src="images/wh-block01-icon.png" class="pull-left img-icon" /><br><br><br>
+                    <img src="images/wh-block01-img08.png" class="center-block d-b-icon1" /><br>
+                    短视频热门玩法
+                </div>
+            </div>
+            <div class="col-lg-3 wow bounceInRight center-block" style="margin-top:20px;" data-wow-delay="0.5s">
+                <div class="list" style="background:url(images/wh-block01-bg07.png) no-repeat top center;">
+                    <img src="images/wh-block01-icon.png" class="pull-left img-icon" /><br><br><br>
+                    <img src="images/wh-block01-img07.png" class="center-block d-b-icon1" /><br>
+                    直播K歌常发技巧
+                </div>
+            </div>
+            <div class="col-lg-3 wow bounceInLeft center-block" style="margin-top:20px;" data-wow-delay="0.7s">
+                <div class="list" style="background:url(images/wh-block01-bg09.png) no-repeat top center;">
+                    <img src="images/wh-block01-icon.png" class="pull-left img-icon" /><br><br><br>
+                    <img src="images/wh-block01-img09.png" class="center-block d-b-icon1" /><br>
+                    套路助力打赏飙升
+                </div>
+            </div>
+            <div class="col-lg-3 wow bounceInLeft center-block" style="margin-top:20px;" data-wow-delay="0.5s">
+                <div class="list" style="background:url(images/wh-block01-bg10.png) no-repeat top center;">
+                    <img src="images/wh-block01-icon.png" class="pull-left img-icon" /><br><br><br>
+                    <img src="images/wh-block01-img10.png" class="center-block d-b-icon1" /><br>
+                    学会内容打造突破打赏瓶颈
+                </div>
+            </div>
+            <div class="col-lg-3 wow bounceInRight center-block" style="margin-top:20px;" data-wow-delay="0.5s">
+                <div class="list" style="background:url(images/wh-block01-bg11.png) no-repeat top center;">
+                    <img src="images/wh-block01-icon.png" class="pull-left img-icon" /><br><br><br>
+                    <img src="images/wh-block01-img11.png" class="center-block d-b-icon1" /><br>
+                    特殊才艺的设计
+                </div>
+            </div>
+            <div class="col-lg-3 wow bounceInRight center-block" style="margin-top:20px;" data-wow-delay="0.7s">
+                <div class="list" style="background:url(images/wh-block01-bg12.png) no-repeat top center;">
+                    <img src="images/wh-block01-icon.png" class="pull-left img-icon" /><br><br><br>
+                    <img src="images/wh-block01-img12.png" class="center-block d-b-icon1" /><br>
+                    短视频拍摄运镜技巧
+                </div>
+            </div>
+
+            <div class="clearfix"></div>
+        </div>
+    </div>
+</div>
+
+
+
+
+<div class="container-fluid" style="margin:0 0 0 0; padding-bottom:70px; background:url(images/wh-block02-bg.jpg) top center;">
+    <div class="container text-center" style="padding:0; margin-top:50px;">
+            <h1 class="text-center center-block" style="color:#fff; font-size:36px; border-radius:10em; border:2px solid #fff; width:80%; padding:19px; margin-bottom:50px;">一对一培养方向确定 + 制定适宜的教学方案和包装</h1><br>
+
+            <img src="images/wh-block02-img01.jpg" class="wow fadeInUpBig" data-wow-delay="0.4s" />
+            <img src="images/wh-block02-img02.jpg" class="wow fadeInUpBig" data-wow-delay="0.5s" />
+            <img src="images/wh-block02-img03.jpg" class="wow fadeInUpBig" data-wow-delay="0.6s" />
+            <img src="images/wh-block02-img04.jpg" class="wow fadeInUpBig" data-wow-delay="0.7s" />
+            <img src="images/wh-block02-img05.jpg" class="wow fadeInUpBig" data-wow-delay="0.8s" />
+    </div>
+</div>
+
+
+
+
+
+
+<div class="container-fluid" style="margin:50px 0 0 0; background:url(images/wh-block03-bg.jpg) top center;">
+    <div class=" text-center" style="padding:0; margin-top:50px;">
+            <h1 class="text-center center-block" style="color:#fff; font-size:36px; border-radius:10em; border:2px solid #fff; width:40%; padding:19px; margin-bottom:50px;">他们已经成功下一个会是你吗？</h1><br>
+			
+            <div class="container">
+            	<div class="row">
+                    <div class="col-lg-3 wn-block03-div01 wow fadeInUpBig center-block" style="margin-top:20px;" data-wow-delay="0.1s"></div>
+                    <div class="col-lg-3 wn-block03-div02 wow fadeInUpBig center-block" style="margin-top:20px;" data-wow-delay="0.2s"></div>
+                    <div class="col-lg-3 wn-block03-div03 wow fadeInUpBig center-block" style="margin-top:20px;" data-wow-delay="0.3s"></div>
+                </div>
+                
+               <h1 class="text-center center-block" style="color:#fff; font-size:36px; border-radius:10em; border:2px solid #fff; width:60%; padding:19px; margin-bottom:50px;">累积培训上千名专业网络主播</h1><br>
+
+                <div style="background:url(images/wh-block04-bg.jpg) no-repeat top center; height:410px; text-align:left;" class="wow fadeInUpBig">
+                    <div style="position: relative;width: 100%">
+                        <div style="position: absolute;left: 0;">
+                            <iframe src="//1259107979.vod2.myqcloud.com/vod-player/1259107979/5285890791589372779/tcplayer/console/vod-player.html?autoplay=false&width=720&height=480"
+                                    frameborder="0" scrolling="no" width="620" height="471" allowfullscreen >
+                            </iframe>
+                        </div>
+
+                    </div>
+
+                </div>
+
+<!--                    <iframe frameborder="0" src="https://v.qq.com/txp/iframe/player.html?vid=d0820wwvvyc" allowFullScreen="true" style="width:643px; height:508px;"></iframe>-->
+
+            
+            </div><br><br>
+
+			
+    </div>
+</div>
+
+
+<div style="margin:0 0 0 0; padding-bottom:70px; background:url(images/wh-block02-bg.jpg) top center;">
+    <div class="container text-center" style="padding:0; margin-top:50px;">
+        <h1 class="text-center center-block" style="color:#fff; font-size:36px; border-radius:10em; border:2px solid #fff; width:80%; padding:19px;margin-top: 50px; margin-bottom:50px;">网红主播最新毕业学员</h1><br>
+
+        <div class="swiper-container" id="swiper1"  style="overflow: hidden">
+            <div class="swiper-wrapper">
+                <div class="swiper-slide">
+                    <div class="row text-center" style="margin:0 auto;width: 960px">
+                        <div class="col-lg-12" style="margin-top:50px;" data-wow-delay="0.3s">
+                            <img src="images/wh_pic_01.jpg" style="float:left; margin-right:20px;" />
+                            <p style="text-align:left; font-size:18px; line-height:30px; padding:10px 0 0 0;">
+                                <font style="font-size:24px; font-weight:bold;">培训前</font><br>
+                                福建南平一家小餐馆的服务员，每天端盘子、洗碗，忍受着客人的刁难，每个月到却只有2000出头，生了孩子之后，更是差点抑郁自杀。<br />
+                                <font style="font-size:24px; font-weight:bold;">培训后</font><br>
+                                在朋友圈看到红呗的招生广告，一番了解之后决定报名培训。凭借着对家乡美食的喜爱，琪琪成为花椒直播平台的一名美食主播，如今月入3万，不仅学会了烹饪各种各样的美食，而且工作时间自由，有更多的时间陪伴孩子成长。<br />
+                                <font style="font-size:24px; font-weight:bold;">寄  语</font><br>
+                                我不敢想象如果没有遇到红呗，我的生活会是什么样子的，是红呗给了我一次重生的机会！万分感激红呗导师对我的耐心指导，希望学弟学妹们好好把握这次机会！
+                            <p>
+                        </div>
+                    </div>
+                </div>
+                <div class="swiper-slide">
+                    <div class="row text-center" style="margin:0 auto;width: 960px">
+                        <div class="col-lg-12 " style="margin-top:50px;" data-wow-delay="0.3s">
+                            <img src="images/wh_pic_02.jpg" style="float:left; margin-right:20px;" />
+                            <p style="text-align:left; font-size:18px; line-height:30px; padding:10px 0 0 0;">
+                                <font style="font-size:24px; font-weight:bold;">培训前</font><br>
+                                福建南平一家小餐馆的服务员，每天端盘子、洗碗，忍受着客人的刁难，每个月到却只有2000出头，生了孩子之后，更是差点抑郁自杀。<br />
+                                <font style="font-size:24px; font-weight:bold;">培训后</font><br>
+                                在朋友圈看到红呗的招生广告，一番了解之后决定报名培训。凭借着对家乡美食的喜爱，琪琪成为花椒直播平台的一名美食主播，如今月入3万，不仅学会了烹饪各种各样的美食，而且工作时间自由，有更多的时间陪伴孩子成长。<br />
+                                <font style="font-size:24px; font-weight:bold;">寄  语</font><br>
+                                我不敢想象如果没有遇到红呗，我的生活会是什么样子的，是红呗给了我一次重生的机会！万分感激红呗导师对我的耐心指导，希望学弟学妹们好好把握这次机会！
+                            <p>
+                        </div>
+                    </div>
+                </div>
+                <div class="swiper-slide">
+                    <div class="row text-center" style="margin:0 auto;width: 960px">
+                        <div class="col-lg-12" style="margin-top:50px;" data-wow-delay="0.3s">
+                            <img src="images/wh_pic_03.jpg" style="float:left; margin-right:20px;" />
+                            <p style="text-align:left; font-size:18px; line-height:30px; padding:10px 0 0 0;">
+                                <font style="font-size:24px; font-weight:bold;">培训前</font><br>
+                                福建南平一家小餐馆的服务员，每天端盘子、洗碗，忍受着客人的刁难，每个月到却只有2000出头，生了孩子之后，更是差点抑郁自杀。<br />
+                                <font style="font-size:24px; font-weight:bold;">培训后</font><br>
+                                在朋友圈看到红呗的招生广告，一番了解之后决定报名培训。凭借着对家乡美食的喜爱，琪琪成为花椒直播平台的一名美食主播，如今月入3万，不仅学会了烹饪各种各样的美食，而且工作时间自由，有更多的时间陪伴孩子成长。<br />
+                                <font style="font-size:24px; font-weight:bold;">寄  语</font><br>
+                                我不敢想象如果没有遇到红呗，我的生活会是什么样子的，是红呗给了我一次重生的机会！万分感激红呗导师对我的耐心指导，希望学弟学妹们好好把握这次机会！
+                            <p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Add Arrows -->
+            <div class="swiper-button-next"></div>
+            <div class="swiper-button-prev"></div>
+
+        </div>
+
+        <script src="js/swiper.min.js"></script>
+
+        <script>
+            $(document).ready(function(){
+                var mySwiper = new Swiper ('#swiper1', {
+                    navigation: {
+                        nextEl: '.swiper-button-next',
+                        prevEl: '.swiper-button-prev',
+                    },
+
+                })
+            })
+        </script>
+    </div>
+</div>
+
+
+
+<div class="container-fluid" style="margin:0; padding-bottom:80px; background:#ffca00;">
+    <div class="container text-center" style="padding:0; margin-top:50px;">
+        <h1 class="text-center center-block" style="color:#22222e; font-size:36px; border-radius:10em; border:2px solid #22222e; width:60%; padding:19px; margin-bottom:30px;">行业资深直播实战讲师</h1>
+        <p class="text-center" style="font-size:24px; color:#000;">不仅传授专业技能 更为学员量身定制发展方向</p>
+            <div class="row text-center" style="margin-top:0;">
+
+                <div class="col-lg-6 wow bounceInLeft center-block" style="margin-top:50px;" data-wow-delay="0.3s">
+                    <img src="images/teacher05.jpg" style="float:left; margin-right:20px;" />
+                    <p style="text-align:left; font-size:18px; line-height:30px; padding:10px 0 0 0;">
+                        <font style="font-size:24px; font-weight:bold;">超人</font><br>
+                        网易美聊app第一批达人。<br>
+                        花椒直播第一批主播。
+                        担任上海柯梓动漫游戏有限公司培训管理主播。<br>
+                        后担任上海维垚广告有限公司项目负责人<br>
+                        兼直播运营管理，负责来疯独家视频导流，<br>
+                        抖音第一批达人倒流，龙珠直播主播培训。
+                    <p>
+                </div>
+
+                <div class="col-lg-6 wow bounceInLeft center-block" style="margin-top:50px;" data-wow-delay="0.3s">
+                    <img src="images/teacher06.jpg" style="float:left; margin-right:20px;" />
+                    <p style="text-align:left; font-size:18px; line-height:30px; padding:10px 0 0 0;">
+                        <font style="font-size:24px; font-weight:bold;">七七</font><br>
+                        2013年7月，参加YY“谁是人气王”<br>
+                        比赛，荣获第五名。<br>
+                        2014年1月8日，参加何炅主持的北京<br>
+                        五棵松体育馆六间房演唱会。<br>
+                        2017年12月21日22点，2017年度YY<br>
+                        娱乐年度盛典活动评选结束，获得<br>
+                        “年度最佳女主播”称号。
+                    <p>
+                </div>
+
+                <div class="col-lg-6 wow bounceInLeft center-block" style="margin-top:50px;" data-wow-delay="0.3s">
+                	<img src="images/teacher01.jpg" style="float:left; margin-right:20px;" />
+                    <p style="text-align:left; font-size:18px; line-height:30px; padding:10px 0 0 0;">
+                    <font style="font-size:24px; font-weight:bold;">舞蹈系老师：刘皓月</font><br>
+                    中国花舞会官方队队员。<br>
+                    毕业于浙江大学从事艺术教学工作5年。<br>
+                    2014年度南通曳步舞大赛最佳选手奖。<br>
+                    2015年微电影《梦》特约动作指导。<br>
+                    2016年舞艺文化优秀教师。<br>
+                    2017年上海《yes》演唱会最佳舞蹈表演。
+                    <p>
+                </div>
+                
+                <div class="col-lg-6 wow bounceInLeft center-block" style="margin-top:50px;" data-wow-delay="0.3s">
+                	<img src="images/teacher02.jpg" style="float:left; margin-right:20px;" />
+                    <p style="text-align:left; font-size:18px; line-height:30px; padding:10px 0 0 0;">
+                    <font style="font-size:24px; font-weight:bold;">专业系老师：耿泰河</font><br>
+                    韩国FASHION公司旗下舞蹈演员<br>
+                    国内知名团队花舞会官方队队长<br>
+                    代表作品有《面具》<br>
+                    《The moment of passion》
+                    <p>
+                </div>
+                
+                <div class="col-lg-6 wow bounceInLeft center-block" style="margin-top:50px;" data-wow-delay="0.3s">
+                	<img src="images/teacher03.jpg" style="float:left; margin-right:20px;" />
+                    <p style="text-align:left; font-size:18px; line-height:30px; padding:10px 0 0 0;">
+                    <font style="font-size:24px; font-weight:bold;">音乐系导师：杨佳宜</font><br>
+                    国际艺人（台湾同胞）<br>
+                    台湾（吉娜湘水）乐队主唱<br>
+                    主攻专长：弹唱创作流行曲摇滚风，街舞<br>
+                    2013年专辑出《黑暗降临》《馒天香》
+                    <p>
+                </div>
+                
+                <div class="col-lg-6 wow bounceInLeft center-block" style="margin-top:50px;" data-wow-delay="0.3s">
+                	<img src="images/teacher04.jpg" style="float:left; margin-right:20px;" />
+                    <p style="text-align:left; font-size:18px; line-height:30px; padding:10px 0 0 0;">
+                    <font style="font-size:24px; font-weight:bold;">上海音乐学院 吴老师</font><br>
+                    吉他教学5年<br>
+                    中国新歌声参赛选手<br>
+                    现任职上海武艺文化、韩瑞教育<br> 
+                    香港皇家艺术协会上海考官
+                    <p>
+                </div>
+
+                
+                <div class="col-lg-6 wow bounceInLeft center-block" style="margin-top:50px;" data-wow-delay="0.3s">
+                	<img src="images/teacher07.jpg" style="float:left; margin-right:20px;" />
+                    <p style="text-align:left; font-size:18px; line-height:30px; padding:10px 0 0 0;">
+                    <font style="font-size:24px; font-weight:bold;">吴迪-吴老吃</font><br>
+                    孵化短视频达人“檀老吃和吴老吃”一年全<br>
+                    网涨粉超100万。<br>
+                    在抖音、微博、淘宝等平台获千万级流量。<br>
+                    淘宝直播机构负责人，主播孵化经验足。<br>
+                    红榜-世界网红大会联合创办人<br>
+                    国内第一家网红商学院“新引爆”品牌课程<br>
+                    项目主管曾培养数百位优秀国内外网红人才。
+                    <p>
+                </div>
+                
+                <div class="col-lg-6 wow bounceInLeft center-block" style="margin-top:50px;" data-wow-delay="0.3s">
+                	<img src="images/teacher08.jpg" style="float:left; margin-right:20px;" />
+                    <p style="text-align:left; font-size:18px; line-height:30px; padding:10px 0 0 0;">
+                    <font style="font-size:24px; font-weight:bold;">XUEZU</font><br>
+                    BEYOND花椒舞队模枋大赛 最佳舞者！<br>
+                    BI站视频直播优秀2018年度选手。<br>
+                    参与歌手 著名音乐人刘明扬作曲的新歌<br>
+                    《醉》mv录舞的。<br>
+                    2017年映客8月直播一次过百万。<br>
+                    个人作品：《开心就好》《坚持信念》等
+                    <p>
+                </div>
+
+                
+            </div>
+			
+    </div>
+</div>
+
+
+
+
+
+<div class="container-fluid" style="margin:0 0 0 0; padding-bottom:0; background:url(images/wh-block05-bg.jpg) top center;">
+    <div class=" text-center" style="padding:0; margin-top:90px;">
+        <h1 class="text-center center-block" style="color:#fff; font-size:36px; border-radius:10em; border:2px solid #fff; width:40%; padding:19px; margin-bottom:50px;">经纪公司及直播平台双签约</h1><br>
+
+        <img src="images/wh-block05-img01.jpg" style="margin-top:250px;" />
+
+    </div>
+</div>
+
+
+
+
+
+
+
+
+<div class="container-fluid" style="margin:0 0 0 0; padding-bottom:70px; background:url(images/wh-block06-bg.jpg) top center;">
+    <div class=" text-center" style="padding:0; margin-top:90px;">
+            <h1 class="text-center center-block" style="color:#2b024f; font-size:36px; border-radius:10em; border:2px solid #2b024f; width:40%; padding:19px; margin-bottom:50px;">线下网红基地实训</h1><br>
+            <img src="images/wh-block06-img01.jpg" style="margin-top:0;" /><br><br><br>
+            
+            <h1 class="text-center center-block" style="color:#2b024f; font-size:36px; border-radius:10em; border:2px solid #2b024f; width:40%; padding:19px; margin-bottom:50px;">实拍LinkBox2.0直播室</h1><br>
+            <img src="images/wh-block06-img02.jpg" style="margin-top:0;" />
+			
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="container-fluid text-center" style="background:#0c0145; color:#FFF; margin:0 0 0 0; padding:30px 0;">
+    Powered by 杭州图播零教育科技有限公司@2002-2019
+</div>
+
+
+<a id="scrollUp" href="#top" style="position: fixed; z-index: 2147483647;display: none"></a>
+
+
+
+
+
+
+<link href="css/animate.css" type="text/css"  rel="stylesheet" />
+<script src="js/wow.min.js" type="text/javascript"></script>
+
+
+<script>
+    //置顶按钮
+    $(function() {
+        $.scrollUp({
+            scrollName : "scrollUp",
+            topDistance : "300",
+            topSpeed : 300,
+            animation : "slide",
+            animationInSpeed : 200,
+            animationOutSpeed : 200,
+            scrollText:'<i class="fa fa-angle-up"></i>'
+        });
+    });
+</script>
+
+
+<!-- 倒计时 -->
+
+
+
+
+
+<script>(function() {var _53code = document.createElement("script");_53code.src = "https://tb.53kf.com/code/code/10187293/4";var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(_53code, s);})();</script>
+
+</body>
+</html>

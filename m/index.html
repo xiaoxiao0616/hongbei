@@ -1,0 +1,416 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0,user-scalable=no" name="viewport" id="viewport">
+    <meta name="keywords" content="红呗,红呗官网,网红主播培训,电商运营,短视频达人"/>
+    <meta name="description" content="红呗是一家科技型互联网教育品牌，依托互联网教育领域的强大师资及互联网科技平台，红呗将网红主播培训，网红短视频创作、培养电商运营人才、主流网红经纪为主要发展方向，立志於服务互联网新科技人才培养，为媒体内容创新提供人才。"/>
+    <title>【红呗】一起来红呗-爱上新职业</title>
+    <script src="js/jquery.js"></script>
+    <link href="http://cdn.bootcss.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/css.css">
+
+	<link rel="stylesheet" href="images/base.css">
+	<link rel="stylesheet" href="images/index.css">
+    <link rel="stylesheet" href="css/style.css">
+    <script src="js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="css/swiper.min.css">
+    <script src="js/swiper.min.js"></script>
+    <style>
+        .nav-pills>li{
+            width: 25%;
+            text-align: center;
+        }
+        .nav-pills>li+li {
+            margin-left: 0px !important;
+        }
+        .nav-pills>li>a {
+            font-size: 14px;
+            width: 100%;
+        }
+        a {
+            color: #ffffff;
+            text-decoration: none;
+        }
+        a:focus,a:hover{
+            border-radius: 0px !important;
+            color: #ffffff;
+            background-color: #578df3 !important;
+        }
+        .nav .open>a, .nav .open>a:focus, .nav .open>a:hover {
+            border-radius: 0px;
+            color: #ffffff;
+            background-color: #578df3;
+        }
+        .dropdown-menu {
+            min-width: auto !important;
+            position: absolute;
+            color: #b2c9fb;
+            top: 100%;
+            left: 0;
+            z-index: 1000;
+            display: none;
+            float: left;
+            padding: 5px 0;
+            margin: 2px 0 0;
+            font-size: 14px;
+            text-align: left;
+            list-style: none;
+            background:#42619e;
+            -webkit-background-clip: padding-box;
+            background-clip: padding-box;
+            -webkit-box-shadow: 0 6px 12px rgba(0,0,0,.175);
+        }
+        .dropdown-menu>li>a {
+            display: block;
+            clear: both;
+            font-weight: 400;
+            line-height: 1.42857143;
+            color: #ffffff;
+            white-space: nowrap;
+        }
+        .nav-pills>li>a {
+            border-radius: 0px;
+        }
+        .active{
+            border-radius: 0px;
+            color: #ffffff;
+            background-color: #337ab7;
+        }
+        .tab .w-1 span{
+            display: inline-block;
+        }
+        .info-main{
+            width: 100%;
+            height: 2.4em;
+            text-align: center;
+            display: table;
+            vertical-align: inherit;
+        }
+        .info-main ul.infoList{
+            float: left;
+            width: 100%;
+        }
+        .box1 ul li{
+            float: left;
+            width: 100%;
+            height: 2.4em;
+            display: table;
+            vertical-align: inherit;
+            text-align: center;
+        }
+        ul.infoList>li>span{
+            display: inline-block;
+        }
+        .info-main .bd>ul.infoList>li:nth-child(odd){
+            background: #ffff;
+        }
+        .info-main .bd>ul.infoList>li:nth-child(even){
+            background: #f9f9f9;
+        }
+        .btn {
+            color: #000;
+            font-size: 1.1em;
+            width: 60%;
+            display: block;
+            margin: 6% auto 0;
+            text-align: center;
+            padding: 2% 0;
+            border-radius: 3px;
+            background: #ffc002;
+        }
+        a:focus, a:hover {
+            border-radius: 0px !important;
+            color: #ffffff;
+        }
+    </style>
+</head>
+	<body>
+	    <div class="ban"><img src="images/header.jpg" /></div>
+<!-- 导航-->
+        <div class="nav">
+            <ul class="nav nav-pills">
+                <li role="presentation"><a href="javascript:;" class="active">首页</a></li>
+                <li role="presentation"><a href="jiuye.html">就业模式</a></li>
+                <li role="presentation"><a href="qiye.html">企业展示</a></li>
+                <li role="presentation" class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
+                       更多<span class="caret"></span>
+                    </a>
+                    <ul class="dropdown-menu">
+                        <li><a href="ds/index.html">新电商运营</a></li>
+                        <li><a href="wh/index.html">网红主播</a></li>
+                        <li><a href="sort/index.html">短视频达人</a></li>
+                        <li><a href="teacher.html">授课名师</a></li>
+                        <li><a href="success.html">成功案例</a></li>
+                        <li><a href="http://www.51hongbei.cn/hongbeixinwen/" target="_blank">红呗资讯</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+<!--  banner -->
+        <div class="banner mwidth">
+            <div class="swiper-wrapper">
+                <div class="swiper-slide"><img src="images/banner.jpg" /></div>
+                <div class="swiper-slide"><img src="images/mbanner.jpg" /></div>
+            </div>
+            <!-- Add Arrows -->
+            <script>
+                var swiper = new Swiper('.banner', {
+                    autoplay: true,
+                    speed:1000,
+                });
+            </script>
+        </div>
+        <div class="clearfix"></div>
+
+<!--一站式新媒体人才输送平台-->
+	    <div class="box1">
+			<div class="hd" style="text-align:center;">
+			 	<h2>红呗 —  <font style="color:#578df3; font-weight:bold;">一站式新职业人才教育服务平台</font></h2>
+                <div class="next"><img src="images/next.png" /></div>
+                <div class="swiper-slide"><img src="images/rc-banner.png" /></div>
+			</div>
+		</div>
+<!--三大运营实战课程-->
+        <div class="box1" style="background:#FFF;">
+			<div class="hd" style="text-align:center;">
+			 	<h2>三大运营实战课程</h2>
+                <div class="next"><img src="images/next.png" /></div>
+                <div class="mtop">
+                    <a href="ds/index.html" target="_blank"><img src="images/ke01.jpg" alt="电商运营课程" /></a>
+                    <a href="wh/index.html" target="_blank"><img src="images/ke2.jpg" alt="网红主播课程" style="margin-top: 4px"/></a>
+                    <a href="sort/index.html" target="_blank"> <img src="images/ke3.jpg" alt="短视频运营课程" style="margin-top: 4px"/></a>
+                </div>
+			</div>
+		</div>
+<!-- 企业展示 -->
+        <div class="box1">
+            <div class="hd" style="text-align:center;">
+                <h2 style="color: #215ad9;font-weight:bold;">企业展示</h2>
+                <div class="next"><img src="images/next.png" /></div>
+            </div>
+        </div>
+        <div class="tab">
+            <div class="w-1"><span style="width: 15%">姓名</span><span style="width: 60%">就业企业</span><span>就业薪资</span></div>
+            <div class="info-main">
+                <div class="bd">
+                    <ul class="infoList">
+                        <li><span style="width: 10%">宋*</span><span style="width: 60%">I*M</span><span >12000</span></li>
+                        <li><span style="width: 10%">姚*智</span><span style="width: 60%">迪*克斯</span><span>7000</span></li>
+                        <li><span style="width: 10%">肖*</span><span style="width: 60%">上海奥*电子科技有限公司</span><span >7000</span></li>
+                        <li><span style="width: 10%">李*然</span><span style="width: 60%">热*传媒</span><span>15000</span></li>
+                        <li><span style="width: 10%">周*懿</span><span style="width: 60%">秀*美容</span><span >7700</span></li>
+                        <li><span style="width: 10%">陈*晶</span><span style="width: 60%">广州庆*景观园林设计有限公司</span><span>8000</span></li>
+                        <li><span style="width: 10%">曲*迪</span><span style="width: 60%">广州君*服饰有限公司</span><span>8000</span></li>
+                        <li><span style="width: 10%">乔*根</span><span style="width: 60%">上海浦*发展银行</span><span>10000</span></li>
+                        <li><span style="width: 10%">李*军</span><span style="width: 60%">上海拓*贸易有限公司</span><span>8000</span></li>
+                        <li><span style="width: 10%">龚*祺</span><span style="width: 60%">无*传媒</span><span>10000</span></li>
+                        <li><span style="width: 10%">邓*</span><span style="width: 60%">广州逸*商贸有限公司</span><span>9500</span></li>
+                        <li><span style="width: 10%">张*辉</span><span style="width: 60%">大*文化</span><span>9500</span></li>
+                        <li><span style="width: 10%">廖*</span><span style="width: 60%">南京佰*文化传媒有限公司</span><span>8000</span></li>
+                        <li><span style="width: 10%">宗*宇</span><span style="width: 60%">爱*原创</span><span >9000</span></li>
+                        <li><span style="width: 10%">陈*航</span><span style="width: 60%">广州璇*商贸有限公司</span><span>8000</span></li>
+                        <li><span style="width: 10%">王*国</span><span style="width: 60%">上海保*贸易有限公司 </span><span>8500</span></li>
+                        <li><span style="width: 10%">陈*元</span><span style="width: 60%">慧*电商有限公司</span><span>8000</span></li>
+                        <li><span style="width: 10%">侯*</span><span style="width: 60%">杭州红*文化有限公司</span><span>10000</span></li>
+                        <li><span style="width: 10%">李*</span><span style="width: 60%">名*堂珠宝有限公司</span><span>10000</span></li>
+                    </ul>
+                </div>
+            </div>
+            <script type="text/javascript" src="js/SuperSlide.js"></script>
+            <script type="text/javascript">
+                var ary = location.href.split("&");
+                jQuery(".info-main").slide({
+                    mainCell: ".bd ul",
+                    autoPlay: true,
+                    effect: "topMarquee",
+                    vis: 5,
+                    interTime: 50,
+                    trigger: "click"
+                });
+            </script>
+
+            <div class="clear"></div>
+
+        </div>
+<!--企业感言-->
+        <div class="box1" style="background:#FFF;">
+            <div class="hd" style="text-align:center;">
+                <h2  style="color: #215ad9;font-weight:bold;">看看他们都说了什么?</h2>
+                <h4 style="margin: 2px auto 12px;color: #b5b5b5">企业感言</h4>
+                <div class="next"><img src="images/next.png" /></div>
+                <div class="message mwidth">
+                    <div class="swiper-wrapper">
+                        <div class="swiper-slide"><img src="images/qy01.jpg" class="mwidth" /></div>
+                        <div class="swiper-slide"><img src="images/qy02.jpg" class="mwidth" /></div>
+                        <div class="swiper-slide"><img src="images/qy03.jpg" class="mwidth" /></div>
+                        <div class="swiper-slide"><img src="images/qy04.jpg" class="mwidth" /></div>
+                        <div class="swiper-slide"><img src="images/qy05.jpg" class="mwidth" /></div>
+                        <div class="swiper-slide"><img src="images/qy06.jpg" class="mwidth" /></div>
+                        <div class="swiper-slide"><img src="images/qy07.jpg" class="mwidth" /></div>
+                        <div class="swiper-slide"><img src="images/qy08.jpg" class="mwidth" /></div>
+                   </div>
+                    <!-- Add Arrows -->
+                    <script>
+
+                        var swiper = new Swiper('.message', {
+                            autoplay: true,
+                            speed:1000,
+                        });
+                    </script>
+                </div>
+
+
+            </div>
+        </div>
+<!--师资力量-->
+        <div class="shizi mwidth" style="margin-top: 10px">
+            <h2>三大运营实战课程</h2>
+            <div class="next"><img src="images/next.png" /></div>
+            <div class="shizhi_main mwidth">
+                <div class="swiper-wrapper" style="margin-top: 10px">
+                    <div class="swiper-slide">
+                        <ul>
+                            <li><img src="images/dt1.jpg" /></li>
+                            <li><img src="images/dt2.jpg" /></li>
+                            <li><img src="images/dt3.jpg" /></li>
+                        </ul>
+                    </div>
+                    <div class="swiper-slide">
+                        <ul>
+                            <li><img src="images/dt4.jpg" /></li>
+                            <li><img src="images/dt5.jpg" /></li>
+                            <li><img src="images/dt6.jpg" /></li>
+                        </ul>
+                    </div>
+                    <div class="swiper-slide">
+                        <ul>
+                            <li><img src="images/dt7.jpg" /></li>
+                            <li><img src="images/t1.jpg" /></li>
+                            <li><img src="images/t2.jpg" /></li>
+                        </ul>
+                    </div>
+                    <div class="swiper-slide">
+                        <ul>
+                            <li><img src="images/t3.jpg" /></li>
+                            <li><img src="images/t4.jpg" /></li>
+                            <li><img src="images/t5.jpg" /></li>
+                        </ul>
+                    </div>
+                    <div class="swiper-slide">
+                        <ul>
+                            <li><img src="images/t6.jpg" /></li>
+                            <li><img src="images/wh1.jpg" /></li>
+                            <li><img src="images/wh2.jpg" /></li>
+                        </ul>
+                    </div>
+                    <div class="swiper-slide">
+                        <ul>
+                            <li><img src="images/wh3.jpg" /></li>
+                            <li><img src="images/wh4.jpg" /></li>
+                            <li><img src="images/wh5.jpg" /></li>
+                        </ul>
+                    </div>
+                    <div class="swiper-slide">
+                        <ul>
+                            <li><img src="images/wh6.jpg" /></li>
+                            <li><img src="images/wh7.jpg" /></li>
+                            <li><img src="images/dt1.jpg" /></li>
+                        </ul>
+                    </div>
+                </div>
+                <!-- Add Arrows -->
+                <script>
+
+                    var swiper = new Swiper('.shizhi_main', {
+                        autoplay: true,
+                        speed:3000,
+                        pagination: {
+                            el: '.swiper-pagination',
+                        },
+                    });
+                </script>
+            </div>
+            <div class="clearfix"></div>
+            <h2 style="padding-top: 20px">灵活多变的班型，<span style="color: #638fb3;">满足不同人群的需求</span></h2>
+            <h4 style="color: #e3e3e3" class="text-center">因材施教，分级培优</h4>
+            <div class="next" style="margin-top: 10px"><img src="images/next.png" /></div>
+            <div style="width: 84%; margin: 40px auto">
+                <img src="images/banji01.png" width="100%" height=auto />
+            </div>
+            <div style="width: 100%;margin: 10px auto"><a href="https://tb.53kf.com/code/client/10187293/4"> <button type="button" class="btn btn-warning">了解班型详情</button></a></div>
+
+
+<!--            <div class="banji mwidth">-->
+<!--                &lt;!&ndash;<img src="images/m/banji_title.jpg" />&ndash;&gt;-->
+<!--                <a href="https://tb.53kf.com/code/client/10187293/4"><img src="images/banji.jpg" /></a>-->
+<!--            </div>-->
+<!--            <div class="clearfix"></div>-->
+        </div>
+        <div class="clearfix"></div>
+<!--        <div class="xy-main">-->
+<!--            <h2>看看他们都说了什么？</h2>-->
+<!--            <h4 style="color: #d7ccf2">学员感言</h4>-->
+<!--            <div class="marquee">-->
+<!--                <div>-->
+<!--                    <p>让我掉下眼泪的 不止昨夜的酒</p>-->
+<!--                    <p>让我依依不舍的 不止你的温柔</p>-->
+<!--                    <p>余路还要走多久 你攥着我的手</p>-->
+<!--                    <p>让我感到为难的 是挣扎的自由</p>-->
+<!--                    <p>分别总是在九月 回忆是思念的愁</p>-->
+<!--                    <p>深秋嫩绿的垂柳 亲吻着我额头</p>-->
+<!--                    <p>在那座阴雨的小城里 我从未忘记你</p>-->
+<!--                    <p>成都 带不走的 只有你</p>-->
+<!--                    <p>和我在成都的街头走一走</p>-->
+<!--                    <p>直到所有的灯都熄灭了也不停留</p>-->
+<!--                    <p>你会挽着我的衣袖 我会把手揣进裤兜</p>-->
+<!--                    <p>走到玉林路的尽头 坐在(走过)小酒馆的门口</p>-->
+<!--                    <p>我是最后一个</p>-->
+<!--                </div>-->
+<!--            </div>-->
+<!--        </div>-->
+
+<!--直播教学云平台-->
+        <div class="tab1">
+            <div class="hd" style="text-align:center;">
+                <h2 style="color:#FFFFFF; ">LinKBox 2.0<font style="font-weight:bold;">直播教学云平台</font></h2>
+                <p style=" text-align:center; font-size:0.6em; color:#FFFFFF; font-family:Arial, Helvetica, sans-serif;">Live teaching cloud platform LinkBox 2.0</p>
+                <div class="wenti">
+                    <p><i class="fa fa-graduation-cap fa-lg" aria-hidden="true" style="padding-right: 20px"></i>在线教育性价比高 </p>
+                </div>
+                <div class="wenti">
+                    <p><i class="fa fa-mobile fa-2x" aria-hidden="true" style="padding-right: 20px" ></i>一部手机就能上课</p>
+                </div>
+                <div class="wenti">
+                    <p ><i class="fa fa-users fa-lg" aria-hidden="true" style="padding-right: 20px"></i>十年一线讲师手把手教学</p>
+                </div>
+                <div class="wenti">
+                    <p><i class="fa fa-thumbs-o-up fa-lg" aria-hidden="true" style="padding-right: 20px"></i>完善的就业指导与服务</p>
+                </div>
+                <div style="width: 100%;margin: 10px auto"><a href="https://tb.53kf.com/code/client/10187293/4"> <button type="button" class="btn btn-warning">更多LinkBox2.0</button></a></div>
+            </div>
+        </div>
+<!-- 立即申请-->
+<!--        <div class="send_message mwidth">-->
+<!--            <div class="send_tt"><img src="images/zixun_tt.png" class="mwidth" /></div>-->
+<!--            <div class="ly_main">-->
+<!--                <div class="input_txt"><input type="text" class="mwidth" placeholder="姓名" /></div>-->
+<!--                <div class="input_txt" style="background-image:url(images/i18.png); background-position:10px 0.5em"><input type="text" class="mwidth" placeholder="手机" /></div>-->
+<!--            </div>-->
+<!--            <div class="btn_main mwidth">-->
+<!--                <span class="btn"><a href="https://tb.53kf.com/code/client/10187293/4">咨询更多</a></span>-->
+<!--                <span class="btn" style="background-color:#fe0000"><a href="https://tb.53kf.com/code/client/10187293/4">立即抢占</a></span>-->
+<!--            </div>-->
+<!--        </div>-->
+        <footer style="border-top: 1px solid #c0c0c0">
+            <div style="padding:14px;text-align: center;">
+                Powered by 杭州图播零教育科技有限公司<br />
+                @2002-2019  浙ICP备19005506号-2
+            </div>
+        </footer>
+
+       <div class="bdzx"><a class="zx_btn" href="https://tb.53kf.com/code/client/10187293/4" ><i class="fa fa-commenting fa-2x" aria-hidden="true" style="padding-right: 10px"></i>在线咨询</a></div>
+</body>
+</html>

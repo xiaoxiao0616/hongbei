@@ -1,0 +1,1532 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="keywords" content="红呗,红呗官网,网红主播培训,电商运营,短视频达人"/>
+    <meta name="description" content="红呗是一家科技型互联网教育品牌，依托互联网教育领域的强大师资及互联网科技平台，红呗将网红主播培训，网红短视频创作、培养电商运营人才、主流网红经纪为主要发展方向，立志於服务互联网新科技人才培养，为媒体内容创新提供人才。"/>
+
+    <!--css		-->
+    <link href="http://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+    <link href="http://cdn.bootcss.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+    <link type="text/css" href="css/style.css" rel="stylesheet"/>
+    <link type="text/css" href="css/reset.css" rel="stylesheet"/>
+    <link rel="stylesheet" href="css/bootsnav.css">
+
+    <script type="text/JavaScript" src="js/jquery.js"></script>
+    <script src="js/scrollUp.js"></script>
+    <script type="text/javascript" src="js/SuperSlide.js"></script>
+
+    <title>【红呗】一起来红呗-爱上新职业</title>
+    <style>
+        .btn-main a:hover {
+            color: #FFFFFF;
+            opacity: 0.5;
+        }
+
+        ul.m358 > li {
+            width: 358px !important;
+        }
+
+
+        nav.navbar.bootsnav {
+            border: none;
+            background: none;
+            margin-bottom: 150px;
+        }
+
+
+        .dropdown-menu {
+            min-width: 150px;
+        }
+
+        nav.navbar.bootsnav ul.nav > li:before {
+            content: "";
+            width: 2px;
+            height: 0;
+            background: #fff;
+            margin: 0 auto;
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            transition: all 0.5s ease 0s;
+        }
+
+        nav.navbar.bootsnav ul.nav > li:hover:before {
+            height: 25px;
+        }
+
+        nav.navbar.bootsnav ul.nav > li.megamenu-fw:before {
+            left: 11.3%;
+        }
+
+        nav.navbar.bootsnav ul.nav > li:after {
+            content: "";
+            width: 10px;
+            height: 10px;
+            border-radius: 50%;
+            background: #fff;
+            margin: 0 auto;
+            position: absolute;
+            bottom: 70px;
+            left: 0;
+            right: 0;
+            opacity: 0;
+            transition: all 0.5s ease 0s;
+        }
+
+        nav.navbar.bootsnav ul.nav > li:hover:after {
+            bottom: 20px;
+            opacity: 1;
+        }
+
+        nav.navbar.bootsnav ul.nav > li.megamenu-fw:after {
+            left: 11.3%;
+        }
+
+        nav.navbar.bootsnav ul.nav > li > a {
+            padding: 15px 15px 35px 15px;
+            margin: 0;
+            color: #fff;
+            text-transform: uppercase;
+            z-index: 1;
+            transition: all 0.5s ease 0s;
+        }
+
+        nav.navbar.bootsnav ul.nav > li.dropdown > a {
+            padding: 15px 30px 35px 15px;
+        }
+
+        nav.navbar.bootsnav ul.nav > li > a:hover {
+            color: #fff;
+        }
+
+        nav.navbar.bootsnav ul.nav > li.dropdown > a.dropdown-toggle:after {
+            position: absolute;
+            margin: 0 0 0 7px;
+        }
+
+        nav.navbar.bootsnav ul.nav > li.dropdown > ul {
+            top: 120%;
+            transition: all 0.8s ease 0s;
+        }
+
+        nav.navbar.bootsnav ul.nav > li.dropdown.on > ul {
+            top: 100%;
+        }
+
+        .dropdown-menu.multi-dropdown {
+            position: absolute;
+            left: -100% !important;
+        }
+
+        nav.navbar.bootsnav li.dropdown ul.dropdown-menu {
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+            border: none;
+        }
+
+        nav.navbar.bootsnav li.dropdown ul.dropdown-menu.megamenu-content li {
+            font-size: 14px;
+            color: #6f6f6f;
+        }
+
+        nav.navbar.bootsnav li.dropdown ul.dropdown-menu.megamenu-content .title {
+            font-size: 16px;
+            font-weight: bold;
+            color: #3f3f3f;
+        }
+
+
+        .slideTxtBox {
+            text-align: center;
+            margin-top: 25px;
+        }
+
+        .slideTxtBox .hd {
+            width: 850px;
+            margin: 0 auto;
+        }
+
+        .slideTxtBox .hd ul {
+            padding: 10px
+        }
+
+        .slideTxtBox .hd ul li {
+            float: left;
+            display: inline-block;
+            width: 250px;
+            height: 54px;
+            line-height: 52px;
+            text-align: center;
+            border: 1px solid #fff;
+            font-size: 24px;
+            color: #fff;
+            border-radius: 50px;
+            margin: 0 10px;
+        }
+
+        .slideTxtBox .hd ul li.on {
+            background: #FFFFFF;
+            color: #000000;
+
+        }
+
+        .slideTxtBox .bd {
+            width: 100%;
+        }
+
+        .com-1 li {
+            display: none;
+        }
+
+        .com-1 li:first-child {
+            display: block;
+        }
+
+        .stu-main > li {
+            display: none;
+        }
+
+        .btn-main a:hover {
+            color: #FFFFFF;
+            opacity: 0.5;
+        }
+
+    </style>
+
+    <script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "http://www.51hongbei.cn/m"
+        }
+
+    </script>
+
+</head>
+<body>
+<div class="right-nav"></div>
+<div class="banner" id="#top">
+    <div class="m">
+        <div class="head">
+            <div class="logo lf" style="z-index: 99999"><a href="index.html"><img src="images/logo.png" width="345"
+                                                                                  height="48"></a></div>
+            <div class="navMain">
+                <nav class="navbar navbar-default navbar-mobile bootsnav">
+                    <div class="collapse navbar-collapse" id="navbar-menu">
+                        <ul class="nav navbar-nav" data-in="fadeInDown" data-out="fadeOutUp" style="margin-top: 10px">
+                            <li><a href="javascript:;" data-hover="Home" style="opacity: 0.6">首页</a></li>
+                            <li class="dropdown">
+                                <a href="javascript:;" class="dropdown-toggle" data-toggle="dropdown"
+                                   data-hover="Shortcodes">课程介绍</a>
+                                <ul class="dropdown-menu">
+                                    <li><a href="ds/index.html">新电商运营</a></li>
+                                    <li><a href="wh/index.html">网红主播</a></li>
+                                    <li><a href="sort/index.html">短视频达人</a></li>
+                                </ul>
+                            </li>
+                            <li><a href="jiuy.html">就业模式</a></li>
+                            <li><a href="qiye.html">企业展示</a></li>
+                            <li><a href="teacher.html">授课名师</a></li>
+                            <li><a href="success.html">成功案例</a></li>
+                            <li><a href="http://www.51hongbei.cn/hongbeixinwen/" target="_blank">资讯</a></li>
+                        </ul>
+
+                    </div>
+                </nav>
+            </div>
+        </div>
+        <div class="clear"></div>
+    </div>
+    <div class="xx3">
+        <div class="hd">
+            <ul>
+            </ul>
+        </div>
+        <div class="bd" style="background: #9d9d9d">
+            <ul>
+                <li style="background:url(images/banner.jpg) no-repeat top center;" id="particles-js-01">
+                </li>
+                <li style="background:url(images/banner1.jpg) no-repeat top center;"></li>
+            </ul>
+        </div>
+        <script src="js/particles.min.js"></script>
+        <script src="js/app.js"></script>
+        <script type="text/javascript">
+            jQuery(".xx3").slide({
+                titCell: ".hd ul",
+                mainCell: ".bd ul",
+                autoPage: true,
+                effect: "left",
+                autoPlay: true,
+                easing: "easeInOutExpo",
+                delayTime: 250
+            });
+        </script>
+    </div>
+</div>
+<div class="select-1">
+    <li>
+        <div class="w-1">10<span>年</span></div>
+        <p>培训经验</p>
+    </li>
+    <li>
+        <div class="w-1">
+            <st id="span1">0</st><span>位</span>
+        </div>
+        <p>领域专业讲师</p>
+    </li>
+    <li>
+        <div class="w-1">
+            <st id="span2">0</st><span>家</span>
+        </div>
+        <p>人才输送企业</p>
+    </li>
+    <li>
+        <div class="w-1"><strong>培养</strong>
+            <st id="span3">0</st><span>位</span>
+        </div>
+        <p>新职业人才</p>
+    </li>
+    <li>
+        <div class="w-1">1.2<span>亿</span></div>
+        <p>融资</p>
+    </li>
+    <div class="clear"></div>
+    <script>
+        var num = 0;
+        var t = setInterval(function () {
+            num++;
+            var span1 = document.getElementById("span1");
+            span1.innerText = num;
+            if (num == 88) {
+                clearInterval(t);
+            }
+        }, 1);
+
+        var num2 = 700;
+        var t2 = setInterval(function () {
+            num2++;
+            var span2 = document.getElementById("span2");
+            span2.innerText = num2;
+            if (num2 == 960) {
+                clearInterval(t2);
+            }
+        }, 1);
+
+        var num3 = 7800;
+        var t3 = setInterval(function () {
+            num3++;
+            var span3 = document.getElementById("span3");
+            span3.innerText = num3;
+            if (num3 == 7960) {
+                clearInterval(t3);
+            }
+        }, 10);
+    </script>
+</div>
+<div class="select-2 m">
+    <div class="t-1"><span>一站式新职业人才教育服务平台</span></div>
+    <div class="t-2">NEXT different</div>
+    <div class="con"><img src="images/i-1.png"></div>
+    <a href="https://tb.53kf.com/code/client/10187293/4" class="more" target="_blank">立即申请职业规划</a>
+</div>
+<div class="select-3">
+    <div class="m">
+        <div class="t-1">三大新职业前沿课程<span>逆袭行业精英</span></div>
+        <div class="t-2">NEXT different</div>
+        <div class="con">
+            <li class="l-1">
+                <div class="tu">
+                    <h1>网红主播</h1>
+                    <p>30天打造流量网红</p>
+                </div>
+                <div class="di">
+                    <div class="d-1"><img src="images/i-2.png"></div>
+                    <div class="d-2">网红主播</div>
+                    <div class="d-3">
+                        <p>课程目标：30天打造流量网红</p>
+                        <p>课程特色：资深网红主播量身定制教学</p>
+                        <p>就业方向：直播平台，经纪公司，直播工会，社交电商企业</p>
+                    </div>
+                </div>
+            </li>
+            <li class="l-2">
+                <div class="tu">
+                    <h1>新电商运营</h1>
+                    <p>培养全能电商运营人才</p>
+                </div>
+                <div class="di">
+                    <div class="d-1"><img src="images/i-2.png"></div>
+                    <div class="d-2">新电商运营</div>
+                    <div class="d-3">
+                        <p>课程目标：培养全能新电商运营人才</p>
+                        <p>课程特色：案例实训+边学边做的双元教学</p>
+                        <p>就业方向：新电商代运营公司，新电商平台，传统转型新电商企业</p>
+                    </div>
+                </div>
+            </li>
+            <li class="l-3">
+                <div class="tu">
+                    <h1>短视频达人</h1>
+                    <p>1个月打造短视频达人</p>
+                </div>
+                <div class="di">
+                    <div class="d-1"><img src="images/i-2.png"></div>
+                    <div class="d-2">短视频达人</div>
+                    <div class="d-3">
+                        <p>课程目标：1个月打造短视频达人</p>
+                        <p>课程特色：短视频实战授课</p>
+                        <p>就业方向：自媒体红人、任何需要短视频运营的公司</p>
+                    </div>
+                </div>
+            </li>
+            <div class="clear"></div>
+        </div>
+        <a href="https://tb.53kf.com/code/client/10187293/4" class="more" target="_blank">立即申请免费试听</a>
+    </div>
+</div>
+<div class="select-4 m">
+    <div class="t-1">新职业行业人才稀缺，<span>红利爆发</span></div>
+    <div class="t-3">以效果为导向，理论、实战内外兼修，用专业让每一位学员成为行业抢手的精英人才！</div>
+    <div class="t-2">NEXT different</div>
+    <div class="con">
+        <ul class="com-1 lf">
+            <li>
+                <div class="w-1"><strong>12000</strong>
+                    <p>薪资</p>
+                </div>
+                <div class="w-2">
+                    <h1>数据自来学员真实就业</h1>
+                    <p>拒绝以偏概全</p>
+                </div>
+                <div class="w-3">
+                    <p><span>姓&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;名:</span>宋*</p>
+                    <p><span>学&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;历:</span>保密</p>
+                    <p><span>就业地点:</span>上海</p>
+                    <p><span>就业企业:</span>I*M</p>
+                    <p><span>就业时间:</span>2019-03-19</p>
+                </div>
+            </li>
+            <li>
+                <div class="w-1"><strong>12000</strong>
+                    <p>薪资</p>
+                </div>
+                <div class="w-2">
+                    <h1>数据自来学员真实就业</h1>
+                    <p>拒绝以偏概全</p>
+                </div>
+                <div class="w-3">
+                    <p><span>姓&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;名:</span>宋*</p>
+                    <p><span>学&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;历:</span>保密</p>
+                    <p><span>就业地点:</span>上海</p>
+                    <p><span>就业企业:</span>I*M</p>
+                    <p><span>就业时间:</span>2019-03-19</p>
+                </div>
+            </li>
+
+            <li>
+                <div class="w-1"><strong>7000</strong>
+                    <p>薪资</p>
+                </div>
+                <div class="w-2">
+                    <h1>数据自来学员真实就业</h1>
+                    <p>拒绝以偏概全</p>
+                </div>
+                <div class="w-3">
+                    <p><span>姓&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;名:</span>姚*智</p>
+                    <p><span>学&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;历:</span>专科</p>
+                    <p><span>就业地点:</span>无锡</p>
+                    <p><span>就业企业:</span>迪*克斯</p>
+                    <p><span>就业时间:</span>2019-04-20</p>
+                </div>
+            </li>
+
+
+            <li>
+                <div class="w-1"><strong>7000</strong>
+                    <p>薪资</p>
+                </div>
+                <div class="w-2">
+                    <h1>数据自来学员真实就业</h1>
+                    <p>拒绝以偏概全</p>
+                </div>
+                <div class="w-3">
+                    <p><span>姓&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;名:</span>肖*</p>
+                    <p><span>学&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;历:</span>专科</p>
+                    <p><span>就业地点:</span>无锡</p>
+                    <p><span>就业企业:</span>上海奥*电子科技</p>
+                    <p><span>就业时间:</span>2019-04-20</p>
+                </div>
+            </li>
+
+            <li style="display: none">
+                <div class="w-1"><strong>15000</strong>
+                    <p>薪资</p>
+                </div>
+                <div class="w-2">
+                    <h1>数据自来学员真实就业</h1>
+                    <p>拒绝以偏概全</p>
+                </div>
+                <div class="w-3">
+                    <p><span>姓&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;名:</span>李*然</p>
+                    <p><span>学&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;历:</span>专科</p>
+                    <p><span>就业地点:</span>北京</p>
+                    <p><span>就业企业:</span>热*传媒</p>
+                    <p><span>就业时间:</span>2019-05-21</p>
+                </div>
+            </li>
+
+            <li>
+                <div class="w-1"><strong>7700</strong>
+                    <p>薪资</p>
+                </div>
+                <div class="w-2">
+                    <h1>数据自来学员真实就业</h1>
+                    <p>拒绝以偏概全</p>
+                </div>
+                <div class="w-3">
+                    <p><span>姓&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;名:</span>周*懿</p>
+                    <p><span>学&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;历:</span>专科</p>
+                    <p><span>就业地点:</span>苏州</p>
+                    <p><span>就业企业:</span>秀*美容</p>
+                    <p><span>就业时间:</span>2019-06-21</p>
+                </div>
+            </li>
+
+            <li>
+                <div class="w-1"><strong>8000</strong>
+                    <p>薪资</p>
+                </div>
+                <div class="w-2">
+                    <h1>数据自来学员真实就业</h1>
+                    <p>拒绝以偏概全</p>
+                </div>
+                <div class="w-3">
+                    <p><span>姓&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;名:</span>陈*晶</p>
+                    <p><span>学&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;历:</span>本科</p>
+                    <p><span>就业地点:</span>广州</p>
+                    <p><span>就业企业:</span>广州庆*景观园林</p>
+                    <p><span>就业时间:</span>2019-04-01</p>
+                </div>
+            </li>
+
+
+            <li>
+                <div class="w-1"><strong>8000</strong>
+                    <p>薪资</p>
+                </div>
+                <div class="w-2">
+                    <h1>数据自来学员真实就业</h1>
+                    <p>拒绝以偏概全</p>
+                </div>
+                <div class="w-3">
+                    <p><span>姓&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;名:</span>曲*迪</p>
+                    <p><span>学&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;历:</span>本科</p>
+                    <p><span>就业地点:</span>广州</p>
+                    <p><span>就业企业:</span>广州君*服饰</p>
+                    <p><span>就业时间:</span>2019-05-08</p>
+                </div>
+            </li>
+
+
+            <li>
+                <div class="w-1"><strong>10000</strong>
+                    <p>薪资</p>
+                </div>
+                <div class="w-2">
+                    <h1>数据自来学员真实就业</h1>
+                    <p>拒绝以偏概全</p>
+                </div>
+                <div class="w-3">
+                    <p><span>姓&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;名:</span>乔*根</p>
+                    <p><span>学&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;历:</span>本科</p>
+                    <p><span>就业地点:</span>上海</p>
+                    <p><span>就业企业:</span>上海浦*发展银行</p>
+                    <p><span>就业时间:</span>2019-05-13</p>
+                </div>
+            </li>
+
+
+            <li>
+                <div class="w-1"><strong>10000</strong>
+                    <p>薪资</p>
+                </div>
+                <div class="w-2">
+                    <h1>数据自来学员真实就业</h1>
+                    <p>拒绝以偏概全</p>
+                </div>
+                <div class="w-3">
+                    <p><span>姓&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;名:</span>李*军</p>
+                    <p><span>学&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;历:</span>专科</p>
+                    <p><span>就业地点:</span>上海</p>
+                    <p><span>就业企业:</span>上海拓*贸易</p>
+                    <p><span>就业时间:</span>2019-05-11</p>
+                </div>
+            </li>
+
+            <li>
+                <div class="w-1"><strong>10000</strong>
+                    <p>薪资</p>
+                </div>
+                <div class="w-2">
+                    <h1>数据自来学员真实就业</h1>
+                    <p>拒绝以偏概全</p>
+                </div>
+                <div class="w-3">
+                    <p><span>姓&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;名:</span>龚*祺</p>
+                    <p><span>学&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;历:</span>本科</p>
+                    <p><span>就业地点:</span>北京</p>
+                    <p><span>就业企业:</span>无*传媒</p>
+                    <p><span>就业时间:</span>2019-05-11</p>
+                </div>
+            </li>
+
+
+            <li>
+                <div class="w-1"><strong>9500</strong>
+                    <p>薪资</p>
+                </div>
+                <div class="w-2">
+                    <h1>数据自来学员真实就业</h1>
+                    <p>拒绝以偏概全</p>
+                </div>
+                <div class="w-3">
+                    <p><span>姓&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;名:</span>邓*</p>
+                    <p><span>学&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;历:</span>专科</p>
+                    <p><span>就业地点:</span>广州</p>
+                    <p><span>就业企业:</span>广州逸*商贸</p>
+                    <p><span>就业时间:</span>2019-05-11</p>
+                </div>
+            </li>
+
+
+            <li>
+                <div class="w-1"><strong>9500</strong>
+                    <p>薪资</p>
+                </div>
+                <div class="w-2">
+                    <h1>数据自来学员真实就业</h1>
+                    <p>拒绝以偏概全</p>
+                </div>
+                <div class="w-3">
+                    <p><span>姓&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;名:</span>张*辉</p>
+                    <p><span>学&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;历:</span>专科</p>
+                    <p><span>就业地点:</span>上海</p>
+                    <p><span>就业企业:</span>大*文化</p>
+                    <p><span>就业时间:</span>2019-04-23</p>
+                </div>
+            </li>
+
+            <li>
+                <div class="w-1"><strong>8000</strong>
+                    <p>薪资</p>
+                </div>
+                <div class="w-2">
+                    <h1>数据自来学员真实就业</h1>
+                    <p>拒绝以偏概全</p>
+                </div>
+                <div class="w-3">
+                    <p><span>姓&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;名:</span>廖*</p>
+                    <p><span>学&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;历:</span>专科</p>
+                    <p><span>就业地点:</span>南京</p>
+                    <p><span>就业企业:</span>南京佰*文化传媒</p>
+                    <p><span>就业时间:</span>2019-03-30</p>
+                </div>
+            </li>
+
+
+            <li>
+                <div class="w-1"><strong>9000</strong>
+                    <p>薪资</p>
+                </div>
+                <div class="w-2">
+                    <h1>数据自来学员真实就业</h1>
+                    <p>拒绝以偏概全</p>
+                </div>
+                <div class="w-3">
+                    <p><span>姓&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;名:</span>宗*宇</p>
+                    <p><span>学&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;历:</span>本科</p>
+                    <p><span>就业地点:</span>广州</p>
+                    <p><span>就业企业:</span>爱*原创</p>
+                    <p><span>就业时间:</span>2019-03-30</p>
+                </div>
+            </li>
+
+            <li>
+                <div class="w-1"><strong>8000</strong>
+                    <p>薪资</p>
+                </div>
+                <div class="w-2">
+                    <h1>数据自来学员真实就业</h1>
+                    <p>拒绝以偏概全</p>
+                </div>
+                <div class="w-3">
+                    <p><span>姓&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;名:</span>陈*航</p>
+                    <p><span>学&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;历:</span>专科</p>
+                    <p><span>就业地点:</span>广州</p>
+                    <p><span>就业企业:</span>爱*原创</p>
+                    <p><span>就业时间:</span>2019-04-15</p>
+                </div>
+            </li>
+
+            <li>
+                <div class="w-1"><strong>8000</strong>
+                    <p>薪资</p>
+                </div>
+                <div class="w-2">
+                    <h1>数据自来学员真实就业</h1>
+                    <p>拒绝以偏概全</p>
+                </div>
+                <div class="w-3">
+                    <p><span>姓&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;名:</span>王*国</p>
+                    <p><span>学&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;历:</span>本科</p>
+                    <p><span>就业地点:</span>上海</p>
+                    <p><span>就业企业:</span>上海保*贸易</p>
+                    <p><span>就业时间:</span>2019-05-10</p>
+                </div>
+            </li>
+
+            <li>
+                <div class="w-1"><strong>8000</strong>
+                    <p>薪资</p>
+                </div>
+                <div class="w-2">
+                    <h1>数据自来学员真实就业</h1>
+                    <p>拒绝以偏概全</p>
+                </div>
+                <div class="w-3">
+                    <p><span>姓&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;名:</span>陈*元</p>
+                    <p><span>学&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;历:</span>专科</p>
+                    <p><span>就业地点:</span>杭州</p>
+                    <p><span>就业企业:</span>慧*电商</p>
+                    <p><span>就业时间:</span>2019-06-01</p>
+                </div>
+            </li>
+
+            <li>
+                <div class="w-1"><strong>10000</strong>
+                    <p>薪资</p>
+                </div>
+                <div class="w-2">
+                    <h1>数据自来学员真实就业</h1>
+                    <p>拒绝以偏概全</p>
+                </div>
+                <div class="w-3">
+                    <p><span>姓&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;名:</span>侯*</p>
+                    <p><span>学&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;历:</span>本科</p>
+                    <p><span>就业地点:</span>杭州</p>
+                    <p><span>就业企业:</span>杭州红*文化</p>
+                    <p><span>就业时间:</span>2019-05-15</p>
+                </div>
+            </li>
+
+
+            <li>
+                <div class="w-1"><strong>10000</strong>
+                    <p>薪资</p>
+                </div>
+                <div class="w-2">
+                    <h1>数据自来学员真实就业</h1>
+                    <p>拒绝以偏概全</p>
+                </div>
+                <div class="w-3">
+                    <p><span>姓&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;名:</span>李*</p>
+                    <p><span>学&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;历:</span>本科</p>
+                    <p><span>就业地点:</span>苏州</p>
+                    <p><span>就业企业:</span>名*堂珠宝</p>
+                    <p><span>就业时间:</span>2019-04-29</p>
+                </div>
+            </li>
+
+        </ul>
+
+        <div class="com-2 rt">
+            <div class="w-1"><span id="s1">姓名</span><span id="s1">学历</span><span id="s2">就业地点</span><span
+                    id="s3">就业企业</span><span
+                    id="s2">就业薪资</span><span id="s2">就业时间</span></div>
+            <div class="xx2">
+                <div class="bd">
+                    <ul class="infoList">
+                        <li><span id="s1">宋*</span><span id="s1">本科</span><span id="s2">上海</span><span
+                                id="s3">I*M</span><span id="s2" class="c-1">12000</span><span id="s2">2019-03-19</span>
+                        </li>
+                        <li><span id="s1">姚*智</span><span id="s1">专科</span><span id="s2">无锡</span><span
+                                id="s3">迪*克斯</span><span id="s2" class="c-1">7000</span><span id="s2">2019-04-20</span>
+                        </li>
+                        <li><span id="s1">肖*</span><span id="s1">本科</span><span id="s2">上海</span><span id="s3">上海奥*电子科技有限公司</span><span
+                                id="s2" class="c-1">7000</span><span id="s2">2019-04-20</span></li>
+                        <li><span id="s1">李*然</span><span id="s1">专科</span><span id="s2">北京</span><span
+                                id="s3">热*传媒</span><span id="s2" class="c-1">15000</span><span id="s2">2019-05-21</span>
+                        </li>
+                        <li><span id="s1">周*懿</span><span id="s1">专科</span><span id="s2">苏州</span><span
+                                id="s3">秀*美容</span><span id="s2" class="c-1">7700</span><span id="s2">2019-06-21</span>
+                        </li>
+                        <li><span id="s1">陈*晶</span><span id="s1">本科</span><span id="s2">广州</span><span id="s3">广州庆*景观园林设计有限公司</span><span
+                                id="s2" class="c-1">8000</span><span id="s2">2019-04-01</span></li>
+                        <li><span id="s1">曲*迪</span><span id="s1">本科</span><span id="s2">广州</span><span id="s3">广州君*服饰有限公司</span><span
+                                id="s2" class="c-1">8000</span><span id="s2">2019-05-08</span></li>
+                        <li><span id="s1">乔*根</span><span id="s1">本科</span><span id="s2">上海</span><span
+                                id="s3">上海浦*发展银行</span><span id="s2" class="c-1">10000</span><span
+                                id="s2">2019-05-13</span></li>
+                        <li><span id="s1">李*军</span><span id="s1">专科</span><span id="s2">上海</span><span id="s3">上海拓*贸易有限公司</span><span
+                                id="s2" class="c-1">8000</span><span id="s2">2019-05-11</span></li>
+                        <li><span id="s1">龚*祺</span><span id="s1">本科</span><span id="s2">北京</span><span
+                                id="s3">无*传媒</span><span id="s2" class="c-1">10000</span><span id="s2">2019-05-11</span>
+                        </li>
+                        <li><span id="s1">邓*</span><span id="s1">专科</span><span id="s2">广州</span><span id="s3">广州逸*商贸有限公司</span><span
+                                id="s2" class="c-1">9500</span><span id="s2">2019-04-20</span></li>
+                        <li><span id="s1">张*辉</span><span id="s1">专科</span><span id="s2">上海</span><span
+                                id="s3">大*文化</span><span id="s2" class="c-1">9500</span><span id="s2">2019-04-23</span>
+                        </li>
+                        <li><span id="s1">廖*</span><span id="s1">专科</span><span id="s2">南京</span><span id="s3">南京佰*文化传媒有限公司</span><span
+                                id="s2" class="c-1">8000</span><span id="s2">2019-03-30</span></li>
+                        <li><span id="s1">宗*宇</span><span id="s1">本科</span><span id="s2">广州</span><span
+                                id="s3">爱*原创</span><span id="s2" class="c-1">9000</span><span id="s2">2019-03-30</span>
+                        </li>
+                        <li><span id="s1">陈*航</span><span id="s1">专科</span><span id="s2">广州</span><span id="s3">广州璇*商贸有限公司</span><span
+                                id="s2" class="c-1">8000</span><span id="s2">2019-04-15</span></li>
+                        <li><span id="s1">王*国</span><span id="s1">本科</span><span id="s2">上海</span><span id="s3">上海保*贸易有限公司 </span><span
+                                id="s2" class="c-1">8500</span><span id="s2">2019-05-10</span></li>
+                        <li><span id="s1">陈*元</span><span id="s1">专科</span><span id="s2">杭州</span><span
+                                id="s3">慧*电商有限公司</span><span id="s2" class="c-1">8000</span><span
+                                id="s2">2019-06-01</span></li>
+                        <li><span id="s1">侯*</span><span id="s1">本科</span><span id="s2">杭州</span><span id="s3">杭州红*文化有限公司</span><span
+                                id="s2" class="c-1">10000</span><span id="s2">2019-05-15</span></li>
+                        <li><span id="s1">李*</span><span id="s1">本科</span><span id="s2">苏州</span><span
+                                id="s3">名*堂珠宝有限公司</span><span id="s2" class="c-1">10000</span><span
+                                id="s2">2019-04-29</span></li>
+                    </ul>
+                </div>
+            </div>
+            <script type="text/javascript">
+                jQuery(".xx2").slide({
+                    mainCell: ".bd ul",
+                    autoPlay: true,
+                    effect: "topMarquee",
+                    vis: 9,
+                    interTime: 50,
+                    trigger: "click"
+                });
+            </script>
+        </div>
+        <div class="clear"></div>
+    </div>
+    <a href="https://tb.53kf.com/code/client/10187293/4" class="more" target="_blank">更多优质企业了解</a>
+</div>
+<div class="select-5">
+    <div class="m">
+        <div class="t-1">知名企业的认可与支持</div>
+        <div class="t-2">NEXT different</div>
+        <div class="con">
+            <div class="xx1">
+                <div class="hd"><a class="next"></a><a class="prev"></a></div>
+                <div class="bd">
+                    <ul class="picList">
+                        <li>
+                            <div class="wen">电商一定会是未来的发展趋势，并且会替代传统行业在互联网中的发展，这个是谁也阻挡不了的。</div>
+                            <div class="title"><span>阿里巴巴 马云</span></div>
+                        </li>
+                        <li>
+                            <div class="wen">
+                                我从2016年8月20日到现在，一天都不落，就是直播，没有录像，也没有宣传，我来教别人学英语做国际新闻，对我自己也有很大提高，而搜狐国际化方面也因此颗粒化品质很高。
+                            </div>
+                            <div class="title"><span>搜狐 张朝阳</span></div>
+                        </li>
+                        <li>
+                            <div class="wen">
+                                中国需要这样一个平台：每天都是双十一，要把电商平台当做一个服务业来做。从国外品牌中挑选出好的品牌，价格谈下来，再加一点点的手续费，再通过平台卖给消费者。
+                            </div>
+                            <div class="title"><span>网易 丁磊</span></div>
+                        </li>
+                        <li>
+                            <div class="wen">信息生产方式会更多地向内容的组织和导演方转变，让人可以更多地参加创造。</div>
+                            <div class="title"><span>今日头条 张一鸣</span></div>
+                        </li>
+                        <li>
+                            <div class="wen">
+                                网红是什么?我现在直接说一个定义，网红其实就是互联网未经任何人授权的品牌。这么多网红，一夜之间哄然崛起，给我们创业的整个环境，整个创业的方法，带来很多很多的冲击。
+                            </div>
+                            <div class="title"><span>真格基金 徐小平</span></div>
+                        </li>
+                        <li>
+                            <div class="wen">今年360在信息流、在短视频方面会有all
+                                in这个战略，公司很快会发布基于人工智能的短视频产品“快视频”，结合现在众多的无线产品的推广，无线上的内容产品战略会是未来几年的重点。
+                            </div>
+                            <div class="title"><span>360 周鸿祎</span></div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <script id="jsID" type="text/javascript">
+                jQuery(".xx1").slide({
+                    titCell: ".hd ul",
+                    mainCell: ".bd ul",
+                    autoPage: true,
+                    effect: "left",
+                    autoPlay: true,
+                    vis: 2
+                });
+            </script>
+        </div>
+    </div>
+</div>
+
+<div class="select-6">
+    <div class="m">
+        <div class="t-1">
+            <h1>豪华讲师团汇集，实战经验倾囊相授</h1>
+            <p>讲师均为业内大咖</p>
+        </div>
+    </div>
+    <div class="slideTxtBox">
+        <div class="hd">
+            <ul>
+                <li>网红讲师团队</li>
+                <li>电商讲师团队</li>
+                <li>短视频讲师团队</li>
+            </ul>
+        </div>
+        <div class="bd">
+            <ul>
+                <li>
+                    <div class="con">
+                        <div class="xx5" style="width:100%;overflow: hidden">
+                            <div class="bd" style="margin-top: 100px">
+                                0
+                                <ul class="picList m358">
+                                    <li id="01">
+                                        <div class="pic"><img src="images/w1.jpg"/></div>
+                                        <div class="title">
+                                            <h1>超人</h1>
+                                            <p>网红主播导师</p>
+                                        </div>
+                                        <div class="title-2">
+                                            <h1>超人 | 网红主播导师</h1>
+                                            <p>网易美聊平台知名红人，期间：连续日榜排名第一，月榜排名第一。并接受网易美聊的独家专访。曾任上海维垚广告有限公司 运营经理。</p>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div class="pic"><img src="images/w7.jpg"/></div>
+                                        <div class="title">
+                                            <h1>不吃鱼的猫</h1>
+                                            <p>主播指导讲师</p>
+                                        </div>
+                                        <div class="title-2">
+                                            <h1>不吃鱼的猫 | 主播指导讲师</h1>
+                                            <p>实战型主播团队运营策划，直播套路，变现方式。红呗学院多个网红班近百名优秀主播导师，累计课时近300小时。</p>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div class="pic"><img src="images/w6.jpg"/></div>
+                                        <div class="title">
+                                            <h1>吴老吃</h1>
+                                            <p>短视频导师</p>
+                                        </div>
+                                        <div class="title-2">
+                                            <h1>吴老吃 | 短视频导师</h1>
+                                            <p>专注于抖音淘宝直播达人培养，是多家直播机构负责人，曾一年全网涨粉超100万。红榜世界网红大会联合创办人，国内第一家网红商学院课程项目主管。</p>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div class="pic"><img src="images/w5.jpg"/></div>
+                                        <div class="title">
+                                            <h1>琴</h1>
+                                            <p>直播机构运营主管</p>
+                                        </div>
+                                        <div class="title-2">
+                                            <h1>琴 | 直播机构运营主管</h1>
+                                            <p>从事互联网传媒行业多年，拥有极强的专业性技巧和经验，与大量网红、明星艺人资源有非常多的合作，多家直播机构运营主管。</p>
+                                        </div>
+                                    </li>
+                                    <li id="02">
+                                        <div class="pic"><img src="images/w4.jpg"/></div>
+                                        <div class="title">
+                                            <h1>欧雅</h1>
+                                            <p>短视频课程导师</p>
+                                        </div>
+                                        <div class="title-2">
+                                            <h1>欧雅 | 短视频课程导师</h1>
+                                            <p>知名带货主播达人，并进行线上测评。最高个人小时成交榜占全平台36%。大型主播平台指导讲师，实战型主播团队商品测评要素解析及带货技巧。</p>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div class="pic"><img src="images/w2.jpg"/></div>
+                                        <div class="title">
+                                            <h1>鬼步舞王</h1>
+                                            <p>主播舞蹈导师</p>
+                                        </div>
+                                        <div class="title-2">
+                                            <h1>鬼步舞王 | 主播舞蹈导师</h1>
+                                            <p>是世界鬼步舞纪录挑战者，全国舞力对决赛鬼步舞组冠军。
+                                                代表作品 《面具》 《The moment of passion》 《韩国街头》等。</p>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div class="pic"><img src="images/w3.jpg"/></div>
+                                        <div class="title">
+                                            <h1>皓皓</h1>
+                                            <p>网红主播舞蹈导师</p>
+                                        </div>
+                                        <div class="title-2">
+                                            <h1>皓皓 | 网红主播舞蹈导师</h1>
+                                            <p>具备专业舞蹈技巧，擅长古典舞、现代舞、爵士舞等;与多个大型舞蹈社团有过合作，参加公演。
+                                                2014-2018在浙江大学艺术学院担任舞蹈老师，曾受邀为微电影《梦》中的动作指导，还是《YES》演唱会舞蹈演员。</p>
+                                        </div>
+                                    </li>
+
+                                </ul>
+
+                            </div>
+                        </div>
+                        <script type="text/javascript">
+                            jQuery(".xx5").slide({
+                                titCell: ".hd ul",
+                                mainCell: ".bd ul",
+                                autoPage: true,
+                                effect: "left",
+                                autoPlay: true,
+                                interTime: 1000,
+                                vis: 5
+                            });
+                        </script>
+                    </div>
+                </li>
+            </ul>
+            <ul>
+                <li>
+                    <div class="con">
+                        <div class="xx5 ds" style="width:100%;overflow: hidden">
+                            <div class="bd" style="margin-top: 100px">
+                                <ul class="picList m358">
+                                    <li>
+                                        <div class="pic"><img src="images/x-13.jpg"/></div>
+                                        <div class="title">
+                                            <h1>莎莎</h1>
+                                            <p>全能型的新电商框架师</p>
+                                        </div>
+                                        <div class="title-2">
+                                            <h1>莎莎 | 全能型新电商框架师</h1>
+                                            <p>7年电商平台管理经验。曾任职嬴通集团电商事业部经理。主要负责电商渠道开发以及管理，品牌线上推广，团队组建和培训。</p>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div class="pic"><img src="images/x-14.jpg"/></div>
+                                        <div class="title">
+                                            <h1>昆哥</h1>
+                                            <p>电商运营导师</p>
+                                        </div>
+                                        <div class="title-2">
+                                            <h1>昆哥 | 新电商运营导师</h1>
+                                            <p>昆哥自营和托管多家知名淘宝C店和天猫店，年销售额突破千万元。他同时是多家在线电商公司的商业策划顾问，拥有丰富的行业经验。</p>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div class="pic"><img src="images/x-15.jpg"/></div>
+                                        <div class="title">
+                                            <h1>老白</h1>
+                                            <p>新电商运营导师</p>
+                                        </div>
+                                        <div class="title-2">
+                                            <h1>老白 | 新电商运营导师</h1>
+                                            <p>
+                                                在线电商行业的“混江龙”，拥有超过10年的电子商务运营经验，以运营总监和资深运营店长的身份操盘过30多个B2C和C2C电商运营项目，是名副其实的“亿元级”玩家。</p>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div class="pic"><img src="images/x-16.jpg"/></div>
+                                        <div class="title">
+                                            <h1>桃姐</h1>
+                                            <p>新电商运营导师</p>
+                                        </div>
+                                        <div class="title-2">
+                                            <h1>桃姐 | 新电商运营导师</h1>
+                                            <p>是知名家居零售公司全友家居的运营主管，在过去的几年， 桃姐带领全友电商团队稳占淘宝家居类销售前十。后进入创业公司从事电商培训和代运营。</p>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div class="pic"><img src="images/x-17.jpg"/></div>
+                                        <div class="title">
+                                            <h1>King</h1>
+                                            <p>新电商运营导师</p>
+                                        </div>
+                                        <div class="title-2">
+                                            <h1>King | 新电商运营导师</h1>
+                                            <p>
+                                                中国最早的一批电商人，从事电商行业有十余年的时间，目前兼任多个知名品牌的战略顾问，辅导多个类目成员，从底层级商家成为类目第七层级商家，擅长多店铺盈利模式和团队管理。</p>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div class="pic"><img src="images/x-18.jpg"/></div>
+                                        <div class="title">
+                                            <h1>Andy</h1>
+                                            <p>新电商运营导师</p>
+                                        </div>
+                                        <div class="title-2">
+                                            <h1>Andy | 新电商运营导师</h1>
+                                            <p>
+                                                电商运营管理实战专家，拥有多年的电商运营和培训经验，中国电子商务注册培训师。专注于企业电商运营管理领域，擅长电商新思维、电商技能等电商培训。</p>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                        <script type="text/javascript">
+                            jQuery(".ds").slide({
+                                titCell: ".hd ul",
+                                mainCell: ".bd ul",
+                                autoPage: true,
+                                effect: "left",
+                                autoPlay: true,
+                                interTime: 1000,
+                                vis: 5
+                            });
+                        </script>
+                    </div>
+                </li>
+            </ul>
+            <ul>
+                <li>
+                    <div class="con">
+                        <div class="xx5 sort" style="width:100%;overflow: hidden">
+                            <div class="bd" style="margin-top: 100px">
+                                <ul class="picList m358">
+                                    <li>
+                                        <div class="pic"><img src="images/d1.jpg"/></div>
+                                        <div class="title">
+                                            <h1>Colleen</h1>
+                                            <p>新媒体营销导师</p>
+                                        </div>
+                                        <div class="title-2">
+                                            <h1>Colleen | 新媒体营销导师</h1>
+                                            <p>多年新媒体营销经验，拥有5年短视频新媒体制作经验；曾制作出500+播放率病毒式文案，获得10W+打赏；曾拿过新媒体网力杯营销2等奖</p>
+                                        </div>
+                                    </li>
+
+                                    <li>
+                                        <div class="pic"><img src="images/d2.jpg"/></div>
+                                        <div class="title">
+                                            <h1>蜜姐</h1>
+                                            <p>短视频运营总监</p>
+                                        </div>
+                                        <div class="title-2">
+                                            <h1>蜜姐 | 短视频运营总监</h1>
+                                            <p>多年大型电商营销管理经验；在为期半年的教学过程中曾帮助红呗学院学院打造多个短视频营销店铺。</p>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div class="pic"><img src="images/d3.jpg"/></div>
+                                        <div class="title">
+                                            <h1>上官李白</h1>
+                                            <p>新媒体营销专家</p>
+                                        </div>
+                                        <div class="title-2">
+                                            <h1>上官李白 | 新媒体营销专家</h1>
+                                            <p>曾任大型MCN短视频机构负责人；未来商学院认证高级老师，专职教授抖音、快手平台营销技巧。</p>
+                                        </div>
+                                    <li>
+                                        <div class="pic"><img src="images/d4.jpg"/></div>
+                                        <div class="title">
+                                            <h1>小柯</h1>
+                                            <p>短视频课程导师</p>
+                                        </div>
+                                        <div class="title-2">
+                                            <h1>小柯 | 短视频课程导师</h1>
+                                            <p>自2012年进入影视制作领域以来，参与多部电影电视剧制作，有丰富的影片剪辑及拍摄经历，视觉中国签约作者。</p>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div class="pic"><img src="images/d5.jpg"/></div>
+                                        <div class="title">
+                                            <h1>小莫</h1>
+                                            <p>资深广告制片人</p>
+                                        </div>
+                                        <div class="title-2">
+                                            <h1>小莫 | 资深广告制片人</h1>
+                                            <p>曾为多家大型公司进行广告策划设计，成功案例超过30个；了解国内外创意视频，在红呗学院有专项精品课程。</p>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div class="pic"><img src="images/d6.jpg"/></div>
+                                        <div class="title">
+                                            <h1>雪梨</h1>
+                                            <p>短视频视觉总监</p>
+                                        </div>
+                                        <div class="title-2">
+                                            <h1>雪梨 | 短视频视觉总监</h1>
+                                            <p>短视频课程主讲老师。精通AI、AE、NUKE、C4D、MAYA等软件，曾担任大型广告公司视频动画师，精通脚本设计、镜头语言、后期特效。
+                                                创作出近100个爆款视频，最热同款视频抖音翻拍次数2000次以上。</p>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div class="pic"><img src="images/d7.jpg"/></div>
+                                        <div class="title">
+                                            <h1>幺妹</h1>
+                                            <p>短视频课程主讲老师</p>
+                                        </div>
+                                        <div class="title-2">
+                                            <h1>幺妹 | 短视频课程主讲老师</h1>
+                                            <p>多年海外直播经验，带领过10以上的团队，熟悉短视频流程。从事过前期策划与视频制作，并善于观察发现热点话题。</p>
+                                        </div>
+                                    </li>
+
+                                </ul>
+                            </div>
+                        </div>
+                        <script type="text/javascript">
+                            jQuery(".sort").slide({
+                                titCell: ".hd ul",
+                                mainCell: ".bd ul",
+                                autoPage: true,
+                                effect: "left",
+                                autoPlay: true,
+                                interTime: 1000,
+                                vis: 5
+                            });
+                        </script>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <script type="text/javascript">jQuery(".slideTxtBox").slide();</script>
+    </div>
+    <a href="https://tb.53kf.com/code/client/10187293/4" class="more" target="_blank">点击和讲师对话</a>
+</div>
+
+<div class="select-7 m">
+    <div class="t-1">红呗，缔造年轻人的梦</div>
+    <div class="t-2">NEXT different</div>
+    <div class="con">
+        <iframe src="//1259107979.vod2.myqcloud.com/vod-player/1259107979/5285890791589372779/tcplayer/console/vod-player.html?autoplay=false&width=800&height=600"
+                frameborder="0" scrolling="no" width="100%" height="600" allowfullscreen >
+        </iframe>
+    </div>
+</div>
+<div class="select-8">
+    <div class="m">
+        <div class="t-1">来自数千名学员真实感言</div>
+        <div class="t-2">NEXT different</div>
+        <div class="speech-main">
+            <ul class="xueyuan">
+                <li class="tea-active"></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+
+            </ul>
+            <ul class="stu-main">
+                <li class="stu-01">
+                    <h4>宋 * </h4>
+                    <p>感谢红呗带我走上电商之路，实现了我的老板梦！</p>
+                </li>
+                <li class="stu-02">
+                    <h4>姚*智 </h4>
+                    <p>创业开网店，差点血本无归，是红呗救了我，教会我怎么运营！</p>
+                </li>
+                <li class="stu-03">
+                    <h4>李*财</h4>
+                    <p>是红呗给了我更好的工作选择，助我成为专业的电商运营人！</p>
+                </li>
+                <li class="stu-04">
+                    <h4>周*懿 </h4>
+                    <p>在红呗，我从电商小白，成长为电商运营大神！真的很感谢红呗！</p>
+                </li>
+                <li class="stu-05">
+                    <h4>陈*晶 </h4>
+                    <p>红呗的课程设置太棒了，让我这样毫无基础的菜鸟，也能迅速成长！</p>
+                </li>
+                <li class="stu-06">
+                    <h4>曲*迪 </h4>
+                    <p>经过红呗的培训，我成功转行电商运营，并且得到了很好的工作机会，太感谢红呗了！</p>
+                </li>
+                <li class="stu-07">
+                    <h4>乔*根 </h4>
+                    <p>报名红呗电商课程是我这辈子做的最正确的决定，感谢红呗给了我一个全新的人生！</p>
+                </li>
+                <li class="stu-08">
+                    <h4>李*军 </h4>
+                    <p>如果没有红呗，我和我的网店估计早已经在激烈的竞争中被淘汰了，感谢红呗教会我如何运营！</p>
+                </li>
+                <li class="stu-09">
+                    <h4>龚*祺 </h4>
+                    <p>感谢红呗带我走上电商之路，实现了我的老板梦！</p>
+                </li>
+                <li class="stu-10">
+                    <h4>王*建 </h4>
+                    <p>红呗让我从就业困难的小透明，变成现在抢手的专业电商运营人才，感谢红呗，祝红呗越来越强，平台越做越大！</p>
+                </li>
+                <li class="stu-11">
+                    <h4>张*辉</h4>
+                    <p>短短一个月，我从一个普通人成功蜕变成网红，是红呗改变了我的人生！</p>
+                </li>
+                <li class="stu-12">
+                    <h4>廖*  </h4>
+                    <p>红呗不但成就了我的网红梦，还帮助我成功签约知名经纪公司，真的万分感谢！</p>
+                </li>
+                <li class="stu-13">
+                    <h4>宗*宇 </h4>
+                    <p>经过红呗的培训，我的粉丝从个位数到现在的四位数，而且还在增长中，这种感觉真的太好了！</p>
+                </li>
+                <li class="stu-14">
+                    <h4>陈*冬</h4>
+                    <p>如果没有遇到红呗，我估计还是一个靠辛苦钱生活的普通人，红呗的恩情，我将铭记一生！</p>
+                </li>
+                <li class="stu-15">
+                    <h4>马*勇 </h4>
+                    <p>曾经我一无是处，如今也能名利双收，是红呗帮我成为网红，是红呗给了我不一样的人生！</p>
+                </li>
+                <li class="stu-16">
+                    <h4>杨*</h4>
+                    <p>经过红呗的培训，我成了网红，收获了数万名粉丝，也结交了许多朋友，红呗让我过上了我想要的生活！</p>
+                </li>
+                <li class="stu-17">
+                    <h4>张*微 </h4>
+                    <p>我曾经以为这辈子只能在碌碌无为中度过，直到遇到红呗，我才知道我的人生还有无限的可能！</p>
+                </li>
+                <li class="stu-18">
+                    <h4>薛*慧</h4>
+                    <p>红呗的课程体系很完善，导师也很nice，一对一帮我确定了发展的方向，并成就了如今粉丝十几万，月入三万的我！</p>
+                </li>
+                <li class="stu-19">
+                    <h4>黄*英 </h4>
+                    <p>红呗平台太棒了，完善的课程体系，大咖的经验分享，让我学到了受用一生的经验！</p>
+                </li>
+                <li class="stu-20">
+                    <h4>陈*学 </h4>
+                    <p>大爱红呗！红呗帮我成为一名网红，把我热爱的舞蹈与职业相结合，生活充满激情！</p>
+                </li>
+                <li class="stu-21">
+                    <h4>邹*岳 </h4>
+                    <p>以前天天刷别人的短视频，羡慕别人的生活。在红呗培训之后，我也进入短视频的行业，收获了一群可爱的粉丝。</p>
+                </li>
+                <li class="stu-22">
+                    <h4>郭*源</h4>
+                    <p>自己摸索短视频两个月，不如在红呗的一节课！后悔浪费的两个月，也庆幸不是在半年或者一年之后再遇到红呗！</p>
+                </li>
+                <li class="stu-23">
+                    <h4>李* </h4>
+                    <p>红呗让我了解了什么是短视频，并且帮助我快速成长为一名专业的短视频达人，太感谢了</p>
+                </li>
+                <li class="stu-24">
+                    <h4>王*浩 </h4>
+                    <p>大爱红呗！红呗帮我成为一名网红，把我热爱的舞蹈与职业相结合，生活充满激情！。</p>
+                </li>
+                <li class="stu-25">
+                    <h4>池*华 </h4>
+                    <p>学会短视频制作之后，我天马星空的想法得以实现，真的感谢红呗让我能从事这么有意思的事情。</p>
+                </li>
+                <li class="stu-26">
+                    <h4>林*琪 </h4>
+                    <p>强烈推荐喜欢拍短视频的小伙伴来红呗提升一下，不仅能够学习到最新的专业知识，还可以跟大咖们学习经验，红呗真的是一个自我提升的好平台！</p>
+                </li>
+                <li class="stu-27">
+                    <h4>王*辉 </h4>
+                    <p>公司让我运营短视频的时候，简直要绝望了，还好遇到了红呗，现在公司短视频在我的运营下，粉丝5万多，我也成功晋升运营经理，红呗就是我人生的贵人！</p>
+                </li>
+                <li class="stu-28">
+                    <h4>于*普 </h4>
+                    <p>红呗让我了解了什么是短视频，并且帮助我快速成长为一名专业的短视频达人，太感谢了！</p>
+                </li>
+                <li class="stu-29">
+                    <h4>管*杰 </h4>
+                    <p>红呗的课程太赞了，一个月比我以前一年学的东西还要多，而且理论与实践相结合，很轻松就能掌握！</p>
+                </li>
+                <li class="stu-30">
+                    <h4>史*  </h4>
+                    <p>短视频策划工作真的太有意思了，看着自己的作品被大家关注，特别有成就感，谢谢红呗给我这么好的机会。</p>
+                </li>
+                <li class="stu-31">
+                    <h4>胡*杰 </h4>
+                    <p>以前自己玩短视频，觉得好难，经过红呗的培训，我也能轻松制作出上万播放量的作品，感谢红呗！</p>
+                </li>
+                <li class="stu-32">
+                    <h4>张*丹 </h4>
+                    <p>学会短视频制作之后，我天马星空的想法得以实现，真的感谢红呗让我能从事这么有意思的事情。</p>
+                </li>
+            </ul>
+        </div>
+
+    </div>
+</div>
+<div class="select-9">
+    <div class="m">
+        <div class="t-1">灵活多变的班型，<span>满足不同人群的需求</span></div>
+        <div class="t-2">NEXT different</div>
+        <div class="con">
+            <li>
+                <div class="tu"><img src="images/i8.png"></div>
+                <div class="wen">
+                    <h1>学生</h1>
+                    <p>帮助其有竞争力的踏入社会</p>
+                </div>
+            </li>
+            <li>
+                <div class="tu"><img src="images/i9.png"></div>
+                <div class="wen">
+                    <h1>求职者</h1>
+                    <p>帮助求职者脱颖而出</p>
+                </div>
+            </li>
+            <li>
+                <div class="tu"><img src="images/i10.png"></div>
+                <div class="wen">
+                    <h1>在职人士</h1>
+                    <p>满足在职人士完成职业转变</p>
+                </div>
+            </li>
+            <li>
+                <div class="tu"><img src="images/i11.png"></div>
+                <div class="wen">
+                    <h1>创业者</h1>
+                    <p style="line-height: 35px">提供创业者新职业方向的
+                        <br/>创业能力和机会</p>
+                </div>
+            </li>
+            <div class="clear"></div>
+        </div>
+    </div>
+</div>
+<div class="select-10">
+    <div class="m">
+        <div class="t-1"><img src="images/i16.png"></div>
+        <div class="t-2">直播教学云平台<strong>引领在线教育革命</strong></div>
+        <div class="t-3">直播为王！LinkBox 2.0直播教学云平台确保获得极致的在线学习体验</div>
+        <div class="con">
+            <li>
+                <div class="tu"><img src="images/i12.png"></div>
+                <div class="wen">
+                    <p>现场体验感逼真现场感体验验流畅无延时定制和切换多角度上课视频回看复习实时录制课程</p>
+                </div>
+            </li>
+            <li>
+                <div class="tu"><img src="images/i13.png"></div>
+                <div class="wen">
+                    <p>课后反复回看师生交互在线你问我答，老师和学生进行“0距离”实时互动</p>
+                </div>
+            </li>
+            <li>
+                <div class="tu"><img src="images/i14.png"></div>
+                <div class="wen">
+                    <p>“直播”时代LinkBox 2.0直播教学云平台，历时多年倾力研发的实时在线教育系统</p>
+                </div>
+            </li>
+            <li>
+                <div class="tu"><img src="images/i15.png"></div>
+                <div class="wen">
+                    <p>在国内引领全流程“直播”教学模式，确保学员获得极致的在线学习体验</p>
+                </div>
+            </li>
+            <div class="clear"></div>
+        </div>
+        <a href="https://tb.53kf.com/code/client/10187293/4" class="more" target="_blank">进一步了解LinKBox 2.0　> </a>
+    </div>
+</div>
+<div class="select-11 m">
+    <div class="t-1">实拍<strong>LinkBox 2.0直播室</strong></div>
+    <div class="con">
+        <div class="tu-1 lf"><img src="images/x-7.jpg"></div>
+        <div class="tu-2 rt">
+            <li><img src="images/x-8.jpg"></li>
+            <li><img src="images/x-9.jpg"></li>
+            <li><img src="images/x-10.jpg"></li>
+            <li><img src="images/x-11.jpg"></li>
+            <div class="clear"></div>
+        </div>
+        <div class="clear"></div>
+    </div>
+    <div class="t-2">通过系统共享工具进入逼真的应用实验环境操作场景</div>
+    <a href="https://tb.53kf.com/code/client/10187293/4" class="more" target="_blank">点击申请LinKBox 2.0 试听　> </a>
+</div>
+<!--<div class="select-12">
+    <div class="m">
+        <div class="t-1">立即申请：<span>免费体验名额</span></div>
+        <div class="t-2">即将开班 名额有限 火热预定中</div>
+        <div class="con">
+            <form action="" method="post">
+                <input type="text" placeholder="姓名" class="s1" />
+                <input type="text" placeholder="手机" class="s2" />
+                <a href="https://tb.53kf.com/code/client/10187293/4" class="m1" target="_blank">咨询更多</a><a href="https://tb.53kf.com/code/client/10187293/4" class="m2" target="_blank">立即抢占</a>
+                <div class="clear"></div>
+            </form>
+        </div>
+    </div>
+</div>-->
+
+
+<div class="foot">
+    <div class="m">
+        <p>Powered by 杭州图播零教育科技有限公司@2002-2019</p>
+        <p>浙ICP备19005506号-2</p>
+    </div>
+</div>
+
+
+<!--置顶按钮-->
+<a id="scrollUp" href="#top" style="position: fixed; z-index: 2147483647;display: none"></a>
+
+<script type="text/javascript" src="js/bootstrap.min.js"></script>
+<script type="text/javascript" src="js/bootsnav.js"></script>
+
+<script>
+
+    $(".infoList>li").mouseover(function () {
+        // $(this).addClass("active").siblings().removeClass("active");
+        var index = $(this).index();
+        $(".com-1>li").eq(index).show().siblings().hide();
+    })
+
+
+    $(".stu-main>li").eq(0).show().siblings().hide();
+    $(".xueyuan>li").mouseover(function () {
+        $(this).addClass("tea-active").siblings().removeClass("tea-active");
+        var index = $(this).index();
+        $(".stu-main>li").eq(index).show().siblings().hide();
+    })
+
+
+    //置顶按钮
+    $(function() {
+        $.scrollUp({
+            scrollName : "scrollUp",
+            topDistance : "300",
+            topSpeed : 300,
+            animation : "slide",
+            animationInSpeed : 200,
+            animationOutSpeed : 200,
+            scrollText:'<i class="fa fa-angle-up"></i>'
+    });
+    });
+
+</script>
+
+
+</body>
+</html>

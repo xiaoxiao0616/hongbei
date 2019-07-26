@@ -1,0 +1,60 @@
+/*页面通用部分*/.
+.box_In{width: 94%;margin: 0 auto;}
+img{display: block;width: 100%;margin-top: -1px;}
+.hd{position: relative;}
+.hd h2{width: 100%;color: #eb1157;font-size: 1.6em;top: 0;left:0;text-align:center; font-weight: 500}
+.hd h4{width: 100%;color: #000000;font-size: 1em;top: 0;left:0;text-align:center;line-height: 1.8em; }
+.btn{background: #8344d6;color: #fff;font-size: 1.1em;width: 60%;display: block;margin: 6% auto 0; text-align: center;
+padding: 2% 0;border-radius: 3px;}
+.box4 .btn{margin: 3% auto;width: 40%;}
+.box4{padding-bottom: 3%;}
+
+/*box1页面开始*/
+.banner{ width: 100%}
+.banner img{width: 100%}
+.box1{background:#ffffff; background-size: 100%;}
+.box1 ul{margin-top:5%;width: 100%;}
+.box1 ul li{border: 1px solid red;border-radius: 5px;margin-top: 5%;position: relative;color: #fff;padding: 4% 0;}
+.box1 ul li span{position: absolute;top:-15%;left: 2%; padding:3% 6% 3.8%;background: #CB3B45;border-radius: 5px;font-size: 1.2em;}
+.box1 ul li .span3{ padding:5% 6%  5.8%;}
+.box1 ul li p{font-size: 1em;margin-left: 32%;padding-right: 2%;}
+
+.box2 {padding: 2% 7%;position: relative}
+.box2 .left_content{width:50%;position: absolute;top:2%;left: 0;}
+
+.box2 .right_img{width:50%;position: absolute;right: 0;top:0;}
+.box2 .right_img img{width: 100%;height: auto}
+.box3{background: url("../images/8.png") #f3f2f2 no-repeat center center;background-size: cover; height: 56vw;padding: 5% auto;margin-top: 10px}
+.footer{background: #110513;height: 10vw;font-size: 1em;text-align: center;line-height:10vw;color: #FFFFFF}
+
+
+
+@media screen and (max-width: 320px){
+    body{font-size: .9rem}
+    .box7 ul li .p1{font-size: .7em;}   
+}  
+@media screen and (min-width: 412px) and (max-width: 414px){
+	.hd h2{line-height: 2em;height: 2em;}
+	.box2  .top p{padding: 1.5% 0;}
+    }
+
+
+
+/*大屏幕*/
+@media screen and (min-width: 750px) {
+    body{font-size: 1.5rem}
+    .ban img,.box2,.box5,.box7{margin-top: -1px;}
+    .hd h2{font-size: 1.6em;height: 2em;line-height: 2em;}
+    .box1 ul li{border-radius: 10px;}
+    .box1 ul li span{border-radius: 10px;}
+    .box1 ul li .span4{padding:3% 6%;}
+    .box1 ul li p{margin-left: 28%;}
+    .box3 ul li .btm{padding:10% 15%;}
+    .box4 .p1{padding:5% 8% 0;}
+    .box7 ul li a{bottom:7%;}
+    .box2  .top p{font-size: 1.8em;padding: 1% 0;}
+     #iframes{height: 395px;margin-top: -1%;}
+     .btn{width: 45%;border-radius: 3px;}
+     .bdzx{height: 3.2em; left: 50%; margin-left: -375px;}
+	 .bdzx a{font-size: 1.3em;} 
+}	
